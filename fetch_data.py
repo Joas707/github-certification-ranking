@@ -24,10 +24,15 @@ def get_all_countries():
 
 def fetch_country_data(country):
     """Fetch data for a single country using cert-github.sh"""
+    # Larger countries need more time
+    large_countries = ['Brazil', 'India', 'United States', 'China', 'Germany', 
+                       'United Kingdom', 'France', 'Canada', 'Japan']
+    timeout = 900 if country in large_countries else 120  # 15 minutes for large countries
+    
     try:
         result = subprocess.run(
             ['./cert-github.sh', country],
-            timeout=120,
+            timeout=timeout,
             capture_output=True,
             text=True
         )
@@ -37,7 +42,7 @@ def fetch_country_data(country):
         else:
             return (country, 'failed', f"Exit code: {result.returncode}")
     except subprocess.TimeoutExpired:
-        return (country, 'failed', 'Timeout (120s)')
+        return (country, 'failed', f'Timeout ({timeout}s)')
     except Exception as e:
         return (country, 'failed', str(e))
 
