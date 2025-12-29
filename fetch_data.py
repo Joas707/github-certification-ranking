@@ -16,7 +16,7 @@ from datetime import datetime
 from generate_rankings import CONTINENT_MAP
 
 METADATA_FILE = 'csv_metadata.json'
-IGNORED_COUNTRIES = ['India']  # Temporarily ignore these countries
+IGNORED_COUNTRIES = []  # Temporarily ignore these countries
 DATASOURCE_DIR = 'datasource'
 
 def get_all_countries():
