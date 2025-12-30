@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - World
 
-> Last updated: December 29, 2025 at 23:42 UTC
+> Last updated: December 30, 2025 at 00:53 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -14,16 +14,16 @@
 |    #6 | Marco Celon | 12 | Australia |
 |    #7 | Sujith Quintelier | 12 | Belgium |
 |    #8 | Andre Dias | 11 | Brazil |
-|    #9 | John Wildes | 11 | United States |
-|    #10 | Konrad Dunikowski | 11 | Poland |
+|    #9 | stephie Mercy | 11 | India |
+|    #10 | John Wildes | 11 | United States |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 14,869
-- **Total Badges Earned**: 19,071
-- **Average Badges per User**: 1.28
+- **Total Certified Users**: 24,869
+- **Total Badges Earned**: 30,748
+- **Average Badges per User**: 1.24
 - **Highest Badge Count**: 14
 
 ---

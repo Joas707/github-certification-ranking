@@ -1,30 +1,30 @@
 # 🌏 TOP 10 GitHub Certifications - Asia
 
-> Last updated: December 29, 2025 at 23:42 UTC
+> Last updated: December 30, 2025 at 00:53 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Country |
 |------|------|--------|---------|
-| 🥇 #1 | Yuki Hattori | 6 | Japan |
-| 🥈 #2 | Akitaka Shinba | 6 | Japan |
-| 🥉 #3 | Han Lin | 5 | Taiwan |
-|    #4 | Ofek Ben Eliezer | 5 | Israel |
-|    #5 | Jonatan Nataniel Kruszewski | 5 | Israel |
-|    #6 | Loo Chee Heong | 5 | Malaysia |
-|    #7 | Atil Eren Sensalduz | 5 | Turkey |
-|    #8 | Taichi Emura | 5 | Japan |
-|    #9 | Yevhen Fabizhevskyi | 5 | Japan |
-|    #10 | Hirofumi Horikawa | 5 | Japan |
+| 🥇 #1 | stephie Mercy | 11 | India |
+| 🥈 #2 | Ramesh Kumar Dasari | 9 | India |
+| 🥉 #3 | Niranjana K | 7 | India |
+|    #4 | Rajesh C N | 6 | India |
+|    #5 | NIKHIL GOWDA N | 6 | India |
+|    #6 | Hoysala Garudanagiri | 6 | India |
+|    #7 | Santhosh NC | 6 | India |
+|    #8 | Yuki Hattori | 6 | Japan |
+|    #9 | Akitaka Shinba | 6 | Japan |
+|    #10 | Vijay . | 5 | India |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 2,186
-- **Total Badges Earned**: 2,595
-- **Average Badges per User**: 1.19
-- **Highest Badge Count**: 6
+- **Total Certified Users**: 12,186
+- **Total Badges Earned**: 14,272
+- **Average Badges per User**: 1.17
+- **Highest Badge Count**: 11
 
 ---
 
