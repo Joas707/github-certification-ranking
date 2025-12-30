@@ -72,7 +72,7 @@ CONTINENT_MAP = {
     'djibouti': 'Africa', 'egypt': 'Africa', 'equatorial guinea': 'Africa',
     'eritrea': 'Africa', 'eswatini': 'Africa', 'ethiopia': 'Africa',
     'gabon': 'Africa', 'gambia': 'Africa', 'ghana': 'Africa',
-    'guinea': 'Africa', 'guinea-bissau': 'Africa', 'guinea bissau': 'Africa',
+    'guinea': 'Africa', 'guinea-bissau': 'Africa',
     'ivory coast': 'Africa', 'kenya': 'Africa', 'lesotho': 'Africa', 'liberia': 'Africa',
     'libya': 'Africa', 'madagascar': 'Africa', 'malawi': 'Africa',
     'mali': 'Africa', 'mauritania': 'Africa', 'mauritius': 'Africa',
