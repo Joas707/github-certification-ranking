@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - World
 
-> Last updated: January 06, 2026 at 01:43 UTC
+> Last updated: January 06, 2026 at 21:15 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -8,21 +8,21 @@
 |------|------|--------|---------|
 | 🥇 #1 | Rob Bos | 14 | Netherlands |
 | 🥈 #2 | Andre Dias | 13 | Brazil |
-| 🥉 #3 | Olivier Delmotte | 13 | France |
-|    #4 | stephie Mercy | 12 | India |
-|    #5 | Christos Galanopoulos | 12 | Greece |
-|    #6 | Daniel Koch | 12 | United States |
-|    #7 | Nico Orschel | 12 | Germany |
-|    #8 | Marco Celon | 12 | Australia |
-|    #9 | Sujith Quintelier | 12 | Belgium |
-|    #10 | John Wildes | 11 | United States |
+| 🥈     | Olivier Delmotte | 13 | France |
+|    #4 | Christos Galanopoulos | 12 | Greece |
+|        | Daniel Koch | 12 | United States |
+|        | Magnus Timner | 12 | Sweden |
+|        | Marco Celon | 12 | Australia |
+|        | Nico Orschel | 12 | Germany |
+|        | stephie Mercy | 12 | India |
+|        | Sujith Quintelier | 12 | Belgium |
 
 ---
 
 ## 📊 Statistics
 
 - **Total Certified Users**: 24,871
-- **Total Badges Earned**: 30,758
+- **Total Badges Earned**: 30,789
 - **Average Badges per User**: 1.24
 - **Highest Badge Count**: 14
 
