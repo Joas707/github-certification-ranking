@@ -15,9 +15,9 @@
 | Region | Ranking | Description |
 |--------|---------|-------------|
 | 🇧🇷 | [**TOP 10 Brazil**](TOP10_BRAZIL.md) | Top certified professionals in Brazil |
-| 🌎 | [**TOP 10 Americas**](TOP10_AMERICAS.md) | Leaders across North, Central & South America |
+| 🗽 | [**TOP 10 Americas**](TOP10_AMERICAS.md) | Leaders across North, Central & South America |
 | 🇪🇺 | [**TOP 10 Europe**](TOP10_EUROPE.md) | Top performers in European countries |
-| 🌏 | [**TOP 10 Asia**](TOP10_ASIA.md) | Asian region certification leaders |
+| 🏯 | [**TOP 10 Asia**](TOP10_ASIA.md) | Asian region certification leaders |
 | 🌊 | [**TOP 10 Oceania**](TOP10_OCEANIA.md) | Australia, New Zealand & Pacific islands |
 
 ### 🌍 Global Ranking
