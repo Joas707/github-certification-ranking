@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: January 14, 2026 at 17:20 UTC
+> Last updated: January 14, 2026 at 18:03 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -13,7 +13,7 @@
 | #5 | [Magnus Timner](https://www.credly.com/users/magnus-timner.ddd6329c/badges) | 12 | Solidify Eficode | Sweden |
 |  | [Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 12 | Xpirit Germany GmbH | Germany |
 |  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 12 | Xebia | Belgium |
-| #8 | [Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges) | 11 |  | Poland |
+| #8 | [Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges) | 11 | Transition Technologies PSC | Poland |
 | #9 | [Hendrik Bruinsma](https://www.credly.com/users/hbruinsma/badges) | 9 | Xebia | Netherlands |
 | #10 | [Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges) | 8 | Solidify AB | Estonia |
 |  | [Samuel Henrique van Lenthe](https://www.credly.com/users/samuel-henrique-van-lenthe/badges) | 8 | GitHub | Netherlands |

@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: January 14, 2026 at 17:19 UTC
+> Last updated: January 14, 2026 at 18:03 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -10,9 +10,9 @@
 | 🥈 #2 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 8 | Avanade | Brazil |
 | 🥉 #3 | [Danilo Perez](https://www.credly.com/users/daniloperez/badges) | 7 |  | Brazil |
 |  | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 7 | Avanade | Brazil |
-| #5 | [Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges) | 6 |  | Brazil |
+| #5 | [Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges) | 6 | Avanade | Brazil |
 |  | [Mateus Lenhart](https://www.credly.com/users/mateus-lenhart/badges) | 6 |  | Brazil |
-| #7 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 5 | Avanade Brasil | Brazil |
+| #7 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 5 | Avanade | Brazil |
 |  | [Beatriz Matsui](https://www.credly.com/users/beatriz-matsui/badges) | 5 | Microsoft | Brazil |
 |  | [Christiano Martins Milfont Almeida](https://www.credly.com/users/cmilfont/badges) | 5 | Accenture | Brazil |
 |  | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 5 |  | Brazil |
