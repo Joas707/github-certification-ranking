@@ -32,7 +32,6 @@ jobs:
         timeout-minutes: 700  # Limit data fetching to ~11.5 hours
         run: |
           mkdir -p datasource
-          chmod +x cert-github.sh
           chmod +x fetch_data.py
           python3 fetch_data.py
       

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Fetch GitHub Certifications data for all countries
-Runs cert-github.sh in parallel for all countries in CONTINENT_MAP
+Runs fetch_country.py (or fetch_large_country.py for large datasets) in parallel for all countries in CONTINENT_MAP
 """
 
 import json
@@ -53,7 +53,7 @@ def get_csv_filename(country):
     return f'{DATASOURCE_DIR}/github-certs-{file_suffix}.csv'
 
 def fetch_country_data(country, metadata):
-    """Fetch data for a single country using cert-github.sh or parallel script"""
+    """Fetch data for a single country using fetch_country.py or fetch_large_country.py"""
     csv_file = get_csv_filename(country)
     
     # Use parallel script for large countries (>100 pages = ~800 users)

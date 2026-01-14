@@ -78,8 +78,8 @@ You can manually trigger the rankings generation:
 
 ```bash
 # Fetch data for a single country
-./cert-github.sh "Brazil"
-./cert-github.sh "United States"
+python3 fetch_country.py "Brazil"
+python3 fetch_country.py "United States"
 ```
 
 ### Fetch Data for All Countries
@@ -118,7 +118,7 @@ python3 generate_rankings.py
 │   └── ... (190+ country files)
 ├── images/
 │   └── github-octocat.jpg             # Project image
-├── cert-github.sh                     # Single country data fetcher
+├── fetch_country.py                   # Single country data fetcher
 ├── fetch_data.py                      # Parallel fetcher for all countries
 ├── fetch_large_country.py             # Optimized fetcher for large countries
 ├── generate_rankings.py               # Main ranking generator
