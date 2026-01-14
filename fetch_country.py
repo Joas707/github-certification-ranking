@@ -10,6 +10,7 @@ import json
 import os
 import sys
 import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 
 def fetch_github_external_badges(user_id):
@@ -58,13 +59,6 @@ def fetch_country_data(country):
             if not users:
                 break
             
-            # For each user, add external badges count
-            for user in users:
-                user_id = user.get('id')
-                if user_id:
-                    external_count = fetch_github_external_badges(user_id)
-                    user['badge_count'] = user.get('badge_count', 0) + external_count
-            
             all_users.extend(users)
             print(f"  Page {page}: {len(users)} users")
             page += 1
@@ -72,6 +66,36 @@ def fetch_country_data(country):
         except Exception as e:
             print(f"  Error on page {page}: {e}")
             break
+    
+    # Now fetch external badges in parallel for all users
+    if all_users:
+        print(f"  Fetching external badges for {len(all_users)} users...")
+        user_external_counts = {}
+        
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            future_to_user = {
+                executor.submit(fetch_github_external_badges, user.get('id')): user.get('id')
+                for user in all_users if user.get('id')
+            }
+            
+            completed = 0
+            for future in as_completed(future_to_user):
+                user_id = future_to_user[future]
+                try:
+                    external_count = future.result()
+                    user_external_counts[user_id] = external_count
+                    completed += 1
+                    if completed % 50 == 0:
+                        print(f"    Progress: {completed}/{len(all_users)} users")
+                except Exception:
+                    user_external_counts[user_id] = 0
+        
+        # Add external badge counts to users
+        for user in all_users:
+            user_id = user.get('id')
+            if user_id:
+                external_count = user_external_counts.get(user_id, 0)
+                user['badge_count'] = user.get('badge_count', 0) + external_count
     
     return all_users
 
