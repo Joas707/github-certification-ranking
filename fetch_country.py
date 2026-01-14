@@ -115,17 +115,14 @@ def main():
     
     users = fetch_country_data(country)
     
-    if users:
-        save_to_csv(country, users)
-        print()
-        print("=" * 80)
-        print(f"✅ Success! Downloaded {len(users)} users")
-        print(f"Completed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-        print("=" * 80)
-        sys.exit(0)
-    else:
-        print("❌ No users found")
-        sys.exit(1)
+    # Always save CSV, even if empty (to maintain consistency)
+    save_to_csv(country, users)
+    print()
+    print("=" * 80)
+    print(f"✅ Success! Downloaded {len(users)} users")
+    print(f"Completed at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print("=" * 80)
+    sys.exit(0)
 
 if __name__ == "__main__":
     main()
