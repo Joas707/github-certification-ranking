@@ -1,6 +1,6 @@
 # 🌊 TOP 10 GitHub Certifications - Oceania
 
-> Last updated: January 16, 2026 at 18:42 UTC
+> Last updated: January 17, 2026 at 00:53 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
