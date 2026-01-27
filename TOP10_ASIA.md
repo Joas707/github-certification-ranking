@@ -1,17 +1,18 @@
 # 🌏 TOP 10 GitHub Certifications - Asia
 
-> Last updated: January 27, 2026 at 19:09 UTC
+> Last updated: January 27, 2026 at 19:35 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Ramesh Kumar Dasari](https://www.credly.com/users/ramesh-kumar.6071340e/badges) | 12 |  | India |
-| 🥈 #2 | [Emre Ozan Memis](https://www.credly.com/users/emre-ozan-memis/badges) | 10 |  | Turkey |
-| 🥉 #3 | [Hoysala Garudanagiri](https://www.credly.com/users/hoysala-garudanagiri/badges) | 9 | Canarys Automations Limited | India |
-| #4 | [Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges) | 8 | Xebia | India |
-| #5 | [Niranjana K](https://www.credly.com/users/niranjana-koni/badges) | 7 |  | India |
-| #6 | [Adithya MS](https://www.credly.com/users/adithya-ms.f90708a6/badges) | 6 |  | India |
+| 🥇 #1 | [stephie Mercy](https://www.credly.com/users/stephie-mercy/badges) | 14 | Ivalue Infosolutions Limited | India |
+| 🥈 #2 | [Ramesh Kumar Dasari](https://www.credly.com/users/ramesh-kumar.6071340e/badges) | 12 |  | India |
+| 🥉 #3 | [Emre Ozan Memis](https://www.credly.com/users/emre-ozan-memis/badges) | 10 |  | Turkey |
+| #4 | [Hoysala Garudanagiri](https://www.credly.com/users/hoysala-garudanagiri/badges) | 9 | Canarys Automations Limited | India |
+| #5 | [Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges) | 8 | Xebia | India |
+| #6 | [Niranjana K](https://www.credly.com/users/niranjana-koni/badges) | 7 |  | India |
+| #7 | [Adithya MS](https://www.credly.com/users/adithya-ms.f90708a6/badges) | 6 |  | India |
 |  | [Akitaka Shinba](https://www.credly.com/users/akitaka-shinba/badges) | 6 | オルターブース | Japan |
 |  | [Nagaraj Bhairaji](https://www.credly.com/users/nagaraj-bhairaji/badges) | 6 |  | India |
 |  | [NIKHIL GOWDA N](https://www.credly.com/users/nikhil-gowda-n/badges) | 6 |  | India |
@@ -22,10 +23,10 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,074
-- **Total Badges Earned**: 14,167
-- **Average Badges per User**: 1.17
-- **Highest Badge Count**: 12
+- **Total Certified Users**: 12,187
+- **Total Badges Earned**: 14,321
+- **Average Badges per User**: 1.18
+- **Highest Badge Count**: 14
 
 ---
 

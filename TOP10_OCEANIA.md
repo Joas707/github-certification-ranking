@@ -1,40 +1,39 @@
 # 🌊 TOP 10 GitHub Certifications - Oceania
 
-> Last updated: January 27, 2026 at 19:09 UTC
+> Last updated: January 27, 2026 at 19:35 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Ben Hollamby](https://www.credly.com/users/ben-hollamby/badges) | 5 |  | New Zealand |
+| 🥇 #1 | [Marco Celon](https://www.credly.com/users/marco-celon.53bc8019/badges) | 13 | GitHub | Australia |
+| 🥈 #2 | [Ben Hollamby](https://www.credly.com/users/ben-hollamby/badges) | 5 |  | New Zealand |
 |  | [Hao Chen](https://www.credly.com/users/hao-chen.c4b252a3/badges) | 5 |  | New Zealand |
 |  | [Jerome Brown](https://www.credly.com/users/owretch/badges) | 5 | Mantel Group | New Zealand |
-| #4 | [Matt Duguid](https://www.credly.com/users/mattduguid/badges) | 4 | Self | New Zealand |
+|  | [Maxim Mazurok](https://www.credly.com/users/maxim-mazurok/badges) | 5 | WiseTech Global | Australia |
+|  | [Sebastian Peter](https://www.credly.com/users/sebastian-peter/badges) | 5 | Tata Consultancy Services | Australia |
+|  | [Stuart Eggerton](https://www.credly.com/users/stuart-eggerton/badges) | 5 |  | Australia |
+| #8 | [Andre Kolodochka](https://www.credly.com/users/andre-kolodochka/badges) | 4 |  | Australia |
+|  | [Jesse Loudon](https://www.credly.com/users/jesseloudon/badges) | 4 |  | Australia |
+|  | [Jiayi Qin](https://www.credly.com/users/jiayi-qin.b8b33e2c/badges) | 4 |  | Australia |
+|  | [Jolan Hu](https://www.credly.com/users/jolan-hu/badges) | 4 |  | Australia |
+|  | [Khurram Shahzad](https://www.credly.com/users/khurram-shahzad.7a11d163/badges) | 4 | Commonwealth Bank of Australia | Australia |
+|  | [Madhav Lakshminarayanan](https://www.credly.com/users/madhav-lakshminarayanan/badges) | 4 | Microsoft | Australia |
+|  | [Matt Duguid](https://www.credly.com/users/mattduguid/badges) | 4 | Self | New Zealand |
+|  | [Ronald Pai](https://www.credly.com/users/ronald-pai.e3e25b98/badges) | 4 |  | Australia |
+|  | [Sayali Chavan](https://www.credly.com/users/sayali-chavan.46e2379d/badges) | 4 |  | Australia |
+|  | [shruti Singh](https://www.credly.com/users/shruti-singh.4e3d422a/badges) | 4 |  | Australia |
 |  | [Susmitha Banda](https://www.credly.com/users/susmitha-banda.8e9506ea/badges) | 4 |  | Australia |
-| #6 | [Ayodeji Ayodele](https://www.credly.com/users/ayodejiayodele/badges) | 3 |  | Australia |
-|  | [Gabriel Adriano](https://www.credly.com/users/gabriel-adriano.f68eb55e/badges) | 3 |  | Australia |
-|  | [Tim Jacomb](https://www.credly.com/users/tim-jacomb/badges) | 3 |  | New Zealand |
-| #9 | [AJ Bajada](https://www.credly.com/users/aj-bajada/badges) | 2 |  | Australia |
-|  | [Andrei Mahalean](https://www.credly.com/users/andrei-mahalean/badges) | 2 |  | New Zealand |
-|  | [Clint Eccleshall](https://www.credly.com/users/clint-eccleshall/badges) | 2 |  | New Zealand |
-|  | [Cristopher Germuts](https://www.credly.com/users/cristopher-germuts/badges) | 2 |  | New Zealand |
-|  | [Igor Petronio Costa Curcino](https://www.credly.com/users/igor-petronio-costa-curcino.d6e8281e/badges) | 2 | GitHub | New Zealand |
-|  | [James Bannan](https://www.credly.com/users/james-bannan/badges) | 2 |  | Australia |
-|  | [Jorge Arias](https://www.credly.com/users/jorge-arias.9a16e7f2/badges) | 2 |  | Australia |
-|  | [Joshua Beverley](https://www.credly.com/users/joshua-beverley.786ffa13/badges) | 2 |  | Australia |
-|  | [Julian Simpson](https://www.credly.com/users/julian-simpson.3b804974/badges) | 2 |  | New Zealand |
-|  | [Matthew Tester](https://www.credly.com/users/matthew-tester/badges) | 2 |  | New Zealand |
-|  | [Roger Chen](https://www.credly.com/users/roger-chen.60d4af13/badges) | 2 | Lab3 | New Zealand |
-|  | [Samuel Brooker](https://www.credly.com/users/samuel-brooker/badges) | 2 |  | Australia |
+|  | [Viet Luu](https://www.credly.com/users/viet-luu.28e619f2/badges) | 4 |  | Australia |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 114
-- **Total Badges Earned**: 150
-- **Average Badges per User**: 1.32
-- **Highest Badge Count**: 5
+- **Total Certified Users**: 583
+- **Total Badges Earned**: 797
+- **Average Badges per User**: 1.37
+- **Highest Badge Count**: 13
 
 ---
 
