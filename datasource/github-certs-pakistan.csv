@@ -1,7 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Zeeshan,,.,1,/users/zeeshan.819bc2be/badges
 MUHAMMAD,,AHMAR ABEED KHAN,1,/users/muhammad-ahmar-abeed-khan/badges
-Muhammad,,Abdullah Khan,1,/users/muhammad-abdullah-khan.f904c0be/badges
+Muhammad,,Abdullah Khan,0,/users/muhammad-abdullah-khan.f904c0be/badges
 Ahmed,,Abdullah,2,/users/ahmad-abdullah.191fc3e3/badges
 Muhammad,,Abdullah,1,/users/muhammad-abdullah.3b327f40/badges
 Muhammad,,Abdullah,1,/users/muhammad-abdullah.43e178a4/badges
@@ -22,7 +22,7 @@ Suhail,,Ahmed,1,/users/suhail-ahmed-jatoi.00ee9c63/badges
 Umair,,Ahmed,1,/users/umair-ahmed.d19f1d77/badges
 Zulqarnain,,Ahmed,1,/users/zulqarnain-ahmed.07/badges
 Sheikh Maaz,,Akbar,1,/users/sheikh-maaz-akbar/badges
-Waseem,,Akram,1,/users/wasii/badges
+Waseem,,Akram,0,/users/wasii/badges
 Hafiz Ahtasham,,Alam,1,/users/hafiz-ahtasham-alam/badges
 Asghar,,Ali,1,/users/asghar-ali.31723580/badges
 Hassaan,,Ali,1,/users/hassaan-ali.248eaa05/badges
@@ -73,7 +73,7 @@ Husnain,,Islam,1,/users/husnain-islam/badges
 Haider,,Ittefaq,1,/users/haider-ittefaq/badges
 Hassan Zaib,,Jadoon,1,/users/hassan-zaib-jadoon/badges
 Usama,,Jameel,1,/users/usama-jameel.7092baac/badges
-Muhammad Hamad,,Jamil,2,/users/muhammad-hamad-jamil.c532bab5/badges
+Muhammad Hamad,,Jamil,0,/users/muhammad-hamad-jamil.c532bab5/badges
 Muhammad Hamad,,Jamil,1,/users/muhammad-hamad-jamil.d5bce5bb/badges
 Motabar,,Javaid,1,/users/motabar-javaid/badges
 Muhammad Azhar,,Javaid,1,/users/muhammad-azhar-javaid/badges
@@ -103,85 +103,3 @@ Zawiyar,,Manzil,1,/users/zawiyar-manzil/badges
 Mursal,,Mateen,1,/users/mursal-mateen/badges
 Hamza,,Mehmood,1,/users/hamza-mehmood.3138da2e/badges
 Ossama,,Mehmood,1,/users/ossamamehmood/badges
-Kanza,,Muhammad Akram,1,/users/kanza-muhammad-akram.99a045bb/badges
-Muhammad,Samiullah,Munir,1,/users/muhammad-samiullah.4c8908f1/badges
-Mudasir,,Murtaza,1,/users/mudasir-murtaza12/badges
-Mian Muhammad,,Musharraf,1,/users/mian-muhammad-musharraf/badges
-Abdul Rehman,,Mustafa,1,/users/abdul-rehman-mustafa.d99ed547/badges
-Rana,,Muzzamil,1,/users/rana-muzzamil.8dae283f/badges
-Maiz,,N.,1,/users/muhammad-maiz-nadeem/badges
-M.Khaqan,,Nasir,1,/users/m-khaqan-nasir/badges
-Yasir,,Nawaz,1,/users/sudoyasir/badges
-Farhood,,Nishat,1,/users/farhood-nishat/badges
-Sarah,,Noor,1,/users/sarah-noor.f77f1852/badges
-Muhammad,,Nouman,1,/users/muhammad-nouman.cef88226/badges
-Muhammad,,Owais,1,/users/muhammad-owais.1dc8b67d/badges
-Muhammad,,Owais,1,/users/muhammad-owais.db7df8a4/badges
-Ibrar,Ahmed,Pervaiz,1,/users/ibrar-ahmed.d3d1f182/badges
-Abdul,,Qadeer,1,/users/abdul-qadeer.81e4ec8a/badges
-Muhammad,,Qaseem,1,/users/muhammad-caseem/badges
-Ahsan Jamshed,,Qureshi,1,/users/ahsan-jamshed-qureshi.b3dcbff6/badges
-Muhammad,,Qureshi,1,/users/saimqureshi656/badges
-Hammad,Azam,Raees,1,/users/hammad-raees/badges
-Abdul,,Raheem,1,/users/abdul-raheem.c4fe40e3/badges
-Aqib,Ur,Rahman,1,/users/aqib-ur-rahman/badges
-M Talha,,Rashid,2,/users/m-talha-rashid/badges
-Ahmad,,Raza,1,/users/ahmad-raza.82836862/badges
-Ahsan,,Raza,1,/users/ahsan-raza.168161d3/badges
-Ali,,Raza,1,/users/ali-raza.259baa3a/badges
-Ajmal,,Razaq,1,/users/ajmal-razaq/badges
-Muhammad,,Rebaal,1,/users/muhammad-rebaal/badges
-Abdul,,Rehan,1,/users/rehan-najam/badges
-Abdul,,Rehman,1,/users/abdul-rehman.d573c38f/badges
-Abdul,,Rehman,1,/users/abdul_rehman/badges
-Abdul,,Rehman,1,/users/abdulrehman0/badges
-Shahzal,,Rehman,1,/users/shahzal-rehman/badges
-Abubakar,,Riaz,2,/users/abubakar-riaz.3fbf99c4/badges
-Nawal,,Sajid,1,/users/nawal-sajid/badges
-Awais,,Saleem,1,/users/awais-saleem.6c086db0/badges
-Hasnain,,Saleem,1,/users/hasnain-saleem.5e64e762/badges
-Muhammad Naseh,,Salman,1,/users/muhammad-naseh-salman/badges
-Sunny,,Shaban Ali,1,/users/sunnyallana/badges
-Muhammad Hamza,,Shabbir,1,/users/mhamza-shabbir/badges
-Junaid,,Shahzad,1,/users/junaid-shahzad.5ae9c626/badges
-Muhammed,Faisal,Shahzad,1,/users/faisal-shahzad.c6991115/badges
-Mohib,,Shaikh,1,/users/mohib-shaikh/badges
-Laiba,,Shakil,1,/users/laibashakil/badges
-Adil,,Shehzad,1,/users/adilshehzad/badges
-Usman,,Sheikh,2,/users/usman-sheikh.e360f868/badges
-Salman,,Shoukat,1,/users/salman-shoukat.1e084103/badges
-Hassam,,Sohail,1,/users/hassam-sohail.d3c383be/badges
-Muhammad,,Sufyan,1,/users/muhammad-sufyan.dc41bf19/badges
-Daud,,Suleman,1,/users/daud-suleman.9926007b/badges
-Muhammad,,Suleman,1,/users/muhammad-suleman.ba61a2f6/badges
-Haseeb,,Sultan,3,/users/haseeb-sultan.ea3bdf9f/badges
-Taha,,Sumeer,1,/users/taha-sumeer/badges
-Soban,,Talha,1,/users/soban-talha/badges
-Muhammad,,Taqui,1,/users/muhammad-taqui/badges
-Muhammad Adnan,,Tariq,1,/users/adnaan_tariq/badges
-Suhaib,,Tariq,2,/users/muhammad-suhaib.e3ec2c82/badges
-ZAFRAN,,ULLAH,1,/users/zafranullah/badges
-Noor,,Ul Baseer,1,/users/noor-ul-baseer/badges
-Farid,,Ullah,1,/users/farid-ullah.89172bc5/badges
-Malik,,Umair,1,/users/malik-umair.d5e1f241/badges
-Muhammad,,Umer,1,/users/muhammad-umer.68748f16/badges
-Mujeeb,,Ur Rehman,1,/users/mujeeb-ur-rehman.5f90b53d/badges
-Shams,,Ur Rehman,1,/users/shams-ur-rehmann/badges
-Muhammad,,Usman,1,/users/muhammad-usman.52805dea/badges
-Muhammad,,Usman,1,/users/matrixusman/badges
-Muhammad,,Usman,1,/users/muhammad-usman.45ab38f5/badges
-Muhammad,,Usman,1,/users/usman2789/badges
-UZAIR,,WAHEED ANJUM,1,/users/uzair-waheed-anjum/badges
-Hashaam,,Zahid,1,/users/hashaam.zahid/badges
-Muhammad,,Zia Un Nabi,1,/users/iamrlz/badges
-Muhammad Abuzer,,Zia,1,/users/muhammad-abuzer-zia/badges
-farhat,,abbas,1,/users/farhat-abbas.c4781b54/badges
-Hammad,,ali,1,/users/hammad-ali.531ffa82/badges
-muhammad,,hassan,1,/users/muhammad-hassan.69e51dab/badges
-abid,,raheem,1,/users/abid-rahim/badges
-syed ahnaf,,raza,1,/users/syed-ahnaf-raza/badges
-Tameem,,ud Din,1,/users/tameem-uddin/badges
-Eatsam,,ul Haq,1,/users/eatsam-ul-haq/badges
-omar,,warraich,1,/users/omar-warraich.8989ecb8/badges
-usama,,zaheer,3,/users/usama-zaheer.e648e500/badges
-raphay,,zia,1,/users/raphay-zia/badges
