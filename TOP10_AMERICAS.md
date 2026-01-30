@@ -1,6 +1,6 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: January 29, 2026 at 02:01 UTC
+> Last updated: January 30, 2026 at 02:02 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -12,9 +12,8 @@
 | #4 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges) | 13 | Avanade | Brazil |
 |  | [Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges) | 13 | CodeCargo | United States |
 | #6 | [Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges) | 11 | Avanade | Brazil |
-|  | [John Wildes](https://www.credly.com/users/john-wildes/badges) | 11 |  | United States |
 |  | [Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges) | 11 | Avanade | Brazil |
-| #9 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges) | 10 | Onepoint | Canada |
+| #8 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges) | 10 | Onepoint | Canada |
 |  | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 10 | Avanade | Brazil |
 |  | [Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges) | 10 | Avanade | Brazil |
 
@@ -22,8 +21,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,787
-- **Total Badges Earned**: 8,563
+- **Total Certified Users**: 6,789
+- **Total Badges Earned**: 8,558
 - **Average Badges per User**: 1.26
 - **Highest Badge Count**: 15
 
