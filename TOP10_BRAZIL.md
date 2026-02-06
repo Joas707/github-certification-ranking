@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: February 06, 2026 at 17:55 UTC
+> Last updated: February 06, 2026 at 18:16 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -16,7 +16,7 @@
 |  | [Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges) | 11 | ilegra | Brazil |
 | #9 | [Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges) | 10 | ilegra | Brazil |
 |  | [Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges) | 10 | Avanade | Brazil |
-|  | [Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 10 |  | Brazil |
+|  | [Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 10 | Avanade | Brazil |
 
 ---
 
