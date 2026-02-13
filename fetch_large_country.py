@@ -11,6 +11,16 @@ import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 
+ALLOWED_MICROSOFT_GITHUB_CERTIFICATIONS = {
+    'GitHub Copilot',
+    'GitHub Actions',
+    'GitHub Advanced Security',
+    'GitHub Foundations',
+    'GitHub Administration',
+    'Microsoft Applied Skills: Accelerate app development by using GitHub Copilot',
+    'Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions',
+}
+
 def is_badge_expired(expires_at_date):
     """Check if a badge is expired based on expires_at_date"""
     if not expires_at_date:  # null = never expires
@@ -42,8 +52,8 @@ def fetch_github_external_badges(user_id):
             issuer_name = external_badge.get('issuer_name', '')
             expires_at_date = badge.get('expires_at_date')
             
-            # Check if it's a GitHub certification issued by Microsoft and not expired
-            if issuer_name == 'Microsoft' and 'GitHub' in badge_name:
+            # Check if it's an allowed GitHub certification issued by Microsoft and not expired
+            if issuer_name == 'Microsoft' and badge_name.strip() in ALLOWED_MICROSOFT_GITHUB_CERTIFICATIONS:
                 if not is_badge_expired(expires_at_date):
                     # Only count if badge name is unique
                     unique_badge_names.add(badge_name)
