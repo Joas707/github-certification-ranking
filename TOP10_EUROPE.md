@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: February 14, 2026 at 02:02 UTC
+> Last updated: February 15, 2026 at 02:12 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
