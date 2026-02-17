@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: February 16, 2026 at 02:08 UTC
+> Last updated: February 17, 2026 at 02:06 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -14,18 +14,15 @@
 |  | [Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges) | 14 | Solidify AB | Estonia |
 |  | [Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 14 | Xebia | Germany |
 |  | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 14 | Avanade | France |
-| #9 | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 13 | Microsoft | Belgium |
-| #10 | [Dennis Thie](https://www.credly.com/users/dennisthie/badges) | 12 | Xebia | Netherlands |
-|  | [Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges) | 12 | Transition Technologies PSC | Poland |
-|  | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 12 | Avanade | France |
-|  | [Till Spindler](https://www.credly.com/users/till-spindler/badges) | 12 | Eficode | Germany |
+| #9 | [Dennis Thie](https://www.credly.com/users/dennisthie/badges) | 13 | Xebia | Netherlands |
+|  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 13 | Microsoft | Belgium |
 
 ---
 
 ## 📊 Statistics
 
 - **Total Certified Users**: 4,173
-- **Total Badges Earned**: 5,921
+- **Total Badges Earned**: 5,919
 - **Average Badges per User**: 1.42
 - **Highest Badge Count**: 17
 
