@@ -1,20 +1,21 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: February 20, 2026 at 02:05 UTC
+> Last updated: February 20, 2026 at 23:34 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 18 | Avanade | Brazil |
-| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 17 | Avanade | Brazil |
-|  | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 17 | Xebia | Netherlands |
+| 🥇 #1 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 18 | Avanade | Brazil |
+|  | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 18 | Avanade | Brazil |
+| 🥉 #3 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 17 | Xebia | Netherlands |
 | #4 | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 16 | Avanade | Brazil |
 |  | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 16 | Delta-N | Netherlands |
 | #6 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges) | 15 | Xebia | Netherlands |
 |  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 15 | Xebia | Netherlands |
 | #8 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges) | 14 |  | Greece |
 |  | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 14 | Avanade | Brazil |
+|  | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 14 | Delta-N | Netherlands |
 |  | [Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges) | 14 | Solidify AB | Estonia |
 |  | [Marco Celon](https://www.credly.com/users/marco-celon.53bc8019/badges) | 14 | GitHub | Australia |
 |  | [Nico Orschel](https://www.credly.com/users/nico-orschel/badges) | 14 | Xebia | Germany |
@@ -25,8 +26,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 24,910
-- **Total Badges Earned**: 31,111
+- **Total Certified Users**: 24,918
+- **Total Badges Earned**: 31,197
 - **Average Badges per User**: 1.25
 - **Highest Badge Count**: 18
 
