@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: February 19, 2026 at 02:09 UTC
+> Last updated: February 20, 2026 at 02:05 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -10,8 +10,8 @@
 | 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 17 | Avanade | Brazil |
 |  | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 17 | Xebia | Netherlands |
 | #4 | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 16 | Avanade | Brazil |
-| #5 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges) | 15 | Xebia | Netherlands |
-|  | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 15 | Delta-N | Netherlands |
+|  | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 16 | Delta-N | Netherlands |
+| #6 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges) | 15 | Xebia | Netherlands |
 |  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 15 | Xebia | Netherlands |
 | #8 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges) | 14 |  | Greece |
 |  | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 14 | Avanade | Brazil |
@@ -25,8 +25,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 24,909
-- **Total Badges Earned**: 31,102
+- **Total Certified Users**: 24,910
+- **Total Badges Earned**: 31,111
 - **Average Badges per User**: 1.25
 - **Highest Badge Count**: 18
 
