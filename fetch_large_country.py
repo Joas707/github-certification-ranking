@@ -52,7 +52,7 @@ def fetch_github_external_badges(user_id):
             external_badge = badge.get('external_badge', {})
             badge_name = external_badge.get('badge_name', '')
             issuer_name = external_badge.get('issuer_name', '')
-            expires_at_date = badge.get('expires_at_date')
+            expires_at_date = external.badge.get('expires_at_date')
             
             # Check if it's an allowed GitHub certification issued by Microsoft and not expired
             if issuer_name == 'Microsoft' and badge_name.strip() in ALLOWED_MICROSOFT_GITHUB_CERTIFICATIONS:
