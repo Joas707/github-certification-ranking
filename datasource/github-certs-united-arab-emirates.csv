@@ -1,8 +1,8 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Ahmed,,Abdelfattah,1,/users/ahmed-abdelfattah.2f89de0b/badges
 Mohammad,,Abu-Khader,1,/users/mohammad-abukhader/badges
-Mushtaq,,Ahmad,0,/users/mushtaq-ahmad.0f444749/badges
-Md Nasim,,Akhtar,0,/users/md-nasim-akhtar.2baf402f/badges
+Mushtaq,,Ahmad,1,/users/mushtaq-ahmad.0f444749/badges
+Md Nasim,,Akhtar,1,/users/md-nasim-akhtar.2baf402f/badges
 Mohamed,,Al Ajlani,1,/users/mohamed-al-ajlani/badges
 Mahfouz,,Alaghbar,1,/users/mahfouz-alaghbar/badges
 Muhammad,,Ali,4,/users/muhammadallee/badges
@@ -26,7 +26,7 @@ Mohammed Fazalullah,,Qudrath,1,/users/mohammed-fazalullah-qudrath.afd14bfd/badge
 Aruna,,Raman,1,/users/aruna-raman/badges
 Adam,,Refaey,2,/users/adam-refaey/badges
 Matin,,Rezaii,1,/users/matin-rezaii/badges
-Gianni,,Rosa Gallina,1,/users/gianni-rosa-gallina/badges
+Gianni,,Rosa Gallina,0,/users/gianni-rosa-gallina/badges
 Sumaira,,Sagheer,1,/users/sumairas/badges
 Faisal Muhammad,,Saleem,1,/users/fsaleem/badges
 Paolo,,Salvatierra,1,/users/psalvatierra/badges
