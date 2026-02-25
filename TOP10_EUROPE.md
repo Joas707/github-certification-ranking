@@ -1,6 +1,6 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: February 24, 2026 at 02:05 UTC
+> Last updated: February 25, 2026 at 02:08 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -17,14 +17,14 @@
 |  | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 14 | Avanade | France |
 | #10 | [Dennis Thie](https://www.credly.com/users/dennisthie/badges) | 13 | Xebia | Netherlands |
 |  | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges) | 13 | Delta-N | Netherlands |
-|  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 13 |  | Belgium |
+|  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 13 | Microsoft | Belgium |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,172
-- **Total Badges Earned**: 5,953
+- **Total Certified Users**: 4,176
+- **Total Badges Earned**: 5,964
 - **Average Badges per User**: 1.43
 - **Highest Badge Count**: 18
 
