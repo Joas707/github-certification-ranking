@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-PENTSAK,,ANDRII,0,/users/pentsak-andrii/badges
+PENTSAK,,ANDRII,1,/users/pentsak-andrii/badges
 Igor,,Aleksandrov,1,/users/igor-aleksandrov.dea0afe4/badges
 Nazar,,Antoniuk,1,/users/niusia/badges
 Vladislav,,Antonyuk,1,/users/vladislav-antonyuk/badges
@@ -62,12 +62,12 @@ Volodymyr,,Nikitin,1,/users/volodymyr-nikitin/badges
 Artem,,Novak,1,/users/artem-novak/badges
 Serhii,,Oberemchuk,1,/users/serhii-oberemchuk/badges
 Borzenko,,Olena,1,/users/borzenko-olena/badges
-Nataliia,,Pakhol,0,/users/nataliia-pakhol/badges
+Nataliia,,Pakhol,1,/users/nataliia-pakhol/badges
 Bohdan,,Pastushenko,1,/users/bohdan-pastushenko.f6f58f71/badges
 Denys,,Pavliuk,1,/users/denys-pavliuk/badges
 Maksym,,Perehinets,2,/users/maksym-perehinets/badges
 Vitalii,,Piatnytskyi,1,/users/vitalii-piatnytskyi/badges
-Serhii,Sergeyevich,Plesovskykh,4,/users/serhii-plesovskykh/badges
+Serhii,Sergeyevich,Plesovskykh,0,/users/serhii-plesovskykh/badges
 Maksim,,Polyvianyi,2,/users/maksim-polyvyaniy/badges
 Misha,,Popov,1,/users/misha-popov/badges
 Mykyta,,Potapenko,1,/users/mykyta-potapenko/badges
