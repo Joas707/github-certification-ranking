@@ -1,13 +1,13 @@
 # 🌏 TOP 10 GitHub Certifications - Asia
 
-> Last updated: March 17, 2026 at 02:08 UTC
+> Last updated: March 18, 2026 at 02:12 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [stephie Mercy](https://www.credly.com/users/stephie-mercy/badges) | 14 | Ivalue Infosolutions Limited | India |
-| 🥈 #2 | [Ramesh Kumar Dasari](https://www.credly.com/users/ramesh-dasari5/badges) | 12 | Xebia | India |
+| 🥈 #2 | [Ramesh Kumar Dasari](https://www.credly.com/users/ramesh.dasari/badges) | 12 | Xebia | India |
 | 🥉 #3 | [Hoysala Garudanagiri](https://www.credly.com/users/hoysala-garudanagiri/badges) | 11 | Canarys Automations Limited | India |
 |  | [Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges) | 11 | Xebia | India |
 | #5 | [Emre Ozan Memis](https://www.credly.com/users/emre-ozan-memis/badges) | 10 |  | Turkey |
@@ -20,7 +20,7 @@
 |  | [Nagaraj Bhairaji](https://www.credly.com/users/nagaraj-bhairaji/badges) | 6 | Canarys Automations Limited | India |
 |  | [NIKHIL GOWDA N](https://www.credly.com/users/nikhil-gowda-n/badges) | 6 | Canarys Automations Limited | India |
 |  | [Sandeep Doddamani](https://www.credly.com/users/sandeep-doddamani/badges) | 6 | Canarys Automations Limited | India |
-|  | [Shiva Sagar M](https://www.credly.com/users/shiva-sagar-m.9963b9a5/badges) | 6 |  | India |
+|  | [Shiva Sagar M](https://www.credly.com/users/shiva-sagar-m.9963b9a5/badges) | 6 | Canarys Automations Limited | India |
 |  | [Taichi Emura](https://www.credly.com/users/taichi-emura/badges) | 6 |  | Japan |
 
 ---
