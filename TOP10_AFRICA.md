@@ -1,6 +1,6 @@
 # 🌍 TOP 10 GitHub Certifications - Africa
 
-> Last updated: March 18, 2026 at 02:10 UTC
+> Last updated: March 19, 2026 at 02:10 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,6 @@
 |  | [Obaro Olori](https://www.credly.com/users/obaro-olori.97a0b7b9/badges) | 5 |  | Nigeria |
 |  | [Olatunji Samson](https://www.credly.com/users/olatunji-pelz-samson/badges) | 5 |  | Nigeria |
 | #9 | [Ali Heikal](https://www.credly.com/users/aliheikal/badges) | 4 |  | Egypt |
-|  | [Carike Blignaut-Staden](https://www.credly.com/users/carike/badges) | 4 | OUTsurance | South Africa |
 |  | [Fred Nyakagwa](https://www.credly.com/users/fred-nyakagwa/badges) | 4 |  | Kenya |
 |  | [Paul Wechuli](https://www.credly.com/users/paul-wechuli/badges) | 4 |  | Kenya |
 |  | [Samuel Afolabi](https://www.credly.com/users/samuel-afolabi.4b624579/badges) | 4 |  | Nigeria |
@@ -25,8 +24,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 1,158
-- **Total Badges Earned**: 1,348
+- **Total Certified Users**: 1,156
+- **Total Badges Earned**: 1,343
 - **Average Badges per User**: 1.16
 - **Highest Badge Count**: 11
 
