@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: March 24, 2026 at 02:03 UTC
+> Last updated: March 25, 2026 at 02:10 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 |  | [Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges) | 14 | Avanade | Brazil |
 |  | [Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges) | 14 | Avanade | Brazil |
 | #9 | [Caio Vianna Vieira](https://www.credly.com/users/caio-vianna.b6440384/badges) | 13 | Avanade | Brazil |
-|  | [Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges) | 13 | Avanade | Brazil |
+|  | [Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges) | 13 |  | Brazil |
 
 ---
 
