@@ -1,6 +1,6 @@
 # 🌎 TOP 10 GitHub Certifications - Americas
 
-> Last updated: March 29, 2026 at 02:27 UTC
+> Last updated: March 30, 2026 at 02:30 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -9,9 +9,9 @@
 | 🥇 #1 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 19 | Avanade | Brazil |
 |  | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 19 | Avanade | Brazil |
 | 🥉 #3 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 18 | Xebia | United States |
-| #4 | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 17 | Avanade | Brazil |
-| #5 | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 16 | Avanade | Brazil |
-|  | [Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 16 | Avanade | Brazil |
+| #4 | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 17 | Avanade | Brazil |
+|  | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 17 | Avanade | Brazil |
+| #6 | [Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 16 | Avanade | Brazil |
 |  | [rich schwarz](https://www.credly.com/users/rich-schwarz/badges) | 16 | Xebia | United States |
 | #8 | [Evan Allen](https://www.credly.com/users/evan_allen/badges) | 15 | Xebia | United States |
 |  | [Kaan Turgut](https://www.credly.com/users/hkaanturgut/badges) | 15 | Lenovo | Canada |
@@ -23,8 +23,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,845
-- **Total Badges Earned**: 8,976
+- **Total Certified Users**: 6,843
+- **Total Badges Earned**: 8,967
 - **Average Badges per User**: 1.31
 - **Highest Badge Count**: 19
 
