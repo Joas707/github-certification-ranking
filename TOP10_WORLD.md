@@ -1,22 +1,23 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: March 30, 2026 at 02:31 UTC
+> Last updated: March 31, 2026 at 02:16 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Andre Dias](https://www.credly.com/users/andredias/badges) | 19 | Avanade | Brazil |
-|  | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 19 |  | Brazil |
+|  | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 19 | Avanade | Brazil |
 |  | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges) | 19 | Xebia | Netherlands |
 |  | [Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges) | 19 | Delta-N | Netherlands |
-| #5 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 18 | Xebia | United States |
-|  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 18 | Microsoft | Belgium |
+|  | [Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 19 | Microsoft | Belgium |
+| #6 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 18 | Xebia | United States |
 |  | [Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 18 | Avanade | France |
 | #8 | [Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 17 | Avanade | Brazil |
 |  | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges) | 17 | Avanade | Brazil |
 | #10 | [Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges) | 16 | Xebia | Netherlands |
 |  | [Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 16 | Avanade | Brazil |
+|  | [Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges) | 16 | Avanade | France |
 |  | [Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges) | 16 | Xebia | Microsoft Services | Netherlands |
 |  | [rich schwarz](https://www.credly.com/users/rich-schwarz/badges) | 16 | Xebia | United States |
 |  | [Rob Bos](https://www.credly.com/users/rob-bos/badges) | 16 | Xebia | Netherlands |
@@ -25,8 +26,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 24,922
-- **Total Badges Earned**: 31,437
+- **Total Certified Users**: 24,948
+- **Total Badges Earned**: 31,526
 - **Average Badges per User**: 1.26
 - **Highest Badge Count**: 19
 
