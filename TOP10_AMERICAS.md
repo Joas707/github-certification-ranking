@@ -1,6 +1,6 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: April 02, 2026 at 02:15 UTC
+> Last updated: April 03, 2026 at 02:16 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -12,9 +12,9 @@
 | #4 | [Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges)<br>[Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges) | 14 | Avanade<br>Avanade | Brazil<br>Brazil |
 | #5 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges)<br>[Caio Vianna Vieira](https://www.credly.com/users/caio-vianna.b6440384/badges)<br>[Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges)<br>[Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges) | 13 | Avanade<br>Avanade<br>Avanade<br>ilegra | Brazil<br>Brazil<br>Brazil<br>Brazil |
 | #6 | [Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges)<br>[Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges) | 12 | Avanade<br>ilegra | Brazil<br>Brazil |
-| #7 | [Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges)<br>[Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[John Wildes](https://www.credly.com/users/john-wildes/badges) | 11 | CodeCargo<br>Avanade<br> | United States<br>Brazil<br>United States |
+| #7 | [Bill Schneider](https://www.credly.com/users/bill-schneider.7f045131/badges)<br>[Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges)<br>[Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[John Wildes](https://www.credly.com/users/john-wildes/badges) | 11 | <br>CodeCargo<br>Avanade<br> | United States<br>United States<br>Brazil<br>United States |
 | #8 | [Julio Cesar Barbosa da Silva](https://www.credly.com/users/juliocbsilva/badges)<br>[William Lima Silva](https://www.credly.com/users/williamlimasilva/badges) | 10 | Avanade<br>Avanade | Brazil<br>Brazil |
-| #9 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges)<br>[Bill Schneider](https://www.credly.com/users/bill-schneider.7f045131/badges)<br>[Bruno Vinicius Garcia](https://www.credly.com/users/ifgarcia/badges)<br>[Cesar Souza](https://www.credly.com/users/cesar-souza.48cc6bb7/badges)<br>[Dhiego Bastelli](https://www.credly.com/users/dhiego-bastelli/badges)<br>[Higor Coelho Do Nascimento](https://www.credly.com/users/higor-coelho-do-nascimento/badges)<br>[Matt Olson](https://www.credly.com/users/molson504x/badges)<br>[Ricardo Galvão](https://www.credly.com/users/ricardo-galvao.52cfc0ae/badges)<br>[Thomas Boker](https://www.credly.com/users/thomas-boker/badges)<br>[William Quintero](https://www.credly.com/users/willraido/badges) | 9 | Onepoint<br><br>Avanade<br><br>ilegra<br>Avanade<br>Xebia<br>Avanade<br>IBM<br>Clever IT | Canada<br>United States<br>Brazil<br>Brazil<br>Brazil<br>Brazil<br>United States<br>Brazil<br>United States<br>Colombia |
+| #9 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges)<br>[Bruno Vinicius Garcia](https://www.credly.com/users/ifgarcia/badges)<br>[Cesar Souza](https://www.credly.com/users/cesar-souza.48cc6bb7/badges)<br>[Dhiego Bastelli](https://www.credly.com/users/dhiego-bastelli/badges)<br>[Higor Coelho Do Nascimento](https://www.credly.com/users/higor-coelho-do-nascimento/badges)<br>[JT Jarnegan](https://www.credly.com/users/jjarnegan/badges)<br>[Matt Olson](https://www.credly.com/users/molson504x/badges)<br>[Ricardo Galvão](https://www.credly.com/users/ricardo-galvao.52cfc0ae/badges)<br>[Thomas Boker](https://www.credly.com/users/thomas-boker/badges)<br>[William Quintero](https://www.credly.com/users/willraido/badges) | 9 | Onepoint<br>Avanade<br><br>ilegra<br>Avanade<br>Xebia<br>Xebia<br>Avanade<br>IBM<br>Clever IT | Canada<br>Brazil<br>Brazil<br>Brazil<br>Brazil<br>United States<br>United States<br>Brazil<br>United States<br>Colombia |
 | #10 | [Dr. Adam Smeets](https://www.credly.com/users/asmeets/badges)<br>[Erol Kavas](https://www.credly.com/users/erol/badges)<br>[Parker Johnston](https://www.credly.com/users/parker-johnston/badges)<br>[Sloane McCensky](https://www.credly.com/users/sloane-mccensky.6cb7eb6d/badges) | 8 | <br>PwC<br><br> | United States<br>Canada<br>United States<br>United States |
 
 ---
@@ -24,7 +24,7 @@
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
 | 🥇 #1 | Avanade | 223 | 17 |
-| 🥈 #2 | Xebia | 57 | 4 |
+| 🥈 #2 | Xebia | 66 | 5 |
 | 🥉 #3 | ilegra | 34 | 3 |
 | #4 | Lenovo | 15 | 1 |
 | #5 | CodeCargo | 11 | 1 |
@@ -35,8 +35,8 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United States | 3876 | 2798 |
-| 🥈 #2 | Brazil | 1969 | 1521 |
+| 🥇 #1 | United States | 3902 | 2801 |
+| 🥈 #2 | Brazil | 1975 | 1522 |
 | 🥉 #3 | Canada | 720 | 551 |
 | #4 | Mexico | 556 | 445 |
 | #5 | Peru | 498 | 416 |
@@ -45,8 +45,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,839
-- **Total Badges Earned**: 8,931
+- **Total Certified Users**: 6,842
+- **Total Badges Earned**: 8,955
 - **Average Badges per User**: 1.31
 - **Highest Badge Count**: 18
 

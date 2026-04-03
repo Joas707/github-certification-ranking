@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: April 02, 2026 at 02:15 UTC
+> Last updated: April 03, 2026 at 02:16 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -14,7 +14,7 @@
 | #6 | [Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges) | 11 | Avanade | Brazil |
 | #7 | [Julio Cesar Barbosa da Silva](https://www.credly.com/users/juliocbsilva/badges)<br>[William Lima Silva](https://www.credly.com/users/williamlimasilva/badges) | 10 | Avanade<br>Avanade | Brazil<br>Brazil |
 | #8 | [Bruno Vinicius Garcia](https://www.credly.com/users/ifgarcia/badges)<br>[Cesar Souza](https://www.credly.com/users/cesar-souza.48cc6bb7/badges)<br>[Dhiego Bastelli](https://www.credly.com/users/dhiego-bastelli/badges)<br>[Higor Coelho Do Nascimento](https://www.credly.com/users/higor-coelho-do-nascimento/badges)<br>[Ricardo Galvão](https://www.credly.com/users/ricardo-galvao.52cfc0ae/badges) | 9 | Avanade<br><br>ilegra<br>Avanade<br>Avanade | Brazil<br>Brazil<br>Brazil<br>Brazil<br>Brazil |
-| #9 | [Danilo Perez](https://www.credly.com/users/daniloperez/badges)<br>[Eduarda Costa da Silva](https://www.credly.com/users/eduarda-costa-da-silva/badges) | 6 | <br>ilegra | Brazil<br>Brazil |
+| #9 | [Danilo Perez](https://www.credly.com/users/daniloperez/badges)<br>[Eduarda Costa da Silva](https://www.credly.com/users/eduarda-costa-da-silva/badges)<br>[Miguel Eduardo Xavier Nazer](https://www.credly.com/users/miguel-eduardo-xavier-nazer.be240a2d/badges) | 6 | <br>ilegra<br> | Brazil<br>Brazil<br>Brazil |
 | #10 | [Beatriz Matsui](https://www.credly.com/users/beatriz-matsui/badges)<br>[Christiano Martins Milfont Almeida](https://www.credly.com/users/cmilfont/badges)<br>[Ednei Monteiro](https://www.credly.com/users/ednei-monteiro/badges)<br>[Fernando Moreni](https://www.credly.com/users/fernando-moreni/badges)<br>[Jailton Santos Sales Junior](https://www.credly.com/users/jailton-santos-sales-junior/badges)<br>[Juliano Dziadzio](https://www.credly.com/users/juliano-dziadzio.5cdefb9f/badges)<br>[Rafael Silva Willians](https://www.credly.com/users/rafael-silva-willians/badges)<br>[William Zonta](https://www.credly.com/users/william-zonta.d8c69de2/badges) | 5 | Microsoft<br>Accenture<br>Microsoft<br><br>Microsoft<br><br><br>Optima Latam | Brazil<br>Brazil<br>Brazil<br>Brazil<br>Brazil<br>Brazil<br>Brazil<br>Brazil |
 
 ---
@@ -32,9 +32,9 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 1,521
-- **Total Badges Earned**: 1,969
-- **Average Badges per User**: 1.29
+- **Total Certified Users**: 1,522
+- **Total Badges Earned**: 1,975
+- **Average Badges per User**: 1.30
 - **Highest Badge Count**: 18
 
 ---
