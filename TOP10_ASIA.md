@@ -1,6 +1,6 @@
 # 🌏 TOP 10 GitHub Certifications - Asia
 
-> Last updated: April 02, 2026 at 02:12 UTC
+> Last updated: April 03, 2026 at 02:14 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -14,23 +14,15 @@
 | #6 | [Hoysala Garudanagiri](https://www.credly.com/users/hoysala-garudanagiri/badges) | 11 | Canarys Automations Limited | India |
 |  | [Niranjana K](https://www.credly.com/users/niranjana-koni/badges) | 11 | Canarys Automations Limited | India |
 | #8 | [Emre Ozan Memis](https://www.credly.com/users/emre-ozan-memis/badges) | 10 |  | Turkey |
+|  | [Mihir Kulkarni](https://www.credly.com/users/mihir-kulkarni.00d25bea/badges) | 10 |  | India |
 |  | [Vineet Kumar](https://www.credly.com/users/vineet-kumar.df01a9b4/badges) | 10 |  | India |
-| #10 | [Han Lin](https://www.credly.com/users/hanlin/badges) | 6 | National Taiwan University | Taiwan |
-|  | [Karthick Manikandan](https://www.credly.com/users/karthick-manikandan.ac216814/badges) | 6 |  | India |
-|  | [Metin Sertac Bayır](https://www.credly.com/users/metin-sertac-bayir/badges) | 6 |  | Turkey |
-|  | [Nagaraj Bhairaji](https://www.credly.com/users/nagaraj-bhairaji/badges) | 6 | Canarys Automations Limited | India |
-|  | [NIKHIL GOWDA N](https://www.credly.com/users/nikhil-gowda-n/badges) | 6 | Canarys Automations Limited | India |
-|  | [Sandeep Doddamani](https://www.credly.com/users/sandeep-doddamani/badges) | 6 | Canarys Automations Limited | India |
-|  | [Shaik Abedeen Asra](https://www.credly.com/users/abededeen-asra/badges) | 6 |  | India |
-|  | [Shiva Sagar M](https://www.credly.com/users/shiva-sagar-m.9963b9a5/badges) | 6 | Canarys Automations Limited | India |
-|  | [Taichi Emura](https://www.credly.com/users/taichi-emura/badges) | 6 |  | Japan |
 
 ---
 
 ## 📊 Statistics
 
 - **Total Certified Users**: 12,188
-- **Total Badges Earned**: 14,372
+- **Total Badges Earned**: 14,381
 - **Average Badges per User**: 1.18
 - **Highest Badge Count**: 15
 
