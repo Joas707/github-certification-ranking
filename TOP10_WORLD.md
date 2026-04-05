@@ -1,12 +1,12 @@
 # 🌍 TOP 10 GitHub Certifications - Global
 
-> Last updated: April 04, 2026 at 02:14 UTC
+> Last updated: April 05, 2026 at 02:33 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Barnes Chism](https://www.credly.com/users/barnes-chism/badges)<br>[Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges)<br>[Felipe Augusto](https://www.credly.com/users/felipementel/badges)<br>[Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Sujith Quintelier](https://www.credly.com/users/sujith/badges) | 18 | Avanade<br>Xebia<br>Avanade<br>Avanade<br>Xebia<br>Delta-N<br>Microsoft | Brazil<br>United States<br>Brazil<br>Brazil<br>Netherlands<br>Netherlands<br>Belgium |
+| 🥇 #1 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Barnes Chism](https://www.credly.com/users/barnes-chism/badges)<br>[Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges)<br>[Felipe Augusto](https://www.credly.com/users/felipementel/badges)<br>[Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Sujith Quintelier](https://www.credly.com/users/sujith/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 18 | Avanade<br>Xebia<br>Avanade<br>Avanade<br>Xebia<br>Delta-N<br>Microsoft<br>Avanade | Brazil<br>United States<br>Brazil<br>Brazil<br>Netherlands<br>Netherlands<br>Belgium<br>France |
 | 🥈 #2 | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges)<br>[Joas de Groot](https://www.credly.com/users/joas707/badges)<br>[Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 16 | Avanade<br>Delta-N<br>Avanade | Brazil<br>Netherlands<br>Brazil |
 | 🥉 #3 | [Evan Allen](https://www.credly.com/users/evan_allen/badges)<br>[Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Kaan Turgut](https://www.credly.com/users/hkaanturgut/badges)<br>[Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges)<br>[rich schwarz](https://www.credly.com/users/rich-schwarz/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges) | 15 | Xebia<br>Delta-N<br>Xebia<br>Lenovo<br>Avanade<br>Xebia<br>Xebia<br>Xebia<br>Xebia | United States<br>Netherlands<br>Netherlands<br>Canada<br>France<br>Netherlands<br>India<br>United States<br>Netherlands |
 | #4 | [Dasari Ramesh Kumar](https://www.credly.com/users/ramesh.dasari/badges)<br>[Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges)<br>[Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges)<br>[Naveen Kunder](https://www.credly.com/users/naveenkunder/badges) | 14 | Xebia<br>Avanade<br>Avanade<br>Canarys Automations Limited | India<br>Brazil<br>Brazil<br>India |
@@ -23,7 +23,7 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Avanade | 238 | 18 |
+| 🥇 #1 | Avanade | 256 | 19 |
 | 🥈 #2 | Xebia | 228 | 17 |
 | 🥉 #3 | Delta-N | 49 | 3 |
 | #4 | Canarys Automations Limited | 48 | 4 |
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | India | 11768 | 10000 |
+| 🥇 #1 | India | 11770 | 10000 |
 | 🥈 #2 | United States | 3906 | 2802 |
-| 🥉 #3 | Brazil | 1975 | 1522 |
-| #4 | United Kingdom | 1057 | 758 |
-| #5 | Canada | 718 | 550 |
+| 🥉 #3 | Brazil | 1976 | 1523 |
+| #4 | United Kingdom | 1056 | 758 |
+| #5 | Canada | 719 | 551 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 24,885
-- **Total Badges Earned**: 31,316
+- **Total Certified Users**: 24,911
+- **Total Badges Earned**: 31,368
 - **Average Badges per User**: 1.26
 - **Highest Badge Count**: 18
 
