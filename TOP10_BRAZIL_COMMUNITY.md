@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil (Community Only)
 
-> Last updated: April 11, 2026 at 02:18 UTC
+> Last updated: April 12, 2026 at 02:40 UTC
 >
 > This ranking includes only community certifications (excludes partner-exclusive badges).
 >
@@ -27,7 +27,7 @@
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
 | 🥇 #1 | Avanade | 82 | 30 |
-| 🥈 #2 | Microsoft | 29 | 13 |
+| 🥈 #2 | Microsoft | 28 | 12 |
 | 🥉 #3 | Itaú Unibanco | 18 | 13 |
 | #4 | Bradesco | 13 | 11 |
 | #5 | ilegra | 10 | 2 |
