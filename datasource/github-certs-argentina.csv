@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Lautaro,,Orellano,4,/users/lautaro-orellano/badges
+Lautaro,,Orellano,10,/users/lautaro-orellano/badges
 pier leandro,,camps,5,/users/pier-leandro-camps/badges
 julian maximiliano,,gonzalez,7,/users/julian-maximiliano-gonzalez/badges
 Elvio,,Nabot,5,/users/elvio-nabot/badges
@@ -51,7 +51,7 @@ ignacio,,pucheta,1,/users/ignacio-pucheta/badges
 Christian,,Tamanini,2,/users/christian-tamanini/badges
 Alejandro Luis,,Trucco,1,/users/alejandro-luis-trucco/badges
 Rodrigo,,Traid,1,/users/rodrigo-traid/badges
-Daniel,,Calla,1,/users/daniel-calla/badges
+Daniel,,Calla,0,/users/daniel-calla/badges
 Guillermo,,Lopez Pisani,1,/users/guillermo-lopez-pisani/badges
 Facundo,,Marianelli Keichian,1,/users/facundo-marianelli-keichian/badges
 Mariano,,Lahoz,1,/users/mariano-lahoz/badges
