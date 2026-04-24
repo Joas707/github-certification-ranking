@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Roderick,,Schoon,2,/users/roderick-schoon/badges
-Mark,van der,Burg,9,/users/mark-van-der-burg.22851d3e/badges
+Mark,van der,Burg,10,/users/mark-van-der-burg.22851d3e/badges
 Marcel,,Groennou,1,/users/marcel-groennou/badges
 Joas,,de Groot,17,/users/joas707/badges
 Peter,,Szekeli,18,/users/peter-szekeli/badges
@@ -16,15 +16,15 @@ Fokko,,Veegens,10,/users/fokko-veegens/badges
 Dennis,,Thie,13,/users/dennisthie/badges
 Fabian,,Biesheuvel,15,/users/fabian-biesheuvel/badges
 Joost,,Voskuil,18,/users/joost-voskuil/badges
-Hidde,,de Smet,1,/users/hidde-de-smet/badges
-Jesse,,Houwing,18,/users/jessehouwing/badges
+Hidde,,de Smet,15,/users/hidde-de-smet/badges
+Jesse,,Houwing,4,/users/jessehouwing/badges
 Johan,,van der Hoeven,5,/users/johan-van-der-hoeven/badges
 Elisavet,,Kyritsi,4,/users/elisavet-kyritsi/badges
 Jasper,,Gilhuis,3,/users/jasper-gilhuis/badges
 Max,,Verhorst,1,/users/max-verhorst/badges
 Zen,,van Riel,1,/users/zen-van-riel/badges
 Bas,,van de Sande,6,/users/bas-van-de-sande/badges
-Remco,,Eissing,3,/users/remco-eissing/badges
+Remco,,Eissing,0,/users/remco-eissing/badges
 Jonathan,,Reid,3,/users/jonathan-reid.a8724287/badges
 Robin,,van Rooij,1,/users/robin-van-rooij/badges
 Pavel,,Shchetska,1,/users/pavel-shchetska/badges
@@ -76,7 +76,7 @@ Leo,,Visser,2,/users/leo-visser.e11bc143/badges
 Rayen,,Oaf,1,/users/rayen-oaf/badges
 Kees,,Voorintholt,1,/users/kees-voorintholt/badges
 Patrick,,Bloemhof,1,/users/patrick-bloemhof/badges
-Albert-Jan,,Schot,0,/users/albert-jan-schot/badges
+Albert-Jan,,Schot,3,/users/albert-jan-schot/badges
 Max,,Simon,1,/users/max-simon.47202fb7/badges
 Shatabdi,,Barua,1,/users/shatabdi-barua.5991f918/badges
 Calvin,,Vriends,1,/users/calvin-vriends/badges
