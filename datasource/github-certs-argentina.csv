@@ -2,7 +2,7 @@ first_name,middle_name,last_name,badge_count,profile_url
 Lautaro,,Orellano,10,/users/lautaro-orellano/badges
 pier leandro,,camps,5,/users/pier-leandro-camps/badges
 julian maximiliano,,gonzalez,7,/users/julian-maximiliano-gonzalez/badges
-Elvio,,Nabot,5,/users/elvio-nabot/badges
+Elvio,,Nabot,0,/users/elvio-nabot/badges
 Mercedes,,Seisdedos,1,/users/mercedes-seisdedos/badges
 Hector,,Nevares,2,/users/hector-nevares/badges
 Lucas,,Blanco,5,/users/lucas-blanco.d7b12395/badges
@@ -33,7 +33,7 @@ Ella Rohana Venice,,Lo Re Mansilla,2,/users/ella-rohana-venice-lo-re-mansilla/ba
 Florencia,Micaela,Oviedo,1,/users/florencia-oviedo/badges
 Sofia,,Gurruchaga,1,/users/sofia-gurruchaga.a5ee35af/badges
 maria josé,,egea mussi,1,/users/maria-jose-egea-mussi/badges
-Sebastián,,Benzal,3,/users/sebastian-benzal.42cfcf0a/badges
+Sebastián,,Benzal,0,/users/sebastian-benzal.42cfcf0a/badges
 Alejandro,,Firdman,1,/users/alejandro-firdman/badges
 Agustina,,Elizagaray,1,/users/agustina-elizagaray.737ff849/badges
 Marcos,,Peirone,1,/users/marcos-peirone/badges
@@ -157,7 +157,7 @@ Jorge Nahuel,,Perez,1,/users/jorge-nahuel-perez/badges
 Emmanuel,,Torrado,1,/users/emmanuel-torrado/badges
 Virginia,,Hamra,1,/users/virginia-hamra.a0cfe722/badges
 Fabian,,Massotto,1,/users/fabian-massotto/badges
-Marco,,Fernandez Rolon,3,/users/marco-fernandez-rolon.192e49e0/badges
+Marco,,Fernandez Rolon,0,/users/marco-fernandez-rolon.192e49e0/badges
 Joan Gabriel,,Aliberti,1,/users/joan-gabriel-aliberti/badges
 Juan Pablo,,Olivieri,1,/users/juan-pablo-olivieri/badges
 Facundo,,Santiago,1,/users/facundo-santiago/badges
