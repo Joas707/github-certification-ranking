@@ -1,6 +1,6 @@
 # � TOP 10 GitHub Certifications - Asia
 
-> Last updated: May 01, 2026 at 03:03 UTC
+> Last updated: May 01, 2026 at 12:20 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -23,11 +23,11 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Canarys Automations Limited | 347 | 27 |
-| 🥈 #2 | Xebia | 55 | 4 |
-| 🥉 #3 | XPT Software | 15 | 1 |
-| #4 | Ivalue Infosolutions Limited | 13 | 1 |
-| #5 | Wipro Limited | 11 | 1 |
+| 🥇 #1 | Canarys Automations Limited | 372 | 31 |
+| 🥈 #2 | Tata Consultancy Services | 182 | 109 |
+| 🥉 #3 | Accenture | 117 | 106 |
+| #4 | EY | 67 | 61 |
+| #5 | Microsoft | 64 | 55 |
 
 ---
 
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | India | 12108 | 10000 |
+| 🥇 #1 | India | 12105 | 10000 |
 | 🥈 #2 | Japan | 538 | 382 |
 | 🥉 #3 | Singapore | 300 | 252 |
 | #4 | Sri Lanka | 298 | 282 |
-| #5 | China | 232 | 220 |
+| #5 | China | 234 | 222 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,182
-- **Total Badges Earned**: 14,699
+- **Total Certified Users**: 12,177
+- **Total Badges Earned**: 14,688
 - **Average Badges per User**: 1.21
 - **Highest Badge Count**: 18
 
