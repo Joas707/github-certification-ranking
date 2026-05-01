@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Vincent,,Marchal,18,/users/vincent-marchal.87a05753/badges
-Olivier,,Delmotte,15,/users/o.delmotte/badges
+Olivier,,Delmotte,3,/users/o.delmotte/badges
 Jeoffrey,,NGO,5,/users/jeoffrey-ngo/badges
 Loïc,,Albarracin,6,/users/loic-albarracin/badges
 Marvin,,Pedron,1,/users/marvin-pedron/badges
@@ -54,7 +54,7 @@ François-Xavier,,ROBIN,1,/users/francois-xavier-robin.e68387c9/badges
 Minhaj,,Shafiq,1,/users/minhaj-shafiq/badges
 Maxime,,ALISE,1,/users/maxime.alise/badges
 Komlan Selom Gabriel,,KPOKE,2,/users/komlan-selom-gabriel-kpoke.b893ff40/badges
-Théo,,Gomichon,3,/users/theo-gomichon/badges
+Théo,,Gomichon,0,/users/theo-gomichon/badges
 Laurent,,Ferrer,1,/users/laurent-ferrer/badges
 Hector,,Rosier,1,/users/hector-rosier/badges
 Thomas,,Roche,1,/users/thomas-roche.83d21328/badges
@@ -153,7 +153,7 @@ Tony,,Jarriault,1,/users/tony-jarriault/badges
 Junior Yao,,DAVON,1,/users/junior-yao-davon/badges
 Florian,,Lefevre,1,/users/florian-lefevre.cb63d730/badges
 Kevin,,TAUPIN,1,/users/kevin-taupin.476ac2dd/badges
-Tahir,,Tidjani,0,/users/tahirt/badges
+Tahir,,Tidjani,3,/users/tahirt/badges
 Raphael,,Blondel,1,/users/raphael-blondel/badges
 Valentin,,Clergue,1,/users/valentin-clergue/badges
 Théo,,Rondoux,1,/users/theo-rondoux/badges
@@ -175,7 +175,7 @@ Axel,,Villeret,1,/users/axel-villeret/badges
 Mourad,,SALHI,1,/users/mourad-salhi/badges
 Zijin,,Huang,1,/users/zijin-huang.8d2fe609/badges
 Matthieu,,Bezard,1,/users/matthieu-bezard/badges
-Thomas,,Dupoiron,2,/users/thomas-dupoiron/badges
+Thomas,,Dupoiron,5,/users/thomas-dupoiron/badges
 Arthur,,Lefebvre,1,/users/arthur-lefebvre.75035b4a/badges
 Olivier,,Mertens,2,/users/olivmertens/badges
 Luis Enrique,,González Hilario,1,/users/luis-enrique-gonzalez-hilario/badges
@@ -210,7 +210,7 @@ Stéphane,,Cottin,1,/users/stephane-cottin.0296e0b9/badges
 Ludovic,,Toinel,1,/users/ludovic-toinel/badges
 John,,Dennison,1,/users/john-dennison.ba71b653/badges
 Arnaud,,Flaesch,5,/users/arnaud-flaesch/badges
-Samuel,,CHNIBER,0,/users/samuel-chniber/badges
+Samuel,,CHNIBER,5,/users/samuel-chniber/badges
 Vincent,,Thiébault,1,/users/vincent-thiebault/badges
 Xavier,,Mignot,2,/users/xavier-mignot.023225ed/badges
 Houssam,,Kanso,1,/users/houssam-kanso/badges
