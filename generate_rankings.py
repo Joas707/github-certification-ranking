@@ -11,7 +11,10 @@ import json
 import os
 import requests
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timedelta
+
+COMPANY_CACHE_FILE = 'company_cache.json'
+COMPANY_CACHE_TTL_DAYS = 30
 
 # Continent mapping
 CONTINENT_MAP = {
@@ -98,6 +101,22 @@ def get_continent(country_name):
     country_lower = country_name.lower().replace('-', ' ')
     return CONTINENT_MAP.get(country_lower, 'Unknown')
 
+def get_credly_username(profile_url):
+    """Extract Credly username from profile URL."""
+    if not profile_url or '/users/' not in profile_url:
+        return ''
+
+    parts = profile_url.strip('/').split('/')
+    try:
+        user_index = parts.index('users')
+    except ValueError:
+        return ''
+
+    if user_index + 1 >= len(parts):
+        return ''
+
+    return parts[user_index + 1]
+
 def fetch_user_company(profile_url):
     """Fetch company name from user profile"""
     if not profile_url:
@@ -105,7 +124,7 @@ def fetch_user_company(profile_url):
     
     try:
         # Extract username from profile_url (/users/username/badges)
-        username = profile_url.split('/')[2] if '/users/' in profile_url else ''
+        username = get_credly_username(profile_url)
         if not username:
             return ''
         
@@ -121,8 +140,71 @@ def fetch_user_company(profile_url):
         if company:
             company = company.replace('|', '/')
         return company if company else ''
-    except:
+    except (requests.RequestException, ValueError, KeyError, TypeError):
         return ''
+
+def load_company_cache(base_path):
+    """Load cached company data."""
+    cache_path = os.path.join(base_path, COMPANY_CACHE_FILE)
+    if not os.path.exists(cache_path):
+        return {}
+
+    try:
+        with open(cache_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return data if isinstance(data, dict) else {}
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+def save_company_cache(base_path, company_cache):
+    """Persist cached company data."""
+    cache_path = os.path.join(base_path, COMPANY_CACHE_FILE)
+    with open(cache_path, 'w', encoding='utf-8') as f:
+        json.dump(company_cache, f, indent=2, ensure_ascii=False, sort_keys=True)
+
+def is_company_cache_fresh(cache_entry, now):
+    """Return True when cached company data is still within TTL."""
+    if not isinstance(cache_entry, dict):
+        return False
+
+    retrieved_at = cache_entry.get('retrieved_at')
+    if not retrieved_at:
+        return False
+
+    try:
+        retrieved_at_dt = datetime.fromisoformat(retrieved_at)
+    except ValueError:
+        return False
+
+    return now - retrieved_at_dt <= timedelta(days=COMPANY_CACHE_TTL_DAYS)
+
+def populate_user_companies(users, company_cache, now=None):
+    """Populate company names on users using cached Credly profile lookups."""
+    now = now or datetime.now()
+    cache_updated = False
+
+    for user in users:
+        profile_url = user.get('profile_url', '')
+        username = get_credly_username(profile_url)
+        if not username:
+            user['company'] = ''
+            continue
+
+        cache_entry = company_cache.get(username)
+        if is_company_cache_fresh(cache_entry, now):
+            user['company'] = cache_entry.get('company', '')
+            continue
+
+        company = fetch_user_company(profile_url)
+        user['company'] = company
+        company_cache[username] = {
+            'company': company,
+            'profile_url': profile_url,
+            'retrieved_at': now.isoformat()
+        }
+        cache_updated = True
+
+    return cache_updated
 
 def load_metadata():
     """Load CSV metadata"""
@@ -201,7 +283,7 @@ def get_outdated_csvs():
     
     return sorted(outdated, key=lambda x: x['hours_old'], reverse=True)
 
-def generate_markdown_top10(users, title, filename, filter_func=None):
+def generate_markdown_top10(users, title, filename, company_cache, base_path, filter_func=None):
     """Generate TOP 10 markdown file with position-based ranking (tied users on same row)"""
     
     # Filter users if filter function provided
@@ -209,6 +291,10 @@ def generate_markdown_top10(users, title, filename, filter_func=None):
         filtered_users = [u for u in users if filter_func(u)]
     else:
         filtered_users = users
+
+    cache_updated = populate_user_companies(filtered_users, company_cache)
+    if cache_updated:
+        save_company_cache(base_path, company_cache)
     
     # Sort by badges (descending) then by name (alphabetically)
     sorted_users = sorted(filtered_users, key=lambda x: (-x['badges'], x['name'].lower()))
@@ -231,17 +317,13 @@ def generate_markdown_top10(users, title, filename, filter_func=None):
     
     # Cap display: if a position has too many tied users, show first N and a count
     MAX_USERS_PER_POSITION = 20
-    
-    # Collect all users across positions for company fetching (capped)
+
+    # Collect displayed users across positions for table rendering (capped)
     all_ranked_users = []
     for pos, pos_users in positions:
         all_ranked_users.extend(pos_users[:MAX_USERS_PER_POSITION])
-    
-    # Fetch company information for ranked users
-    print(f"  Fetching company info for {len(all_ranked_users)} ranked users...")
-    for user in all_ranked_users:
-        company = fetch_user_company(user.get('profile_url', ''))
-        user['company'] = company
+
+    print(f"  Company cache ready for {len(filtered_users)} developers in this ranking...")
     
     # Get outdated CSVs
     outdated = get_outdated_csvs()
@@ -289,10 +371,10 @@ def generate_markdown_top10(users, title, filename, filter_func=None):
         country_cell = '<br>'.join(countries)
         
         content += f"| {rank_display} | {name_cell} | {badge_cell} | {company_cell} | {country_cell} |\n"
-    
-    # --- Company Rankings (TOP 5) --- based on ranked users' companies
+
+    # --- Company Rankings (TOP 5) --- based on all developers in the filtered ranking
     company_stats = defaultdict(lambda: {'badges': 0, 'users': 0})
-    for user in all_ranked_users:
+    for user in filtered_users:
         company = user.get('company', '')
         if company:
             company_stats[company]['badges'] += user['badges']
@@ -434,6 +516,7 @@ def main():
     
     # Get base path
     base_path = os.path.dirname(os.path.abspath(__file__))
+    company_cache = load_company_cache(base_path)
     
     # Read all CSV files
     users = read_all_csv_files(base_path)
@@ -451,6 +534,8 @@ def main():
         users,
         "🇧🇷 TOP 10 GitHub Certifications - Brazil",
         "TOP10_BRAZIL.md",
+        company_cache,
+        base_path,
         lambda u: u['country'].lower() == 'brazil'
     )
     
@@ -459,6 +544,8 @@ def main():
         users,
         "🗽 TOP 10 GitHub Certifications - Americas",
         "TOP10_AMERICAS.md",
+        company_cache,
+        base_path,
         lambda u: u['continent'] == 'Americas'
     )
     
@@ -467,6 +554,8 @@ def main():
         users,
         "🇪🇺 TOP 10 GitHub Certifications - Europe",
         "TOP10_EUROPE.md",
+        company_cache,
+        base_path,
         lambda u: u['continent'] == 'Europe'
     )
     
@@ -475,6 +564,8 @@ def main():
         users,
         "� TOP 10 GitHub Certifications - Asia",
         "TOP10_ASIA.md",
+        company_cache,
+        base_path,
         lambda u: u['continent'] == 'Asia'
     )
     
@@ -483,6 +574,8 @@ def main():
         users,
         "🦁 TOP 10 GitHub Certifications - Africa",
         "TOP10_AFRICA.md",
+        company_cache,
+        base_path,
         lambda u: u['continent'] == 'Africa'
     )
     
@@ -491,6 +584,8 @@ def main():
         users,
         "🌊 TOP 10 GitHub Certifications - Oceania",
         "TOP10_OCEANIA.md",
+        company_cache,
+        base_path,
         lambda u: u['continent'] == 'Oceania'
     )
     
@@ -499,6 +594,8 @@ def main():
         users,
         "🌍 TOP 10 GitHub Certifications - Global",
         "TOP10_WORLD.md",
+        company_cache,
+        base_path,
         None  # No filter, all users
     )
     
