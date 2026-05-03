@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Oskar,Malte,Arden,0,/users/oskar-dorfler/badges
+Oskar,Malte,Arden,3,/users/oskar-dorfler/badges
 Stefan,,Schmid,0,/users/sschmid/badges
 Pascal,,Stalder,1,/users/pascal-stalder/badges
 Antoine,,Combremont,2,/users/antoine-combremont/badges
@@ -50,7 +50,7 @@ Thanh-Nu,,Leroy,1,/users/thanh-nu-leroy/badges
 Alessandro,,Langone,2,/users/alessandro-langone.14843130/badges
 Clemens,,Lange,2,/users/clemens-lange/badges
 Christophe,,Fund,1,/users/cfund/badges
-Gelu,,Liuta,2,/users/gelu-liuta/badges
+Gelu,,Liuta,0,/users/gelu-liuta/badges
 Łukasz,,Kajstura,1,/users/lukasz-kajstura/badges
 Le Hoang Bach,,Le,0,/users/le-hoang-bach-le/badges
 Adrien,,Le Doussal,1,/users/adrien-le-doussal/badges

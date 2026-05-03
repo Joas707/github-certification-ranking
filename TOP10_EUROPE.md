@@ -1,12 +1,12 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: May 02, 2026 at 02:41 UTC
+> Last updated: May 03, 2026 at 02:51 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Sujith Quintelier](https://www.credly.com/users/sujith/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 18 | Xebia<br>Delta-N<br>Xebia<br>Microsoft<br>Avanade | Netherlands<br>Netherlands<br>Netherlands<br>Belgium<br>France |
+| 🥇 #1 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 18 | Xebia<br>Delta-N<br>Xebia<br>Avanade | Netherlands<br>Netherlands<br>Netherlands<br>France |
 | 🥈 #2 | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 17 | Delta-N | Netherlands |
 | 🥉 #3 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges) | 15 | Delta-N<br>Xebia<br>Avanade<br>Xebia | Netherlands<br>Netherlands<br>France<br>Netherlands |
 | #4 | [Christos Galanopoulos](https://www.credly.com/users/christos-galanopoulos/badges)<br>[Dennis Thie](https://www.credly.com/users/dennisthie/badges)<br>[Konrad Dunikowski](https://www.credly.com/users/konrad-dunikowski/badges)<br>[Madis Kõosaar](https://www.credly.com/users/madis-koosaar/badges)<br>[Marko Zeitlhofer](https://www.credly.com/users/marko-zeitlhofer/badges)<br>[Raymond Splinter](https://www.credly.com/users/raymond-splinter/badges) | 13 | <br>Xebia<br>Transition Technologies PSC<br>Solidify AB<br><br>Xebia | Greece<br>Netherlands<br>Poland<br>Estonia<br>Austria<br>Netherlands |
@@ -24,7 +24,7 @@
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
 | 🥇 #1 | Xebia | 155 | 17 |
-| 🥈 #2 | Microsoft | 145 | 77 |
+| 🥈 #2 | Microsoft | 132 | 79 |
 | 🥉 #3 | Avanade | 84 | 42 |
 | #4 | Delta-N | 70 | 7 |
 | #5 | Eficode | 52 | 15 |
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1009 | 745 |
-| 🥈 #2 | Netherlands | 633 | 311 |
-| 🥉 #3 | Spain | 595 | 451 |
+| 🥇 #1 | United Kingdom | 1035 | 752 |
+| 🥈 #2 | Netherlands | 629 | 310 |
+| 🥉 #3 | Spain | 601 | 454 |
 | #4 | Germany | 473 | 349 |
-| #5 | Poland | 457 | 298 |
+| #5 | Poland | 458 | 298 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,118
-- **Total Badges Earned**: 5,852
+- **Total Certified Users**: 4,134
+- **Total Badges Earned**: 5,874
 - **Average Badges per User**: 1.42
 - **Highest Badge Count**: 18
 
