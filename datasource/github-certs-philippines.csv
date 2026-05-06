@@ -1,13 +1,13 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Gladys,,Santos,1,/users/gladys-santos.ff5c4f46/badges
-Bryon Kurt,,Segunto,1,/users/bryon-kurt-segunto/badges
+Bryon Kurt,,Segunto,0,/users/bryon-kurt-segunto/badges
 Michael Josias,Daligdig,Tabada,2,/users/jmichael/badges
 Jonald R.,,Tenio,1,/users/tenio-oniet/badges
 Angelo Miguel,,de Padua,1,/users/angelo-miguel-de-padua/badges
 Leslie Joie,,Noche,1,/users/leslie-joie-noche.a12b0263/badges
 Harold,,Amad,1,/users/harold-amad/badges
 Matthew,,Cabigas,1,/users/matthew-cabigas.f9473271/badges
-Joey,Cagoco,Madronero,0,/users/joey-madronero/badges
+Joey,Cagoco,Madronero,1,/users/joey-madronero/badges
 Manuel,Maldo,Albuera Jr.,3,/users/manuel-maldo-albuera-jr/badges
 Jomar,,Mirabeles,1,/users/jomar-mirabeles/badges
 Allyn Ralf,,Ledesma,1,/users/allyn-ralf-ledesma.40425d05/badges
@@ -29,7 +29,7 @@ Mhelvin,,Naquila,1,/users/mhelvin-naquila/badges
 John Paul,,Galvez,1,/users/john-paul-galvez/badges
 Maxzivien,,Gahoy,1,/users/maxzivien-gahoy/badges
 JAN MEJER,,CASAN,1,/users/jan-mejer-casan/badges
-Christian Mark,,Santos,1,/users/christian-mark-santos/badges
+Christian Mark,,Santos,0,/users/christian-mark-santos/badges
 KENNETH,,PAKINGAN,1,/users/kenneth-pakingan/badges
 "Padron, Francis Benedict",,O.,1,/users/padron-francis-benedict-o/badges
 "Flores,",,Curl Luis C.,1,/users/flores-curl-luis-c/badges
@@ -51,7 +51,7 @@ Beia Ann,,Rodriguez,1,/users/beia-ann-rodriguez/badges
 BRYAN,,LACABA,1,/users/bryan-lacaba/badges
 ARSHLEY,,ARRABIS,1,/users/arshley-arrabis/badges
 HERO,,CALOZA,1,/users/hero-caloza/badges
-Lawrence,Tamayo,Santos,2,/users/lawrence-santos.81f7e2bb/badges
+Lawrence,Tamayo,Santos,0,/users/lawrence-santos.81f7e2bb/badges
 Jonnel,,Dagohoy,1,/users/jonnel-dagohoy/badges
 Jorge,,Fuertes,1,/users/jorge-fuertes.a5ea4d61/badges
 Andre,,Nazareth,1,/users/andre-nazareth.1f8eb9a2/badges

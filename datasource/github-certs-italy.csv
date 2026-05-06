@@ -1,12 +1,12 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Luca,,Tosto,0,/users/luca-tosto.fa07794e/badges
+Luca,,Tosto,1,/users/luca-tosto.fa07794e/badges
 Alena,,Khvat,1,/users/alena-khvat/badges
 Enrico,,Garau,1,/users/enrico-garau/badges
 Fabio,,Craviolatti,1,/users/fabio-craviolatti/badges
 nicolas,,filippi,1,/users/nicolas-filippi/badges
 Andrea,,Cocco,1,/users/andrea-cocco.a8e9f1cb/badges
 Paolo,,Pericoli,2,/users/paolo-pericoli/badges
-Jennifer,,Bottarelli,2,/users/jennifer-bottarelli.3abacf9b/badges
+Jennifer,,Bottarelli,1,/users/jennifer-bottarelli.3abacf9b/badges
 Matteo,,Foiadelli,1,/users/matteo-foiadelli/badges
 Mario,,Totaro,1,/users/mario-totaro.6634d395/badges
 Giovanni,,Maschietto,1,/users/giovanni-maschietto/badges
@@ -16,7 +16,7 @@ Marco,,Bordellin,1,/users/marco-bordellin/badges
 Fabrizio,,Di Giovanni,1,/users/fabrizio-di-giovanni/badges
 Pierluigi,,Sampalmieri,1,/users/pierluigi-sampalmieri/badges
 Maienza,,Edoardo,1,/users/maienza-edoardo/badges
-Lorenzo,,Magni,0,/users/lorenzo-magni.ae5191f2/badges
+Lorenzo,,Magni,1,/users/lorenzo-magni.ae5191f2/badges
 Michele,,Pugliese,1,/users/michele-pugliese.b698978a/badges
 Cristian,,Piacente,1,/users/cristian-piacente.3e631614/badges
 Alessio,,Martiri,1,/users/alessio-martiri/badges
@@ -249,7 +249,7 @@ Roberto,,Cappelletti,1,/users/roberto-cappelletti/badges
 Francesca,,Maselli,1,/users/francesca-maselli/badges
 Salvatore,,Dessupoiu,3,/users/salvatore-dessupoiu/badges
 Riccardo,,Rigutini,4,/users/richardrigutins/badges
-Giorgio,,Lasala,0,/users/giorgio-lasala/badges
+Giorgio,,Lasala,2,/users/giorgio-lasala/badges
 Federico,,Ceruti,1,/users/federico-ceruti/badges
 Lorenzo,,Campagna,1,/users/lorenzo-campagna/badges
 Massimiliano,,Pianges,1,/users/massimiliano-pianges.eecd1621/badges
