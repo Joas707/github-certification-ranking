@@ -1,13 +1,13 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Frederick,,Janse van Rensburg,1,/users/frederick-janse-van-rensburg/badges
-John,,Wanjiku,1,/users/john-wanjiku.0234f0cb/badges
+John,,Wanjiku,0,/users/john-wanjiku.0234f0cb/badges
 Ilana,,De Beer,1,/users/ilana-de-beer/badges
 Mohammed,,Laher,1,/users/mohammed-laher.9c893933/badges
 Vincent,,English,1,/users/vincent-english.6ae80352/badges
 FRANK,,NDLOVU,1,/users/frank-ndlovu/badges
 Rhulani,Kgosi,Mogotsi,1,/users/rhulani-mogotsi/badges
 Nonhlanhla,,Santos,1,/users/nonhlanhla-santos/badges
-Nkosinathi,,Nhlapo,1,/users/nkosinathi-nhlapo/badges
+Nkosinathi,,Nhlapo,0,/users/nkosinathi-nhlapo/badges
 Ramono Labius,,Disemelo,1,/users/ramono-labius-disemelo/badges
 Kyle,,Marunda,1,/users/kyle-marunda/badges
 Cameron,,Fisher,1,/users/cameron-fisher.fb4815da/badges
@@ -56,7 +56,7 @@ Sebastian,,Jacobs,1,/users/sebastian-jacobs.c54ec870/badges
 Thabo,,Jafta,1,/users/thabojafta/badges
 Anesu,,Mutumwa,1,/users/anesu-mutumwa/badges
 Marcus,,Nkadimeng,1,/users/marcus-nkadimeng/badges
-Gamuchirai Moreblessing,,Muchafa,0,/users/gamuchirai-moreblessing-muchafa/badges
+Gamuchirai Moreblessing,,Muchafa,2,/users/gamuchirai-moreblessing-muchafa/badges
 Aboobaker,,Banoo,1,/users/aboobaker-banoo/badges
 Kevin,,Ilunga,1,/users/kevin-ilunga.e79a1f61/badges
 Richard Junior Nathan,,Chinomona,1,/users/richard-junior-nathan-chinomona/badges
@@ -78,7 +78,7 @@ Kaitlyn,,Sookdhew,1,/users/kaitlyn-sookdhew/badges
 Matshidiso Agnes,,Hlalele,1,/users/matshidiso-agnes-hlalele/badges
 robin,,murphy,1,/users/robin-murphy.01089520/badges
 Khotso,,Bore,1,/users/khotso-bore/badges
-Schalk,,Burger,2,/users/schalk-burger.509c20c7/badges
+Schalk,,Burger,0,/users/schalk-burger.509c20c7/badges
 Graham,,Hill,1,/users/grahamhill/badges
 Sibusiso,,Mfana,1,/users/sibusiso-mfana.e9785ec3/badges
 Danilla,,Burgess,1,/users/danilla-burgess/badges
@@ -95,7 +95,7 @@ Richard,,Basson,1,/users/richard-basson/badges
 Michael,,Klopper,1,/users/michael-klopper.39c311d9/badges
 Rudi,,Terblanche,1,/users/ruditerblanche/badges
 Malcolm,,Camelo,1,/users/malcolm-camelo.eab81397/badges
-Adrian,,Mudzwiti,0,/users/adrianmudzwiti/badges
+Adrian,,Mudzwiti,2,/users/adrianmudzwiti/badges
 Ashlin,,Govindasamy,1,/users/ashlin-govindasamy/badges
 Carike,,Blignaut-Staden,4,/users/carike/badges
 Siphamandla,,Zolakhe,1,/users/siphamandla-zolakhe/badges

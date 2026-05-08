@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Samuel,,Afolabi,4,/users/samuel-afolabi.4b624579/badges
+Samuel,,Afolabi,0,/users/samuel-afolabi.4b624579/badges
 Promise,,Igbo,10,/users/promise-igbo/badges
 Precious,,Olowookere,1,/users/precious-olowookere/badges
 Oluebube,,Victoria,1,/users/oluebube-victoria/badges
@@ -11,7 +11,7 @@ Joanne,,Obodoagwu,2,/users/joanne-obodoagwu/badges
 Oyin,,Dawodu,1,/users/oyin-dawodu/badges
 Taofeeq,Adeoye,Bello,6,/users/taofeeq-bello.110ee8a5/badges
 Kenechukwu,,Echendu,2,/users/kenechukwu-echendu/badges
-Ibidapo,,Babatunde,0,/users/ibidapo-babatunde/badges
+Ibidapo,,Babatunde,2,/users/ibidapo-babatunde/badges
 Samuel,,Fatogun,1,/users/samuel-fatogun/badges
 Hezekiah,,Ogundele,5,/users/hezekiah-ogundele/badges
 Lateef,,Taiwo,1,/users/lateef-taiwo/badges
@@ -168,8 +168,8 @@ Shalom,,Oladokun,1,/users/shalom-oladokun.f5058692/badges
 Tunde,,Kelani,2,/users/tunde-kelani/badges
 Joseph,,Oseyamen,2,/users/joseph-oseyamen/badges
 Michael,Biodun,Olomide,1,/users/michael-olomide/badges
-Blessing,,Ibanga,0,/users/blessing-ibanga/badges
-Ayibatonye,,Tonye,2,/users/ayibatonye-tonye/badges
+Blessing,,Ibanga,2,/users/blessing-ibanga/badges
+Ayibatonye,,Tonye,0,/users/ayibatonye-tonye/badges
 Mudasiru,,Rasheed Taiwo,3,/users/taiwrash/badges
 Iyanuoluwa,,Adebayo,1,/users/iyanuoluwa-adebayo/badges
 Maxwell,,Ugochukwu,1,/users/maxwell-ugochukwu.3dd4e443/badges
@@ -328,7 +328,7 @@ Samuel,,Chigozie,1,/users/samuel-chigozie/badges
 Uchechukwu,,Emmanuel,1,/users/uchechukwu-emmanuel.3d152696/badges
 Precious,,Amuh,1,/users/precious-amuh/badges
 Victor,Olamide,Akande,1,/users/avictorx/badges
-OluDayo,,Orunsolu,1,/users/dayo777/badges
+OluDayo,,Orunsolu,6,/users/dayo777/badges
 Eyoto,,Oviawe,2,/users/eyoto-oviawe/badges
 Franklin,,Afolabi,1,/users/frankfolabi/badges
 Olajide,Omotunde,oretade,1,/users/omotunde-oretade/badges
@@ -347,7 +347,7 @@ Theophilus,,Sawyerr,2,/users/theophilus-sawyerr/badges
 Jefferson,,Usianene,1,/users/jefferson-usianene/badges
 Cephas,,Chukwuwike,1,/users/cephas-chukwuwike.8e774a66/badges
 Ogu-Jude,,Chidiegwu,1,/users/ogu-jude-chidiegwu/badges
-Ifeanyi,,Asangwor,0,/users/ifeanyi-asangwor/badges
+Ifeanyi,,Asangwor,3,/users/ifeanyi-asangwor/badges
 Oluwaseun,,Okegbola,1,/users/oluwaseun-okegbola/badges
 Olalekan,,Oladiran,2,/users/olalekan-oladiran/badges
 Yusuf,,Okunade,1,/users/yusuf-okunade.67cea850/badges
