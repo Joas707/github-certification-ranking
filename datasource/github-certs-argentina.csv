@@ -1,7 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Lautaro,,Orellano,10,/users/lautaro-orellano/badges
 pier leandro,,camps,5,/users/pier-leandro-camps/badges
-julian maximiliano,,gonzalez,0,/users/julian-maximiliano-gonzalez/badges
+julian maximiliano,,gonzalez,7,/users/julian-maximiliano-gonzalez/badges
 Elvio,,Nabot,5,/users/elvio-nabot/badges
 Mercedes,,Seisdedos,1,/users/mercedes-seisdedos/badges
 Hector,,Nevares,2,/users/hector-nevares/badges
@@ -48,7 +48,7 @@ Franco,Roberto,Maieli,2,/users/franco-maieli/badges
 Christian,,Claros,1,/users/christian-claros.02ef0b0f/badges
 Kevin,,Lannes,1,/users/kevin-lannes/badges
 ignacio,,pucheta,1,/users/ignacio-pucheta/badges
-Christian,,Tamanini,2,/users/christian-tamanini/badges
+Christian,,Tamanini,0,/users/christian-tamanini/badges
 Alejandro Luis,,Trucco,1,/users/alejandro-luis-trucco/badges
 Rodrigo,,Traid,1,/users/rodrigo-traid/badges
 Daniel,,Calla,1,/users/daniel-calla/badges
@@ -113,7 +113,7 @@ Eros,Alesandro,Calvimonti,1,/users/eros-calvimonti/badges
 Jheyson,,Vegas,2,/users/jheyson-vegas/badges
 Eduardo,,Van Cauteren,2,/users/eduardo-van-cauteren/badges
 Franco Joaquin,,Torres,1,/users/franco-joaquin-torres/badges
-Sabrina,,Deibe,0,/users/sabrina-deibe/badges
+Sabrina,,Deibe,3,/users/sabrina-deibe/badges
 guille,,Illanes,1,/users/guille-illanes/badges
 Cristian,,Bravo,1,/users/cristian-bravo.1a5069e5/badges
 Miguel,,Albornoz,1,/users/miguel-albornoz.71ecdc01/badges
@@ -157,7 +157,7 @@ Jorge Nahuel,,Perez,1,/users/jorge-nahuel-perez/badges
 Emmanuel,,Torrado,1,/users/emmanuel-torrado/badges
 Virginia,,Hamra,1,/users/virginia-hamra.a0cfe722/badges
 Fabian,,Massotto,1,/users/fabian-massotto/badges
-Marco,,Fernandez Rolon,3,/users/marco-fernandez-rolon.192e49e0/badges
+Marco,,Fernandez Rolon,0,/users/marco-fernandez-rolon.192e49e0/badges
 Joan Gabriel,,Aliberti,1,/users/joan-gabriel-aliberti/badges
 Juan Pablo,,Olivieri,1,/users/juan-pablo-olivieri/badges
 Facundo,,Santiago,1,/users/facundo-santiago/badges
