@@ -1,39 +1,39 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Lautaro,,Orellano,10,/users/lautaro-orellano/badges
 pier leandro,,camps,5,/users/pier-leandro-camps/badges
-julian maximiliano,,gonzalez,7,/users/julian-maximiliano-gonzalez/badges
-Elvio,,Nabot,5,/users/elvio-nabot/badges
+julian maximiliano,,gonzalez,0,/users/julian-maximiliano-gonzalez/badges
+Elvio,,Nabot,0,/users/elvio-nabot/badges
 Mercedes,,Seisdedos,1,/users/mercedes-seisdedos/badges
 Hector,,Nevares,2,/users/hector-nevares/badges
 Lucas,,Blanco,5,/users/lucas-blanco.d7b12395/badges
-Guillermo,,Vasconcelos,1,/users/guillermo-vasconcelos/badges
+Guillermo,,Vasconcelos,0,/users/guillermo-vasconcelos/badges
 Darío,,Lingotti,1,/users/dario-lingotti/badges
 Pablo,,Corvalan,0,/users/pablo-corvalan.442f8641/badges
 宏涛,,袁,1,/users/username.216f0376/badges
-Jeremias,,Lopez,1,/users/jeremias-lopez.ef90423e/badges
-Ismael Oscar,,Espindola Olmos,1,/users/ismael-oscar-espindola-olmos/badges
-Lautaro,,Matos Aragon,1,/users/lautaro-matos-aragon/badges
-Diego,,d...o@globallogic.com,1,/users/diego-d-o-globallogic-com/badges
-Diego,,Mengarelli,1,/users/diego-mengarelli.75306b38/badges
-Nicolás,,Torrente,1,/users/nicolas-torrente.e5ccd7b5/badges
+Jeremias,,Lopez,0,/users/jeremias-lopez.ef90423e/badges
+Ismael Oscar,,Espindola Olmos,0,/users/ismael-oscar-espindola-olmos/badges
+Lautaro,,Matos Aragon,0,/users/lautaro-matos-aragon/badges
+Diego,,d...o@globallogic.com,0,/users/diego-d-o-globallogic-com/badges
+Diego,,Mengarelli,0,/users/diego-mengarelli.75306b38/badges
+Nicolás,,Torrente,0,/users/nicolas-torrente.e5ccd7b5/badges
 Facundo,,Pegue,1,/users/facundo-pegue/badges
 Ricardo G.,,Sessa,1,/users/ricardo-g-sessa/badges
 Sacha,,Alter,1,/users/sacha-alter/badges
-Michelle,,Perna,1,/users/michelleperna/badges
+Michelle,,Perna,0,/users/michelleperna/badges
 Carina,,Payleman,1,/users/carina-payleman/badges
 Francisco,,Alenda Dohmen,1,/users/francisco-alenda-dohmen/badges
 Ernesto,,Mangia,1,/users/ernestomangia/badges
-Mario Alfredo,,Quevedo,0,/users/mario-alfredo-quevedo/badges
+Mario Alfredo,,Quevedo,1,/users/mario-alfredo-quevedo/badges
 Sebastian,,Longhitano,1,/users/sebastian-longhitano/badges
 Sandra,,Garaycochea,1,/users/sandra-garaycochea/badges
-Federico,,Valetutti,2,/users/federico-valetutti/badges
-Aman,,Puri,1,/users/aman-puri.4f7837bf/badges
+Federico,,Valetutti,0,/users/federico-valetutti/badges
+Aman,,Puri,0,/users/aman-puri.4f7837bf/badges
 Enzo,,Davico,1,/users/envico801/badges
-Ella Rohana Venice,,Lo Re Mansilla,2,/users/ella-rohana-venice-lo-re-mansilla/badges
-Florencia,Micaela,Oviedo,1,/users/florencia-oviedo/badges
-Sofia,,Gurruchaga,0,/users/sofia-gurruchaga.a5ee35af/badges
+Ella Rohana Venice,,Lo Re Mansilla,0,/users/ella-rohana-venice-lo-re-mansilla/badges
+Florencia,Micaela,Oviedo,0,/users/florencia-oviedo/badges
+Sofia,,Gurruchaga,1,/users/sofia-gurruchaga.a5ee35af/badges
 maria josé,,egea mussi,0,/users/maria-jose-egea-mussi/badges
-Sebastián,,Benzal,3,/users/sebastian-benzal.42cfcf0a/badges
+Sebastián,,Benzal,0,/users/sebastian-benzal.42cfcf0a/badges
 Alejandro,,Firdman,1,/users/alejandro-firdman/badges
 Agustina,,Elizagaray,1,/users/agustina-elizagaray.737ff849/badges
 Marcos,,Peirone,1,/users/marcos-peirone/badges
@@ -43,7 +43,7 @@ Gerardo Gonzalo,,Stete Armoa,1,/users/gerardo-gonzalo-stete-armoa.5228223e/badge
 Leonardo,,Chiessa,1,/users/leonardo-chiessa/badges
 Lucas,,Beronne,1,/users/lucas-beronne/badges
 Franco Nahuel,,Aquino,1,/users/franco-nahuel-aquino/badges
-Araceli,,Vera,4,/users/araceli-vera/badges
+Araceli,,Vera,0,/users/araceli-vera/badges
 Franco,Roberto,Maieli,2,/users/franco-maieli/badges
 Christian,,Claros,1,/users/christian-claros.02ef0b0f/badges
 Kevin,,Lannes,1,/users/kevin-lannes/badges
@@ -51,7 +51,7 @@ ignacio,,pucheta,1,/users/ignacio-pucheta/badges
 Christian,,Tamanini,2,/users/christian-tamanini/badges
 Alejandro Luis,,Trucco,1,/users/alejandro-luis-trucco/badges
 Rodrigo,,Traid,1,/users/rodrigo-traid/badges
-Daniel,,Calla,1,/users/daniel-calla/badges
+Daniel,,Calla,0,/users/daniel-calla/badges
 Guillermo,,Lopez Pisani,1,/users/guillermo-lopez-pisani/badges
 Facundo,,Marianelli Keichian,1,/users/facundo-marianelli-keichian/badges
 Mariano,,Lahoz,1,/users/mariano-lahoz/badges
@@ -88,7 +88,7 @@ Paula,,Bariffo Telayna,1,/users/paula-bariffo-telayna/badges
 Tatiana,,Muñoz,1,/users/tatiana-munoz.737888df/badges
 Ivan,,Sosa,1,/users/ivan-sosa.bd87ae50/badges
 Juan Ignacio,,Cansillieri,2,/users/juan-ignacio-cansillieri/badges
-Flavia,,Gonzalez,2,/users/flavia-gonzalez.f18cb827/badges
+Flavia,,Gonzalez,0,/users/flavia-gonzalez.f18cb827/badges
 Mercedes,,Funes,2,/users/mercedes-funes.ac3fa4ec/badges
 Noelia,,Altamirano,1,/users/noelia-altamirano/badges
 Lucas,,Cristaldo,1,/users/lucas-cristaldo.e83bdf70/badges
@@ -96,7 +96,7 @@ Nicolas Felipe,,Vanderstichel,1,/users/nicolas-felipe-vanderstichel/badges
 Micael,,Virgilio,1,/users/micael-virgilio.046501c0/badges
 Giuliano,Gabriel,Fernandez,1,/users/giuliano-fernandez/badges
 Fernando Joel,,Cordoba,1,/users/fernando-joel-cordoba/badges
-Nicolas Andres,,Calvo,5,/users/nicolas-andres-calvo/badges
+Nicolas Andres,,Calvo,0,/users/nicolas-andres-calvo/badges
 Tomás,,Maritano,1,/users/tomas-maritano/badges
 Emanuel,,Prado Macat,1,/users/emanuel-prado-macat/badges
 Abel Anibal,,Caceres,1,/users/abel-anibal-caceres/badges
@@ -144,20 +144,20 @@ Rodolfo Ariel,,Fernandez,1,/users/rodolfo-ariel-fernandez/badges
 Genesis,,Perez,1,/users/genesis-perez.e21d5a10/badges
 Mariano,,Parisi,1,/users/mariano-parisi.4e85dea6/badges
 Pedro,,Pinto,1,/users/pedro-pinto.9d80aee7/badges
-Pamela,,Bergonzi,3,/users/pamela-bergonzi/badges
+Pamela,,Bergonzi,0,/users/pamela-bergonzi/badges
 Nicolas,,Tarquini,1,/users/nicolas-tarquini/badges
 Sebastián,,Ruiz Martínez,1,/users/sebastianruizm/badges
 Sebastián,,Azcárate,1,/users/sebastian-azcarate/badges
 Sebastian,Leonardo,Perez,1,/users/sebastian-perez.f02ebce5/badges
 Araceli,,Vera,1,/users/araceli-vera.91aeaf53/badges
 Andres,,Muñoz Pampillon,1,/users/andres-munoz-pampillon/badges
-Jorge,Luis,Morales,2,/users/jorge-luis-morales/badges
+Jorge,Luis,Morales,0,/users/jorge-luis-morales/badges
 Mariano,,Cannizzaro,1,/users/mariano-cannizzaro/badges
 Jorge Nahuel,,Perez,1,/users/jorge-nahuel-perez/badges
 Emmanuel,,Torrado,1,/users/emmanuel-torrado/badges
 Virginia,,Hamra,1,/users/virginia-hamra.a0cfe722/badges
 Fabian,,Massotto,1,/users/fabian-massotto/badges
-Marco,,Fernandez Rolon,3,/users/marco-fernandez-rolon.192e49e0/badges
+Marco,,Fernandez Rolon,0,/users/marco-fernandez-rolon.192e49e0/badges
 Joan Gabriel,,Aliberti,1,/users/joan-gabriel-aliberti/badges
 Juan Pablo,,Olivieri,1,/users/juan-pablo-olivieri/badges
 Facundo,,Santiago,1,/users/facundo-santiago/badges

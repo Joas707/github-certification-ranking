@@ -1,46 +1,46 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Askin,,Kilic,5,/users/askin-kilic/badges
 Metin,Sertac,Bayır,6,/users/metin-sertac-bayir/badges
-Emir,,Hardal,3,/users/fizikcimuhendis/badges
-Emre Ozan,,Memis,10,/users/emre-ozan-memis/badges
-Hakkı,,Sağdıç,1,/users/hakki-sagdic/badges
+Emir,,Hardal,0,/users/fizikcimuhendis/badges
+Emre Ozan,,Memis,0,/users/emre-ozan-memis/badges
+Hakkı,,Sağdıç,0,/users/hakki-sagdic/badges
 Bedirhan,,KURT,1,/users/bedirhan-kurt.c3150e8a/badges
 Bora,,ARAT,1,/users/bora-arat/badges
 Ender,,Karan,1,/users/ender-karan.cb3f9a7c/badges
 Selen,,Demir,1,/users/selen-demir/badges
-Dalım,,Çepiç,1,/users/dalim-cepic/badges
-Ali,,Yilmaz,1,/users/ali-yilmaz.8d1d5aa8/badges
+Dalım,,Çepiç,0,/users/dalim-cepic/badges
+Ali,,Yilmaz,0,/users/ali-yilmaz.8d1d5aa8/badges
 bardia,,ramez,1,/users/bardia-ramez/badges
-Mohammad Soroush,,Masoum Beiki,0,/users/mohammad-soroush-masoum-beiki/badges
+Mohammad Soroush,,Masoum Beiki,1,/users/mohammad-soroush-masoum-beiki/badges
 Özel,,Tam,1,/users/ozel-tam/badges
 Halil İbrahim,,Kutmur,1,/users/halil-ibrahim-kutmur/badges
-Musa,,Bostanci,1,/users/musa-bostanci/badges
-Burak,,Köse,1,/users/burak-kose.2af8aafd/badges
-Ogulcan,,Altunorgu,1,/users/ogulcan-altunorgu/badges
+Musa,,Bostanci,0,/users/musa-bostanci/badges
+Burak,,Köse,0,/users/burak-kose.2af8aafd/badges
+Ogulcan,,Altunorgu,0,/users/ogulcan-altunorgu/badges
 Halil,,Turkoglu,1,/users/halil-turkoglu/badges
 Cengiz Berkay,,Kaya,1,/users/cengiz-berkay-kaya/badges
 Eren,,İşlek,1,/users/eren-islek/badges
 MUSTAFA,,AKALIN,1,/users/mustafa-akalin.d376095f/badges
-Efe,Umut,Aslan,1,/users/efe-umut-aslan/badges
+Efe,Umut,Aslan,0,/users/efe-umut-aslan/badges
 Muhammed Rıza,,Kaynak,1,/users/muhammed-riza-kaynak/badges
 Mehmet,,Can Gülseroğlu,1,/users/mehmet-can-gulseroglu/badges
 Ivan,,FEDIAEV,1,/users/ivan-fediaev.3f2a842c/badges
 Mete,,Fırtına,1,/users/mete-firtina/badges
 Tuğcan,,Topaloğlu,1,/users/tugcan-topaloglu/badges
-Ömer,,Büyükçelik,1,/users/omer-buyukcelik/badges
-Mustafa,,Masri,1,/users/mustafa-masri.bb3faffd/badges
+Ömer,,Büyükçelik,0,/users/omer-buyukcelik/badges
+Mustafa,,Masri,0,/users/mustafa-masri.bb3faffd/badges
 Hüseyin Serhat,,Han,1,/users/huseyin-serhat-han/badges
 Hüseyin,,ASLIM,1,/users/huseyin-aslim/badges
 Sergen,,Aras,1,/users/sergenaras/badges
 Emre,,Kayaküçük,1,/users/emre-kayakucuk/badges
-Hüsam,,Yıldırım,1,/users/husam-yildirim/badges
+Hüsam,,Yıldırım,0,/users/husam-yildirim/badges
 Oğuzhan,,Güral,3,/users/oguzhan-gural/badges
 MUSTAFA,,SARI,1,/users/mustafa-sari.37a0be7a/badges
-Yiğit,,Güvenç,1,/users/yigit-guvenc/badges
-Mehmet Salih,,Yavuz,1,/users/mehmet-salih-yavuz.71b1bce8/badges
+Yiğit,,Güvenç,0,/users/yigit-guvenc/badges
+Mehmet Salih,,Yavuz,0,/users/mehmet-salih-yavuz.71b1bce8/badges
 Talip,,Durmuş,1,/users/talip-durmus/badges
 MOSAB ABOIDREES ALTRAIFI,,YOUSIF,1,/users/mosab-aboidrees-altraifi-yousif/badges
-Dmitry,,Kolotsey,3,/users/dmitry-kolotsey/badges
+Dmitry,,Kolotsey,0,/users/dmitry-kolotsey/badges
 Fatih,,Soylemez,1,/users/fatih-soylemez.44ea10ba/badges
 Aylin,,Öztürk,1,/users/aylin-ozturk.4e3a45e6/badges
 Ömer Faruk,Faruk,Akyazan,1,/users/faruk-akyazan/badges
@@ -48,7 +48,7 @@ malik,,ayhan,1,/users/malik-ayhan/badges
 Zyad,,Abdelhafiz,1,/users/zyad-abdelhafiz/badges
 Furkan,,Ulutaş,1,/users/furkan-ulutas/badges
 Kaan,,Sakallı,1,/users/kaan-sakalli/badges
-mogahid,,gaffar,2,/users/mogahid-gaffar/badges
+mogahid,,gaffar,0,/users/mogahid-gaffar/badges
 Ömer,,Karaca,1,/users/omer-karaca.d97949fc/badges
 Eyyüp,,TAZECAN,1,/users/eyyup-tazecan/badges
 Guray,,Cetin,1,/users/guray-cetin/badges
@@ -58,7 +58,7 @@ Tolunay,,Dündar,1,/users/tolunaydundar/badges
 Fırat,,OLÇUM,1,/users/firatolcum/badges
 Mehmet Burak,,CETIN,1,/users/mehmet-burak-cetin/badges
 Kaan,,Tekiner,1,/users/kaan-tekiner.dd87cad4/badges
-Atil Eren,,Sensalduz,5,/users/atil-eren-sensalduz/badges
+Atil Eren,,Sensalduz,0,/users/atil-eren-sensalduz/badges
 Halim,,Ocaklı,1,/users/halim-ocakli/badges
 Duygu,,Silivri,4,/users/duygu-silivri/badges
 Ercan,,KURT,1,/users/supercanki/badges
@@ -74,7 +74,7 @@ Evren,,Tan,1,/users/evren/badges
 Tunc,,Celik,1,/users/tunc-celik/badges
 Ulaş,,Bayraktar,1,/users/ulas-bayraktar/badges
 Abuobaida,,Abdi,1,/users/abuobaida-abdi/badges
-Umut,,Doğan,3,/users/umutdogan/badges
+Umut,,Doğan,1,/users/umutdogan/badges
 Yavuzhan,,Saglam,1,/users/yavuzhan-saglam/badges
 SUDAD,,ABDULATEEF ABDULRAZZAQ ABDUL R.,1,/users/sudad-al-ajili/badges
 Serkan,,Dağtekin,1,/users/serkan-dagtekin/badges
