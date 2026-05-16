@@ -1,15 +1,19 @@
 # 🦁 TOP 10 GitHub Certifications - Africa
 
-> Last updated: May 15, 2026 at 03:23 UTC
+> Last updated: May 16, 2026 at 02:52 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Olatunji Samson](https://www.credly.com/users/olatunji-pelz-samson/badges) | 5 |  | Nigeria |
-| 🥈 #2 | [El Mehdi Moustahib](https://www.credly.com/users/elmehdimst/badges)<br>[Noble Enyinnaya](https://www.credly.com/users/noble-enyinnaya/badges) | 3 | Deloitte<br>Tek Experts | Morocco<br>Nigeria |
-| 🥉 #3 | [Aseru Kevin Ziyada](https://www.credly.com/users/aseru-kevin-ziyada/badges)<br>[Ayoub Laaoufi](https://www.credly.com/users/ayoub-laaoufi.8c0c991e/badges)<br>[Belvah Shanyisa](https://www.credly.com/users/belvah-shanyisa.1c1e7e9a/badges)<br>[Cephas Tokoli](https://www.credly.com/users/cephas-tokoli/badges)<br>[Gamuchirai Moreblessing Muchafa](https://www.credly.com/users/gamuchirai-moreblessing-muchafa/badges)<br>[Geoffrey Muasya](https://www.credly.com/users/geoffrey-muasya/badges)<br>[Joanne Obodoagwu](https://www.credly.com/users/joanne-obodoagwu/badges)<br>[Joseph Olale](https://www.credly.com/users/joseph-olale.78f7cc67/badges)<br>[KEN MWAURA](https://www.credly.com/users/ken-mwaura.b456cfd3/badges)<br>[Kenechukwu Echendu](https://www.credly.com/users/kenechukwu-echendu/badges)<br>[Mohamed chatr](https://www.credly.com/users/mohamed-chatr/badges)<br>[Mounssif BOUHLAOUI](https://www.credly.com/users/mounssif-bouhlaoui/badges)<br>[Mustapha Belmokhtar](https://www.credly.com/users/mustapga-belmokhtar/badges)<br>[Muti Aaron](https://www.credly.com/users/muti-aaron/badges)<br>[Nzubechukwu Igwagu](https://www.credly.com/users/nzubechukwu-igwagu/badges)<br>[Schalk Burger](https://www.credly.com/users/schalk-burger.509c20c7/badges) | 2 | <br><br><br><br>Gamu<br><br><br><br><br><br><br><br><br><br><br> | Uganda<br>Morocco<br>Kenya<br>Ghana<br>South Africa<br>Kenya<br>Nigeria<br>Kenya<br>Kenya<br>Nigeria<br>Morocco<br>Morocco<br>Morocco<br>Namibia<br>Nigeria<br>South Africa |
-| #4 | [Abd EL-Rhman Arafa](https://www.credly.com/users/abd-el-rhman-arafa/badges)<br>[Abdallah yessine kriaa](https://www.credly.com/users/abdallah-yessine-kriaa/badges)<br>[Abdelrahman Ahmed](https://www.credly.com/users/abdelrahman-ahmed.58e9a374/badges)<br>[Abdelrahman Amro Emara](https://www.credly.com/users/abdelrahman-amro-emara/badges)<br>[Abdelrhman Eldesoky](https://www.credly.com/users/abdelrhman-eldesoky.09fde726/badges)<br>[Abdulai Bah](https://www.credly.com/users/abdulai-bah.72c0b694/badges)<br>[Abdulrahman Borham](https://www.credly.com/users/abdulrahman-borham/badges)<br>[Abdulsemiu Kusimo](https://www.credly.com/users/abdulsemiu-kusimo/badges)<br>[Abigail Gbadago](https://www.credly.com/users/abigail-gbadago.131e833d/badges)<br>[Aboobaker Banoo](https://www.credly.com/users/aboobaker-banoo/badges)<br>[Achraf Elhadjaoui](https://www.credly.com/users/achraf-elhadjaoui/badges)<br>[Adolf Odhiambo](https://www.credly.com/users/adolf-odhiambo/badges)<br>[ADRIEL TASSING MWOFOH](https://www.credly.com/users/adriel-tassing-mwofoh/badges)<br>[Ahmed Aboutaleb](https://www.credly.com/users/ahmed-aboutaleb.bd04c953/badges)<br>[Ahmed Bentabet](https://www.credly.com/users/ahmed-bentabet/badges)<br>[Ahmed Hanye](https://www.credly.com/users/ahmed-hanye.05db8b99/badges)<br>[Ahmed Najash Ahmed](https://www.credly.com/users/ahmed-najash-ahmed/badges)<br>[AKANGA ANDREW](https://www.credly.com/users/akanga-andrew/badges)<br>[ALBERTO JUNIOR](https://www.credly.com/users/alberto-junior.9a762727/badges)<br>[Alex Raza](https://www.credly.com/users/alexraza/badges)<br>*... and 379 more* | 1 | <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> | Egypt<br>Tunisia<br>Egypt<br>Egypt<br>Egypt<br>Sierra Leone<br>Egypt<br>Nigeria<br>Ghana<br>South Africa<br>Morocco<br>Kenya<br>Cameroon<br>Egypt<br>Morocco<br>Egypt<br>Kenya<br>Uganda<br>Kenya<br>Kenya<br> |
+| 🥇 #1 | [Enoch Nii Lante France](https://www.credly.com/users/enoch-nii-lante-france/badges) | 12 | Cloudware Africa | Ghana |
+| 🥈 #2 | [Promise Igbo](https://www.credly.com/users/promise-igbo/badges) | 10 | Reliance Infosystems Limited | Nigeria |
+| 🥉 #3 | [OluDayo Orunsolu](https://www.credly.com/users/dayo777/badges)<br>[Taofeeq Adeoye Bello](https://www.credly.com/users/taofeeq-bello.110ee8a5/badges) | 6 | <br> | Nigeria<br>Nigeria |
+| #4 | [Hezekiah Ogundele](https://www.credly.com/users/hezekiah-ogundele/badges)<br>[Jude Igwe](https://www.credly.com/users/jude-igwe.d9545592/badges)<br>[Obaro Olori](https://www.credly.com/users/obaro-olori.97a0b7b9/badges)<br>[Olatunji Samson](https://www.credly.com/users/olatunji-pelz-samson/badges) | 5 | <br><br><br> | Nigeria<br>Nigeria<br>Nigeria<br>Nigeria |
+| #5 | [Ali Heikal](https://www.credly.com/users/aliheikal/badges)<br>[Carike Blignaut-Staden](https://www.credly.com/users/carike/badges)<br>[Fred Nyakagwa](https://www.credly.com/users/fred-nyakagwa/badges)<br>[Paul Wechuli](https://www.credly.com/users/paul-wechuli/badges)<br>[Samuel Afolabi](https://www.credly.com/users/samuel-afolabi.4b624579/badges)<br>[TIMILEHIN ADEFARE](https://www.credly.com/users/timilehin-adefare.5fbf51df/badges) | 4 | <br>OUTsurance<br><br><br><br>Tek Experts Nigeria Limited | Egypt<br>South Africa<br>Kenya<br>Kenya<br>Nigeria<br>Nigeria |
+| #6 | [Akinkunmi Anthony Afolabi](https://www.credly.com/users/akinkunmi-afolabi/badges)<br>[Amr Kamal](https://www.credly.com/users/amr-kamal.544fc3b4/badges)<br>[Clifford Ochieng Ouma](https://www.credly.com/users/clifford-ouma/badges)<br>[El Mehdi Moustahib](https://www.credly.com/users/elmehdimst/badges)<br>[Eniola Benjamin-Ade](https://www.credly.com/users/eniola-benjamin-ade/badges)<br>[Haruna Popoola](https://www.credly.com/users/haruna-popoola/badges)<br>[Ifeanyi Asangwor](https://www.credly.com/users/ifeanyi-asangwor/badges)<br>[Kayode Yusuf](https://www.credly.com/users/kayode-yusuf.223018ca/badges)<br>[LEWIS SAWE](https://www.credly.com/users/lewisawe/badges)<br>[Mary Ajayi](https://www.credly.com/users/mary-ajayi.dc37c597/badges)<br>[Mudasiru Rasheed Taiwo](https://www.credly.com/users/taiwrash/badges)<br>[Noble Enyinnaya](https://www.credly.com/users/noble-enyinnaya/badges)<br>[Oluwaseun Ayodeji](https://www.credly.com/users/oluwaseun-ayodeji.48975b9e/badges)<br>[Oluwatosin Famoofo](https://www.credly.com/users/oluwatosin-famoofo/badges)<br>[Peter Juma](https://www.credly.com/users/peter-juma/badges)<br>[Rehab Ragab](https://www.credly.com/users/rehab-abotalep/badges)<br>[Sekinat Okhamena](https://www.credly.com/users/sekinat-okhamena.7814ae19/badges)<br>[Valentine Stephen](https://www.credly.com/users/valentine-stephen/badges) | 3 | GitHub<br><br>Aimily App<br>Deloitte<br>Reliance Infosystems Limited<br><br>Sangndu<br><br><br>ADP<br><br>Tek Experts<br><br><br><br><br><br> | Nigeria<br>Egypt<br>Kenya<br>Morocco<br>Nigeria<br>Nigeria<br>Nigeria<br>Nigeria<br>Kenya<br>Nigeria<br>Nigeria<br>Nigeria<br>Nigeria<br>Nigeria<br>Kenya<br>Egypt<br>Nigeria<br>Nigeria |
+| #7 | [Abdallah Mohamed](https://www.credly.com/users/abdallah-mohamed.1eaa3f27/badges)<br>[Abdelrhman Amen](https://www.credly.com/users/abdelrhman-amen/badges)<br>[Abigaïl Sylvie](https://www.credly.com/users/abigail-sylvie/badges)<br>[Adeolu Adeyemi](https://www.credly.com/users/adeolu-adeyemi.0e063028/badges)<br>[Adrian Mudzwiti](https://www.credly.com/users/adrianmudzwiti/badges)<br>[Ahmed Mohamed Ali Gaber](https://www.credly.com/users/ahmed-mohamed-ali-gaber/badges)<br>[Aishat Muhammed](https://www.credly.com/users/aishat-muhammed/badges)<br>[Akan Bassey](https://www.credly.com/users/akan-bassey/badges)<br>[Akindele Olawole](https://www.credly.com/users/akindele-olawole.63c2b3a2/badges)<br>[Akpevwe Praise](https://www.credly.com/users/akpevwe-praise/badges)<br>[Aristide Idriss Fotso notouom](https://www.credly.com/users/aristide-idriss-foto-notouom/badges)<br>[Aseru Kevin Ziyada](https://www.credly.com/users/aseru-kevin-ziyada/badges)<br>[Ayibatonye Tonye](https://www.credly.com/users/ayibatonye-tonye/badges)<br>[Ayoub Laaoufi](https://www.credly.com/users/ayoub-laaoufi.8c0c991e/badges)<br>[BAIMAM BOUKAR JEAN JACQUES](https://www.credly.com/users/baimamboukar/badges)<br>[Bello Oluwatomisin](https://www.credly.com/users/bello-oluwatomisin/badges)<br>[Belvah Shanyisa](https://www.credly.com/users/belvah-shanyisa.1c1e7e9a/badges)<br>[BERNARD UWAEZUOKE](https://www.credly.com/users/bernard-uwaezuoke/badges)<br>[Blessing Ibanga](https://www.credly.com/users/blessing-ibanga/badges)<br>[Blessing Onwunali](https://www.credly.com/users/blessing-onwunali/badges)<br>*... and 70 more* | 2 | <br><br>student<br><br>BUI<br><br><br>Ha-Shem Limited<br><br><br>Augentic - Passcam<br><br><br><br>CyLab Africa<br>Babbangona<br><br>Peabsmart MB, Consulting<br><br><br> | Egypt<br>Egypt<br>Cameroon<br>Nigeria<br>South Africa<br>Egypt<br>Nigeria<br>Nigeria<br>Nigeria<br>Nigeria<br>Cameroon<br>Uganda<br>Nigeria<br>Morocco<br>Cameroon<br>Nigeria<br>Kenya<br>Nigeria<br>Nigeria<br>Nigeria<br> |
+| #8 | [Aaron de Vroede](https://www.credly.com/users/aaron-de-vroede/badges)<br>[Abd EL-Rhman Arafa](https://www.credly.com/users/abd-el-rhman-arafa/badges)<br>[Abdallah Afifi](https://www.credly.com/users/abdallah-afifi/badges)<br>[Abdallah Amir Monir](https://www.credly.com/users/abdallah-amir/badges)<br>[Abdallah Labeb](https://www.credly.com/users/abdallah-labeb/badges)<br>[Abdallah yessine kriaa](https://www.credly.com/users/abdallah-yessine-kriaa/badges)<br>[Abdel-Hamed Abdel-Nasser](https://www.credly.com/users/abdel-hamed-abdel-nasser/badges)<br>[ABDELLATIF EL YOUSSEFY](https://www.credly.com/users/abdellatif-el-youssefy/badges)<br>[Abdelrahman Abdelnasser Gamal Mohamed Hassan Abdelrahman](https://www.credly.com/users/abdelrahman-abdelrahman.e39fc1c5/badges)<br>[Abdelrahman Ahmed](https://www.credly.com/users/abdelrahman-ahmed.58e9a374/badges)<br>[Abdelrahman Amro Emara](https://www.credly.com/users/abdelrahman-amro-emara/badges)<br>[AbdElRahman El-Bahrawy](https://www.credly.com/users/abdelrahman-el-bahrawy/badges)<br>[abdelrahman elzarka](https://www.credly.com/users/abdelrahman-elzarka.f5ab698b/badges)<br>[Abdelrhman Eldesoky](https://www.credly.com/users/abdelrhman-eldesoky.09fde726/badges)<br>[Abdelrhman Salama](https://www.credly.com/users/abdelrhman-salama.831bc406/badges)<br>[Abdoul Nasser Seydou](https://www.credly.com/users/abdoul-nasser-seydou/badges)<br>[Abdqudus Gbadamosi](https://www.credly.com/users/abdqudus-gbadamosi/badges)<br>[Abdul lateef Abioye](https://www.credly.com/users/abdul-lateef-abioye/badges)<br>[Abdulai Bah](https://www.credly.com/users/abdulai-bah.72c0b694/badges)<br>[Abdulazeez Abdulazeez](https://www.credly.com/users/abdulazeez-abdulazeez.0c350e34/badges)<br>*... and 1012 more* | 1 | <br><br><br><br><br><br><br><br>None<br><br><br><br><br><br><br><br><br><br><br><br> | South Africa<br>Egypt<br>Egypt<br>Egypt<br>Egypt<br>Tunisia<br>Egypt<br>Morocco<br>Egypt<br>Egypt<br>Egypt<br>Egypt<br>Egypt<br>Egypt<br>Egypt<br>Togo<br>Nigeria<br>Nigeria<br>Sierra Leone<br>Nigeria<br> |
 
 ---
 
@@ -17,9 +21,11 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Capgemini<br>N/A<br>Deloitte<br>Tek Experts | 3 | 3<br>3<br>1<br>1 |
-| 🥈 #2 | Esprit<br>Gamu | 2 | 2<br>1 |
-| 🥉 #3 | -<br>Amazon Web Services<br>AMS Digital Solutions<br>Andela<br>BhakitahTech<br>BMW South Africa<br>Cisco Systems<br>City of Cape Town<br>Comprehensive Nuclear-Test-Ban Treaty Organization - CTBTO<br>Computer Revolution Africa Group<br>Copperbelt Energy Corporation Plc<br>Dev<br>DVT<br>Education<br>ENSIAS<br>EY<br>FGCL<br>Freelancer<br>GitHub<br>Horsebridge Network Systems EA Ltd<br>huru haven<br>Hyperskill<br>INFO BDS<br>Lamah Co<br>Mama Tech<br>Marathon XP<br>MultiThread ICT Solutions<br>Nile University<br>ODDO BHF<br>Prime Bank Ltd<br>Reliance Infosystems<br>Sand Technologies<br>Skunkworks<br>SOFTWARE ENGINEERING<br>Universiapolis<br>University of Buea<br>Vermeg<br>Vocalcom<br>xdweb | 1 | 1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1 |
+| 🥇 #1 | Reliance Infosystems Limited | 13 | 2 |
+| 🥈 #2 | Cloudware Africa | 12 | 1 |
+| 🥉 #3 | GitHub | 8 | 4 |
+| #4 | Tek Experts | 7 | 4 |
+| #5 | Ha-Shem Limited<br>OUTsurance<br>Tek Experts Nigeria Limited | 4 | 2<br>1<br>1 |
 
 ---
 
@@ -27,20 +33,20 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Kenya | 117 | 113 |
-| 🥈 #2 | Morocco | 56 | 50 |
-| 🥉 #3 | Tunisia | 55 | 55 |
-| #4 | South Africa | 48 | 46 |
-| #5 | Nigeria | 40 | 31 |
+| 🥇 #1 | Nigeria | 502 | 387 |
+| 🥈 #2 | Egypt | 219 | 204 |
+| 🥉 #3 | Kenya | 150 | 129 |
+| #4 | South Africa | 133 | 124 |
+| #5 | Morocco | 82 | 74 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 418
-- **Total Badges Earned**: 442
-- **Average Badges per User**: 1.06
-- **Highest Badge Count**: 5
+- **Total Certified Users**: 1,154
+- **Total Badges Earned**: 1,344
+- **Average Badges per User**: 1.16
+- **Highest Badge Count**: 12
 
 ---
 
