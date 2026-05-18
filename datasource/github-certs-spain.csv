@@ -1,7 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
 David,,Oliva Paredes,1,/users/david-oliva-paredes/badges
 Margarita,,Sanz,6,/users/margarita-sanz.8b60fc23/badges
-Diego,Miguel,Arostegui Galarza,3,/users/diego-miguel-arostegui/badges
+Diego,Miguel,Arostegui Galarza,0,/users/diego-miguel-arostegui/badges
 Cristina,,Infante,3,/users/cristina-infante.8c26db5e/badges
 Francisco,,Calvo Vicente,5,/users/fcalvov/badges
 Sergio,,Fernández Rubio,2,/users/sergio-fernandez-rubio.a04ec1b9/badges
@@ -242,7 +242,7 @@ Guillermo,,Quintanar Sánchez,1,/users/guillermo-quintanar-sanchez/badges
 OSMANY,,GONZALEZ DE JUANA,1,/users/osmany-gonzalez-de-juana/badges
 Ramón,,Montoya,1,/users/ramon-montoya.72d083e0/badges
 Pablo,,Uceda Fuentes,1,/users/pablo-uceda-fuentes.upo/badges
-Jorge,,Bernal Segura,0,/users/jorge-bernal-segura/badges
+Jorge,,Bernal Segura,3,/users/jorge-bernal-segura/badges
 Ismael,,García,1,/users/ismael-garcia.2c940914/badges
 Jose,Manuel,Cuervo Muñoz,1,/users/j_cuervom/badges
 Raúl,(Dibildos),González,5,/users/raul-gonzalez.a95ba674/badges

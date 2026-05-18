@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Amit,,Sharma,1,/users/amit-sharma.c8c40fe6/badges
-Miriam,,Alvad,3,/users/miriam-alvad.cf6370f0/badges
+Miriam,,Alvad,0,/users/miriam-alvad.cf6370f0/badges
 Kim Hieu,,Dang,5,/users/kim-hieu-dang/badges
 Daniel,,Russell Feather,1,/users/daniel-russell-feather/badges
 Mohammadali,,Safaie,5,/users/mohammadali-safaie.08f5f82e/badges
@@ -133,7 +133,7 @@ Mads,,Nilsen,1,/users/mads-nilsen/badges
 Kjetil,,Jacobsen,1,/users/kjetil-jacobsen/badges
 Daniel,,Eliassen,3,/users/daniel-eliassen/badges
 Sigve,,Hagesæter,2,/users/sigve-hagesaeter.7dcb0470/badges
-André,Lucas,Carvalho,0,/users/andre-carvalho.b51433c0/badges
+André,Lucas,Carvalho,2,/users/andre-carvalho.b51433c0/badges
 Knut Halvor,,Larsen,1,/users/knut-halvor-larsen/badges
 Marius,,Gutubakken,1,/users/marius-gutubakken/badges
 Espen,,Hermansen,1,/users/espen-hermansen/badges
@@ -153,7 +153,7 @@ Håvard,,Årdal,1,/users/havard-ardal/badges
 Kapil,,Sharma,1,/users/kapil-sharma.d4c62ad9/badges
 Ali,,Aljumaili,1,/users/ali-aljumaili.e4524d0b/badges
 Joakim,Daniel,Andersson,1,/users/joakim-andersson.d6d7a224/badges
-Charles,,Derber,4,/users/charles-derber/badges
+Charles,,Derber,0,/users/charles-derber/badges
 Ali Asim,,Kazmi,1,/users/aliasimkazmi/badges
 Oskar,Fjørtoft,Marthinussen,1,/users/oskar-marthinussen/badges
 Ersan,,Sinani,1,/users/ersan-sinani/badges
