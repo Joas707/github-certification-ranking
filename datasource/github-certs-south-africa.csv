@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Frederick,,Janse van Rensburg,1,/users/frederick-janse-van-rensburg/badges
-John,,Wanjiku,1,/users/john-wanjiku.0234f0cb/badges
+John,,Wanjiku,0,/users/john-wanjiku.0234f0cb/badges
 Ilana,,De Beer,1,/users/ilana-de-beer/badges
 Mohammed,,Laher,1,/users/mohammed-laher.9c893933/badges
 Vincent,,English,1,/users/vincent-english.6ae80352/badges
@@ -9,7 +9,7 @@ Rhulani,Kgosi,Mogotsi,1,/users/rhulani-mogotsi/badges
 Nonhlanhla,,Santos,1,/users/nonhlanhla-santos/badges
 Nkosinathi,,Nhlapo,1,/users/nkosinathi-nhlapo/badges
 Ramono Labius,,Disemelo,1,/users/ramono-labius-disemelo/badges
-Kyle,,Marunda,1,/users/kyle-marunda/badges
+Kyle,,Marunda,0,/users/kyle-marunda/badges
 Cameron,,Fisher,1,/users/cameron-fisher.fb4815da/badges
 Koveshan,,Munsami,1,/users/koveshan-munsami/badges
 Numthandazo,,Mabena,1,/users/numthandazo-mabena/badges
@@ -19,7 +19,7 @@ Meggan,,Diedericks,1,/users/meggan-diedericks/badges
 Phumlile,,Mtshali,1,/users/phumlile-mtshali/badges
 vhukhudo,,mulaudzi,1,/users/vhukhudo-mulaudzi/badges
 Koketso,,Ratlou,1,/users/koketso-ratlou/badges
-Rose Lerato,,Melato,1,/users/rose-lerato-melato/badges
+Rose Lerato,,Melato,0,/users/rose-lerato-melato/badges
 Hlengiwe,,Mazibuko,1,/users/hlengiwe-mazibuko.974fed10/badges
 Zama,,Mhlongo,1,/users/zama-mhlongo/badges
 Tiewhan,,Smith,1,/users/tiewhan-smith/badges
@@ -29,7 +29,7 @@ Stéan,,De Wit,1,/users/stean-de-wit/badges
 Koketso,,Chabalala,1,/users/koketso-chabalala/badges
 Ntokozo,,Ndlovu,1,/users/ntokozo-ndlovu.214e6f8b/badges
 mahloni,,Khumbuza,1,/users/mahloni-khumbuza/badges
-Sandile,,Dhlamini,1,/users/sandile-dhlamini.9662ced3/badges
+Sandile,,Dhlamini,0,/users/sandile-dhlamini.9662ced3/badges
 Stefan,,Jacobs,1,/users/stefan-jacobs.cf92eb02/badges
 Sakhile,,Twala,1,/users/sakhile-twala/badges
 Michael,,Du Toit,1,/users/michael-du-toit.26736eb1/badges
@@ -78,7 +78,7 @@ Kaitlyn,,Sookdhew,1,/users/kaitlyn-sookdhew/badges
 Matshidiso Agnes,,Hlalele,1,/users/matshidiso-agnes-hlalele/badges
 robin,,murphy,1,/users/robin-murphy.01089520/badges
 Khotso,,Bore,1,/users/khotso-bore/badges
-Schalk,,Burger,2,/users/schalk-burger.509c20c7/badges
+Schalk,,Burger,0,/users/schalk-burger.509c20c7/badges
 Graham,,Hill,1,/users/grahamhill/badges
 Sibusiso,,Mfana,1,/users/sibusiso-mfana.e9785ec3/badges
 Danilla,,Burgess,1,/users/danilla-burgess/badges
@@ -97,7 +97,7 @@ Rudi,,Terblanche,1,/users/ruditerblanche/badges
 Malcolm,,Camelo,1,/users/malcolm-camelo.eab81397/badges
 Adrian,,Mudzwiti,2,/users/adrianmudzwiti/badges
 Ashlin,,Govindasamy,1,/users/ashlin-govindasamy/badges
-Carike,,Blignaut-Staden,4,/users/carike/badges
+Carike,,Blignaut-Staden,0,/users/carike/badges
 Siphamandla,,Zolakhe,1,/users/siphamandla-zolakhe/badges
 Mdumisi Kelvin,,Letsie,1,/users/mdumisi-kelvin-letsie/badges
 AJ,,Roos,1,/users/aj-roos/badges

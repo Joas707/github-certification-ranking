@@ -1,6 +1,6 @@
 # 🇧🇷 TOP 10 GitHub Certifications - Brazil
 
-> Last updated: May 28, 2026 at 03:02 UTC
+> Last updated: May 29, 2026 at 03:34 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -33,9 +33,9 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 1,525
-- **Total Badges Earned**: 2,006
-- **Average Badges per User**: 1.32
+- **Total Certified Users**: 1,524
+- **Total Badges Earned**: 2,003
+- **Average Badges per User**: 1.31
 - **Highest Badge Count**: 18
 
 ---
