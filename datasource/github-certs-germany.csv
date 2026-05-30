@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Daniel,Richard,Snell,1,/users/daniel-snell.f7bc4ec8/badges
+Daniel,Richard,Snell,10,/users/daniel-snell.f7bc4ec8/badges
 Nico,,Orschel,12,/users/nico-orschel/badges
 Anirban,,Ghosh,1,/users/anirban-ghosh.22d2d490/badges
 André,,Böttcher,1,/users/andre-bottcher/badges
@@ -9,7 +9,7 @@ Till,,Spindler,11,/users/till-spindler/badges
 Tobias,,Wittenburg,1,/users/tobias-wittenburg.0c857b00/badges
 Kevin,,Leadbeater,1,/users/kevin-leadbeater/badges
 Harald,,Binkle,4,/users/harald-binkle/badges
-Michael,,Kokonowskyj,2,/users/mikokono/badges
+Michael,,Kokonowskyj,7,/users/mikokono/badges
 Maik,,Müller,5,/users/aatmmr/badges
 Julian,,Sievers,1,/users/julian-sievers/badges
 Michael,,Heinen,1,/users/michael-heinen.2e087ca9/badges
@@ -35,14 +35,14 @@ Willi,,Köhler,1,/users/willi-kohler/badges
 Ömer,,Balyali,1,/users/omer-balyali/badges
 Antonio,,Cono,1,/users/antonio-cono/badges
 Chris,,Schindlbeck,1,/users/chris-schindlbeck/badges
-Eric,,Schüler,0,/users/ericschueler/badges
+Eric,,Schüler,2,/users/ericschueler/badges
 Florian,,Reitz,1,/users/florian-reitz.3d4faf2c/badges
 Hakan,,Inal,1,/users/hakan-inal/badges
 Emma,,Carballal Haire,1,/users/emma-carballal-haire/badges
 Halle,,Winkler,1,/users/halle-winkler/badges
 Dennis,,Kreibich,1,/users/dennis-kreibich.a8edfb89/badges
 Celina,,Schwarz,1,/users/celina-schwarz/badges
-Thimo,,Buchheister,2,/users/thimo-buchheister/badges
+Thimo,,Buchheister,0,/users/thimo-buchheister/badges
 Niklas,,Gümbel,1,/users/niklas-gumbel/badges
 Georgy,,Khromov,1,/users/georgy-khromov/badges
 Fabian,,Weu,1,/users/fabian-weu/badges
@@ -229,7 +229,7 @@ Jonas,,Wanninger,1,/users/jonas-wanninger/badges
 Arpit,,bajpai,1,/users/arpit-bajpai.e873fea2/badges
 Milos,,Rujevic,1,/users/milosrujevic/badges
 Gennady,,Solomennikov,2,/users/gennady-solomennikov/badges
-Niko,,Mix,2,/users/nikomix/badges
+Niko,,Mix,0,/users/nikomix/badges
 Florian,,Eckert,5,/users/florian-eckert.f49f0bb4/badges
 Florian,,Stolzmann,1,/users/florian-stolzmann.45280836/badges
 Dario,,Brozovic,1,/users/dario-brozovic.672c1d98/badges
