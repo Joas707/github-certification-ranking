@@ -1,12 +1,12 @@
 # 🇪🇺 TOP 10 GitHub Certifications - Europe
 
-> Last updated: June 01, 2026 at 05:00 UTC
+> Last updated: June 02, 2026 at 03:52 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 18 | Xebia<br>Delta-N<br>Xebia<br>Avanade | Netherlands<br>Netherlands<br>Netherlands<br>France |
+| 🥇 #1 | [Jesse Houwing](https://www.credly.com/users/jessehouwing/badges)<br>[Joost Voskuil](https://www.credly.com/users/joost-voskuil/badges)<br>[Peter Szekeli](https://www.credly.com/users/peter-szekeli/badges)<br>[Sujith Quintelier](https://www.credly.com/users/sujith/badges)<br>[Vincent Marchal](https://www.credly.com/users/vincent-marchal.87a05753/badges) | 18 | Xebia<br>Delta-N<br>Xebia<br>Microsoft<br>Avanade | Netherlands<br>Netherlands<br>Netherlands<br>Belgium<br>France |
 | 🥈 #2 | [Joas de Groot](https://www.credly.com/users/joas707/badges) | 17 | Delta-N | Netherlands |
 | 🥉 #3 | [Fabian Biesheuvel](https://www.credly.com/users/fabian-biesheuvel/badges)<br>[Hidde de Smet](https://www.credly.com/users/hidde-de-smet/badges)<br>[Olivier Delmotte](https://www.credly.com/users/o.delmotte/badges)<br>[Rimon Oz](https://www.credly.com/users/rimon-oz/badges)<br>[Rob Bos](https://www.credly.com/users/rob-bos/badges) | 15 | Delta-N<br>Xebia<br>Avanade<br><br>Xebia | Netherlands<br>Netherlands<br>France<br>Netherlands<br>Netherlands |
 | #4 | [Raymond Splinter](https://www.credly.com/users/raymond-splinter/badges) | 14 | Xebia | Netherlands |
@@ -24,10 +24,10 @@
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
 | 🥇 #1 | Xebia | 156 | 17 |
-| 🥈 #2 | Microsoft | 130 | 78 |
-| 🥉 #3 | Avanade | 91 | 42 |
+| 🥈 #2 | Microsoft | 147 | 79 |
+| 🥉 #3 | Avanade | 92 | 42 |
 | #4 | Delta-N | 70 | 7 |
-| #5 | Eficode | 50 | 14 |
+| #5 | Eficode | 52 | 15 |
 
 ---
 
@@ -35,19 +35,19 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United Kingdom | 1044 | 753 |
-| 🥈 #2 | Netherlands | 645 | 311 |
-| 🥉 #3 | Spain | 609 | 457 |
+| 🥇 #1 | United Kingdom | 1055 | 757 |
+| 🥈 #2 | Netherlands | 651 | 313 |
+| 🥉 #3 | Spain | 595 | 453 |
 | #4 | Germany | 477 | 348 |
-| #5 | Poland | 452 | 297 |
+| #5 | Poland | 451 | 296 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 4,129
-- **Total Badges Earned**: 5,873
-- **Average Badges per User**: 1.42
+- **Total Certified Users**: 4,149
+- **Total Badges Earned**: 5,945
+- **Average Badges per User**: 1.43
 - **Highest Badge Count**: 18
 
 ---
