@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Daniel,Richard,Snell,10,/users/daniel-snell.f7bc4ec8/badges
-Nico,,Orschel,0,/users/nico-orschel/badges
+Nico,,Orschel,12,/users/nico-orschel/badges
 Anirban,,Ghosh,1,/users/anirban-ghosh.22d2d490/badges
 André,,Böttcher,1,/users/andre-bottcher/badges
 Sandra,,Neff,5,/users/sandra-neff.59a05583/badges
@@ -59,7 +59,7 @@ Matthias,,Lennips,1,/users/matthias-lennips/badges
 Simon,,Keßler,1,/users/simon-kessler.4331d5e5/badges
 Simon,,Pham,1,/users/simon-pham.11010294/badges
 Oliver,,Pürner,1,/users/oliver-purner/badges
-Marcus,,Fenner,0,/users/mfen/badges
+Marcus,,Fenner,2,/users/mfen/badges
 Noah,,Kleinert,1,/users/noah-kleinert.1ab1cc52/badges
 Leon,,Kling,1,/users/leon-kling/badges
 Patrick,,Parthen,1,/users/patrick-parthen/badges
@@ -75,7 +75,7 @@ Leonard,,Haddad,1,/users/leonard-haddad/badges
 Kirill,,Fedotov,1,/users/kirill-fedotov.7134c0e0/badges
 Dominik,,Wombacher,1,/users/dominik-wombacher/badges
 Aimen,,Rejeb,1,/users/aimen-rejeb/badges
-Robin,,Konrad,0,/users/robin-konrad/badges
+Robin,,Konrad,2,/users/robin-konrad/badges
 Jörg,,Jakoby,1,/users/jorg-jakoby/badges
 Jonathan,,David,3,/users/jonathan-david.59eed3ce/badges
 Sven,,Gapski,1,/users/sven-gapski/badges
@@ -290,7 +290,7 @@ Arjun,,Maryankandy Rajendran,1,/users/arjun-maryankandy-rajendran/badges
 Richard,,Z.,2,/users/richard-z/badges
 Florian,,Kraning,1,/users/florian-kraning/badges
 Stephanie Marisa,,Lanius,1,/users/stephanie-marisa-lanius/badges
-Carlos Tadeu,,Panato Junior,0,/users/cpanato/badges
+Carlos Tadeu,,Panato Junior,4,/users/cpanato/badges
 Christian,,Trabold,1,/users/christian-trabold/badges
 Marcel,,Müller,1,/users/marcel-muller.c402fed2/badges
 Glenn,,Verhaag,1,/users/glenn-verhaag/badges
