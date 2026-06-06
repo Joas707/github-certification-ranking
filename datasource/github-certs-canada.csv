@@ -1,14 +1,14 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Shalin,,Dave,5,/users/shalin-dave.a1886fb0/badges
+Benjamin,,Marsteau,10,/users/bmarsteau/badges
+Shalin,,Dave,6,/users/shalin-dave.a1886fb0/badges
+Edwin,,Rodriguez,6,/users/edwin-rodriguez.0613fba4/badges
+Andy M.,,Kucuk,6,/users/andy-m-kucuk/badges
 Erol,,Kavas,9,/users/erol/badges
 David,,Kokkilic,2,/users/david-kokkilic/badges
-Andy M.,,Kucuk,5,/users/andy-m-kucuk/badges
 Kaan,,Turgut,15,/users/hkaanturgut/badges
-Edwin,,Rodriguez,5,/users/edwin-rodriguez.0613fba4/badges
 Ludovic,,Labesse,1,/users/ludovic-labesse/badges
 Alexandre-Xavier,,Labonté-Lamoureux,4,/users/alexandre-xavier-labonte-lamoureux/badges
 Nikhil,,Thampi,3,/users/nikhil-thampi.6084008d/badges
-Benjamin,,Marsteau,9,/users/bmarsteau/badges
 Subrahmanya Srinivas,,Lanka Venkata,1,/users/subrahmanya-srinivas-lanka-venkata/badges
 Suryakand,,Shinde,1,/users/suryakand-shinde/badges
 Sawdeep,,Gulati,1,/users/sawdeep-gulati/badges
@@ -306,7 +306,7 @@ Dalsha,,Balasooriya,1,/users/dalsha-balasooriya/badges
 WALE,,ODEJA,2,/users/wale-odeja/badges
 Gregory,,Khchadourian,1,/users/gregory-khchadourian/badges
 Nathan,,Arseneau,1,/users/nathan-arseneau/badges
-Max,,Yermakhanov,2,/users/max-yermakhanov/badges
+Max,,Yermakhanov,0,/users/max-yermakhanov/badges
 Mathieu,,Côté,1,/users/mathieu-cote.df5bbd0d/badges
 Mudit,Kumar,Chauhan,1,/users/mudittchauhan/badges
 Charles,Emmanuel Saturnin,Ndiaye,1,/users/charles-ndiaye/badges
@@ -482,7 +482,7 @@ Sai Deepak,,Kodur,1,/users/sai-deepak-kodur/badges
 Louis,,Boro,4,/users/louis-boro/badges
 Gurmeet,,Kaur,1,/users/gurmeet-kaur.6c63787f/badges
 Terry,,Greening,1,/users/terry-greening/badges
-Ads,,Dawson,3,/users/adam-dawson.6dc91e21/badges
+Ads,,Dawson,0,/users/adam-dawson.6dc91e21/badges
 Viswanathan,,Ananthanarayanan,1,/users/viswanathan-ananthanarayanan.92816351/badges
 Christopher,,Riding,1,/users/christopher-riding.a7ae2b01/badges
 Rajat,,Agrawal,1,/users/rajatagrawal1094/badges
