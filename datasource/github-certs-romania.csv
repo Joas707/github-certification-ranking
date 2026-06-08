@@ -1,16 +1,16 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Mihai,,Ghita,1,/users/mihai-ghita.4c02835a/badges
+Mihai,,Ghita,0,/users/mihai-ghita.4c02835a/badges
 Ioan,,Grosu,1,/users/ioan-grosu/badges
 Tudor,,Vlad,1,/users/tudor-vlad.4c833e8b/badges
 Claudiu,,Iordache,1,/users/claudiu-iordache.64285676/badges
 Marius,,Stuparu,1,/users/marius-stuparu/badges
 Elena,,Bizoi,1,/users/elena-bizoi/badges
 David Andrei,,Dumbrava,1,/users/david-andrei-dumbrava/badges
-Veaceslav,,Barba,0,/users/veaceslav-barba.4682c7cb/badges
+Veaceslav,,Barba,1,/users/veaceslav-barba.4682c7cb/badges
 Sebastian,,Boldi,1,/users/sebastian-boldi/badges
 Adrian,,Anton,1,/users/adrian-anton.b6738326/badges
 Mihnea,,Radulescu,1,/users/mihnea-radulescu/badges
-Ionela,,Nicula,0,/users/ionela-nicula.8258cae9/badges
+Ionela,,Nicula,1,/users/ionela-nicula.8258cae9/badges
 Hunor,,Hajdú,1,/users/hunor-hajdu/badges
 Orlando-Catalin,,Fulea,1,/users/orlando-catalin-fulea/badges
 Stan,,Darius,1,/users/stan-darius/badges
@@ -26,15 +26,15 @@ Janov,,Byrnisson,1,/users/janov-byrnisson/badges
 Mădălin-Mircea,,Filip,1,/users/madalin-mircea-filip/badges
 Catalin,,Rosu,1,/users/catalin-rosu/badges
 Fabian,,Cretu,1,/users/fabian-cretu/badges
-Bogdan,,Toma,1,/users/bogtom/badges
+Bogdan,,Toma,0,/users/bogtom/badges
 Alin-Paul,,Popa,1,/users/alin-paul-popa/badges
-Mihai,,Harpau,1,/users/mihai-harpau/badges
-Elena,,Ile,0,/users/elena-ile/badges
+Mihai,,Harpau,0,/users/mihai-harpau/badges
+Elena,,Ile,1,/users/elena-ile/badges
 andrei-sebastian,,melinte,2,/users/andrei-sebastian-melinte/badges
 Mario,,Mateas,1,/users/mario-mateas/badges
 Elena-Valentina,,Dumitrascu,1,/users/elena-valentina-dumitrascu/badges
 Carmen - Gabriela,,Lup,1,/users/carmen-gabriela-lup.1c6bbd74/badges
-Robert Alexandru,,Dobre,0,/users/robert-alexandru-dobre/badges
+Robert Alexandru,,Dobre,1,/users/robert-alexandru-dobre/badges
 Alexandru,Flavius,Huc,1,/users/huc-alexandru/badges
 Raul-Alin,,Ienei,1,/users/raul-alin-ienei/badges
 Radu,,Balaita,1,/users/radu-balaita/badges
@@ -52,7 +52,7 @@ Constantin,,Alexa,1,/users/constantin-alexa/badges
 Ovidiu,,Vatamanu,1,/users/ovidiu-vatamanu/badges
 Rares,,Bozoanca,1,/users/rares-bozoanca.8c62bb4e/badges
 Ovidiu,,Borlean,1,/users/ovidiu-borlean/badges
-Sorin,,Pasa,0,/users/sorin-pasa/badges
+Sorin,,Pasa,2,/users/sorin-pasa/badges
 Cristina,,Triff,1,/users/cristina-triff/badges
 Mihai,,Florea,1,/users/mihai-florea.ba197b99/badges
 Tamas-Bruno,,Maticza,1,/users/tamas-bruno-maticza/badges

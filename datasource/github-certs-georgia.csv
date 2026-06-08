@@ -1,10 +1,10 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Roman,,Patutin,3,/users/roman-patutin.6ad8fb6a/badges
-Andrei,,Aliakseichuk,1,/users/andrei-aliakseichuk/badges
+Andrei,,Aliakseichuk,0,/users/andrei-aliakseichuk/badges
 Amit,,Menda,0,/users/amit-menda/badges
 Jaiganesh,,Rangaraju Gurumoorthi,1,/users/jaiganesh-rangaraju-gurumoorthi/badges
 Nur Aliya,,Battalova,1,/users/nur-aliya-battalova/badges
-Alena,,Kashayed,0,/users/alena-kashayed/badges
+Alena,,Kashayed,1,/users/alena-kashayed/badges
 Dmitrii,,Gutkovskii,1,/users/dmitrii-gutkovskii/badges
 Mikhail,,Shvaikouski,1,/users/mikhail-shvaikouski/badges
 Sergei,,Smolov,1,/users/sergei-smolov/badges
@@ -25,6 +25,6 @@ Denis,,Kasianov,1,/users/denis-kasianov/badges
 Brent,,Brewington,1,/users/brent-brewington/badges
 NATIG,,KURBANOV,1,/users/natig-kurbanov/badges
 Fouzan,,Ashraf,1,/users/fouzanashraf/badges
-Lokeshwar,Reddy,Vangala,1,/users/lokeshwar-vangala/badges
+Lokeshwar,Reddy,Vangala,0,/users/lokeshwar-vangala/badges
 Georgii,,Kindra,1,/users/georgii-kindra/badges
 Yung-Sheng,,Tseng,0,/users/yung-sheng-tseng/badges
