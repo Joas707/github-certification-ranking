@@ -1,6 +1,6 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: June 07, 2026 at 03:48 UTC
+> Last updated: June 08, 2026 at 03:59 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -9,13 +9,13 @@
 | 🥇 #1 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Barnes Chism](https://www.credly.com/users/barnes-chism/badges)<br>[Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges)<br>[Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 18 | Avanade<br>Xebia<br>Avanade<br>Avanade | Brazil<br>United States<br>Brazil<br>Brazil |
 | 🥈 #2 | [Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges)<br>[Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 16 | Avanade<br>Avanade | Brazil<br>Brazil |
 | 🥉 #3 | [Evan Allen](https://www.credly.com/users/evan_allen/badges)<br>[Kaan Turgut](https://www.credly.com/users/hkaanturgut/badges)<br>[rich schwarz](https://www.credly.com/users/rich-schwarz/badges) | 15 | Xebia<br>Lenovo<br>Xebia | United States<br>Canada<br>United States |
-| #4 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges)<br>[Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges)<br>[Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges) | 14 | Avanade<br>NTT DATA<br>Avanade | Brazil<br>Brazil<br>Brazil |
+| #4 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges)<br>[Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges) | 14 | Avanade<br>NTT DATA | Brazil<br>Brazil |
 | #5 | [Caio Vianna Vieira](https://www.credly.com/users/caio-vianna.b6440384/badges)<br>[Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges)<br>[Daniel Alonso Oliveira Soares](https://www.credly.com/users/dalonsw/badges)<br>[Luana Corrêa Vieira](https://www.credly.com/users/luana-vieira.36aca490/badges)<br>[Lucas Ludicsa](https://www.credly.com/users/lucas-ludicsa/badges) | 13 | Avanade<br>Avanade<br>ilegra<br>Avanade<br>ilegra | Brazil<br>Brazil<br>Brazil<br>Brazil<br>Brazil |
-| #6 | [Alexander Chorosevic](https://www.credly.com/users/alexander-chorosevic/badges)<br>[Bill Schneider](https://www.credly.com/users/bill-schneider.7f045131/badges)<br>[Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges)<br>[Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[Matt Olson](https://www.credly.com/users/molson504x/badges)<br>[🧡 Davi Santos](https://www.credly.com/users/davisantos/badges) | 11 | <br><br>CodeCargo<br>Avanade<br>Xebia<br>Avanade | United States<br>United States<br>United States<br>Brazil<br>United States<br>Brazil |
-| #7 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges)<br>[Cesar Souza](https://www.credly.com/users/cesar-souza.48cc6bb7/badges)<br>[Dhiego Bastelli](https://www.credly.com/users/dhiego-bastelli/badges)<br>[JT Jarnegan](https://www.credly.com/users/jjarnegan/badges)<br>[Julio Cesar Barbosa da Silva](https://www.credly.com/users/juliocbsilva/badges)<br>[Lautaro Orellano](https://www.credly.com/users/lautaro-orellano/badges)<br>[Parker Johnston](https://www.credly.com/users/parker-johnston/badges)<br>[William Lima Silva](https://www.credly.com/users/williamlimasilva/badges) | 10 | Wepoint<br><br>Sensedia<br>Xebia<br>Avanade<br><br><br>Avanade | Canada<br>Brazil<br>Brazil<br>United States<br>Brazil<br>Argentina<br>United States<br>Brazil |
-| #8 | [Bruno Vinicius Garcia](https://www.credly.com/users/ifgarcia/badges)<br>[Erol Kavas](https://www.credly.com/users/erol/badges)<br>[Higor Coelho Do Nascimento](https://www.credly.com/users/higor-coelho-do-nascimento/badges)<br>[Ricardo Galvão](https://www.credly.com/users/ricardo-galvao.52cfc0ae/badges)<br>[Thomas Boker](https://www.credly.com/users/thomas-boker/badges)<br>[William Quintero](https://www.credly.com/users/willraido/badges) | 9 | Avanade<br>PwC<br>Avanade<br>Avanade<br>IBM<br>Clever IT | Brazil<br>Canada<br>Brazil<br>Brazil<br>United States<br>Colombia |
-| #9 | [Dennis Hylton](https://www.credly.com/users/dennis-hylton.46438be3/badges)<br>[Dr. Adam Smeets](https://www.credly.com/users/asmeets/badges)<br>[Jovando Goncalves](https://www.credly.com/users/jovando-goncalves/badges)<br>[Kenan Mckinnon](https://www.credly.com/users/kenan-mckinnon.9be29efd/badges)<br>[Marcio Eduardo Souza da Silva](https://www.credly.com/users/marcio-eduardo-s-silva.22014e1d/badges)<br>[Sloane McCensky](https://www.credly.com/users/sloane-mccensky.6cb7eb6d/badges) | 8 | <br><br>Avanade<br><br>GitHub<br> | United States<br>United States<br>Brazil<br>United States<br>Brazil<br>United States |
-| #10 | [Alex Archuleta](https://www.credly.com/users/alex-archuleta.8961fef9/badges)<br>[Allen Conway](https://www.credly.com/users/allen-conway/badges)<br>[Chett Clark](https://www.credly.com/users/chett-clark/badges)<br>[David Daniels](https://www.credly.com/users/daviddaniels/badges)<br>[Eduarda Costa da Silva](https://www.credly.com/users/eduarda-costa-da-silva/badges)<br>[Esteban Garcia](https://www.credly.com/users/esteban-garcia.a7727876/badges)<br>[Greg Pansino](https://www.credly.com/users/greg-pansino/badges)<br>[Hector Delgado](https://www.credly.com/users/hector-delgado/badges)<br>[Irina Zvagelsky](https://www.credly.com/users/irina-zvagelsky.643d78c2/badges)<br>[James Frady](https://www.credly.com/users/james-frady.adb10b8b/badges)<br>[José Ibañez](https://www.credly.com/users/jose-ibanez.8df2cfd3/badges)<br>[julian maximiliano gonzalez](https://www.credly.com/users/julian-maximiliano-gonzalez/badges)<br>[Kristen Hohman](https://www.credly.com/users/kristen-hohman.6d1de425/badges)<br>[Losbury Hinds](https://www.credly.com/users/losbury-hinds/badges)<br>[Lucas Blanco](https://www.credly.com/users/lucas-blanco.d7b12395/badges)<br>[Mariana da Rosa de Oliveira](https://www.credly.com/users/mariana-da-rosa-de-oliveira/badges)<br>[Miguel Eduardo Xavier Nazer](https://www.credly.com/users/miguel-eduardo-xavier-nazer.be240a2d/badges)<br>[Ryan Augusta](https://www.credly.com/users/ryan-augusta/badges)<br>[Taylor Foster](https://www.credly.com/users/taylor-foster.73bbe03f/badges)<br>[Tim Van Liew](https://www.credly.com/users/tim-van-liew/badges)<br>*... and 1 more* | 7 | <br><br><br><br>ilegra<br><br><br><br><br><br>Baufest<br><br><br><br><br><br><br><br><br>Slalom<br> | United States<br>United States<br>United States<br>United States<br>Brazil<br>United States<br>United States<br>Mexico<br>United States<br>United States<br>Chile<br>Argentina<br>United States<br>United States<br>Argentina<br>Brazil<br>Brazil<br>United States<br>United States<br>United States<br> |
+| #6 | [John Wildes](https://www.credly.com/users/john-wildes/badges) | 12 |  | United States |
+| #7 | [Alexander Chorosevic](https://www.credly.com/users/alexander-chorosevic/badges)<br>[Bill Schneider](https://www.credly.com/users/bill-schneider.7f045131/badges)<br>[Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges)<br>[Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[Matt Olson](https://www.credly.com/users/molson504x/badges)<br>[🧡 Davi Santos](https://www.credly.com/users/davisantos/badges) | 11 | <br><br>CodeCargo<br>Avanade<br>Xebia<br>Avanade | United States<br>United States<br>United States<br>Brazil<br>United States<br>Brazil |
+| #8 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges)<br>[Cesar Souza](https://www.credly.com/users/cesar-souza.48cc6bb7/badges)<br>[Dhiego Bastelli](https://www.credly.com/users/dhiego-bastelli/badges)<br>[JT Jarnegan](https://www.credly.com/users/jjarnegan/badges)<br>[Julio Cesar Barbosa da Silva](https://www.credly.com/users/juliocbsilva/badges)<br>[Lautaro Orellano](https://www.credly.com/users/lautaro-orellano/badges)<br>[Parker Johnston](https://www.credly.com/users/parker-johnston/badges)<br>[William Lima Silva](https://www.credly.com/users/williamlimasilva/badges) | 10 | Wepoint<br><br>Sensedia<br>Xebia<br>Avanade<br><br><br>Avanade | Canada<br>Brazil<br>Brazil<br>United States<br>Brazil<br>Argentina<br>United States<br>Brazil |
+| #9 | [Bruno Vinicius Garcia](https://www.credly.com/users/ifgarcia/badges)<br>[Erol Kavas](https://www.credly.com/users/erol/badges)<br>[Higor Coelho Do Nascimento](https://www.credly.com/users/higor-coelho-do-nascimento/badges)<br>[Ricardo Galvão](https://www.credly.com/users/ricardo-galvao.52cfc0ae/badges)<br>[William Quintero](https://www.credly.com/users/willraido/badges) | 9 | Avanade<br>PwC<br>Avanade<br>Avanade<br>Clever IT | Brazil<br>Canada<br>Brazil<br>Brazil<br>Colombia |
+| #10 | [Dennis Hylton](https://www.credly.com/users/dennis-hylton.46438be3/badges)<br>[Jovando Goncalves](https://www.credly.com/users/jovando-goncalves/badges)<br>[Kenan Mckinnon](https://www.credly.com/users/kenan-mckinnon.9be29efd/badges)<br>[Marcio Eduardo Souza da Silva](https://www.credly.com/users/marcio-eduardo-s-silva.22014e1d/badges)<br>[Sloane McCensky](https://www.credly.com/users/sloane-mccensky.6cb7eb6d/badges) | 8 | <br>Avanade<br><br>GitHub<br> | United States<br>Brazil<br>United States<br>Brazil<br>United States |
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Avanade | 264 | 42 |
-| 🥈 #2 | Microsoft | 188 | 96 |
+| 🥇 #1 | Avanade | 254 | 42 |
+| 🥈 #2 | Microsoft | 182 | 93 |
 | 🥉 #3 | GitHub | 80 | 29 |
 | #4 | Xebia | 72 | 7 |
 | #5 | Tata Consultancy Services | 50 | 28 |
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United States | 3955 | 2812 |
-| 🥈 #2 | Brazil | 2022 | 1525 |
-| 🥉 #3 | Canada | 732 | 552 |
-| #4 | Mexico | 558 | 446 |
-| #5 | Peru | 494 | 415 |
+| 🥇 #1 | United States | 3950 | 2811 |
+| 🥈 #2 | Brazil | 2012 | 1525 |
+| 🥉 #3 | Canada | 727 | 549 |
+| #4 | Mexico | 555 | 445 |
+| #5 | Peru | 488 | 414 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,856
-- **Total Badges Earned**: 9,077
+- **Total Certified Users**: 6,842
+- **Total Badges Earned**: 9,033
 - **Average Badges per User**: 1.32
 - **Highest Badge Count**: 18
 

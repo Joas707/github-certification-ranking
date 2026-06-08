@@ -1,4 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Ryan,,Hernandez,0,/users/ryan-hernandez.cb614029/badges
 Gladys,,Santos,1,/users/gladys-santos.ff5c4f46/badges
 Bryon Kurt,,Segunto,1,/users/bryon-kurt-segunto/badges
 Michael Josias,Daligdig,Tabada,2,/users/jmichael/badges
@@ -120,7 +121,7 @@ Herbert Jr.,,Olavidez,1,/users/herbert-jr-olavidez/badges
 Nicko,,Laygo,1,/users/nicko-laygo/badges
 GONZALES,,"KENNETH JEARL, S.",1,/users/gonzales-kenneth-jearl-s/badges
 Eunil Carl,,Dela Cruz,1,/users/eunil-carl-dela-cruz.d7576c5c/badges
-Kenneth,,Legaspi,2,/users/kenneth-legaspi/badges
+Kenneth,,Legaspi,0,/users/kenneth-legaspi/badges
 Lawrence,,Garcia,1,/users/lawrenceee04/badges
 HANZ ANGELO,,BERNABE,1,/users/hanz-angelo-bernabe/badges
 LORENZO,,VASQUEZ,1,/users/lorenzo-vasquez.e1c2a8e5/badges
