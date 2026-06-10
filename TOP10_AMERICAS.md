@@ -1,6 +1,6 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: June 09, 2026 at 03:02 UTC
+> Last updated: June 10, 2026 at 03:41 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 | #7 | [John Wildes](https://www.credly.com/users/john-wildes/badges)<br>[Matt Olson](https://www.credly.com/users/molson504x/badges) | 12 | <br>Xebia | United States<br>United States |
 | #8 | [Alexander Chorosevic](https://www.credly.com/users/alexander-chorosevic/badges)<br>[Bill Schneider](https://www.credly.com/users/bill-schneider.7f045131/badges)<br>[Daniel Koch](https://www.credly.com/users/daniel-koch.dc5d8183/badges)<br>[Francisco Nascimento](https://www.credly.com/users/francisco-nascimento.f7a5a9f3/badges)<br>[🧡 Davi Santos](https://www.credly.com/users/davisantos/badges) | 11 | <br><br>CodeCargo<br>Avanade<br>Avanade | United States<br>United States<br>United States<br>Brazil<br>Brazil |
 | #9 | [Benjamin Marsteau](https://www.credly.com/users/bmarsteau/badges)<br>[Cesar Souza](https://www.credly.com/users/cesar-souza.48cc6bb7/badges)<br>[Dhiego Bastelli](https://www.credly.com/users/dhiego-bastelli/badges)<br>[JT Jarnegan](https://www.credly.com/users/jjarnegan/badges)<br>[Julio Cesar Barbosa da Silva](https://www.credly.com/users/juliocbsilva/badges)<br>[Lautaro Orellano](https://www.credly.com/users/lautaro-orellano/badges)<br>[Parker Johnston](https://www.credly.com/users/parker-johnston/badges)<br>[William Lima Silva](https://www.credly.com/users/williamlimasilva/badges) | 10 | Wepoint<br><br>Sensedia<br>Xebia<br>Avanade<br><br><br>Avanade | Canada<br>Brazil<br>Brazil<br>United States<br>Brazil<br>Argentina<br>United States<br>Brazil |
-| #10 | [Bruno Vinicius Garcia](https://www.credly.com/users/ifgarcia/badges)<br>[Erol Kavas](https://www.credly.com/users/erol/badges)<br>[Higor Coelho Do Nascimento](https://www.credly.com/users/higor-coelho-do-nascimento/badges)<br>[Ricardo Galvão](https://www.credly.com/users/ricardo-galvao.52cfc0ae/badges)<br>[William Quintero](https://www.credly.com/users/willraido/badges) | 9 | Avanade<br>PwC<br>Avanade<br>Avanade<br>Clever IT | Brazil<br>Canada<br>Brazil<br>Brazil<br>Colombia |
+| #10 | [Bruno Vinicius Garcia](https://www.credly.com/users/ifgarcia/badges)<br>[Higor Coelho Do Nascimento](https://www.credly.com/users/higor-coelho-do-nascimento/badges)<br>[José Ibañez](https://www.credly.com/users/jose-ibanez.8df2cfd3/badges)<br>[Ricardo Galvão](https://www.credly.com/users/ricardo-galvao.52cfc0ae/badges)<br>[William Quintero](https://www.credly.com/users/willraido/badges) | 9 | Avanade<br>Avanade<br>Baufest<br>Avanade<br>Clever IT | Brazil<br>Brazil<br>Chile<br>Brazil<br>Colombia |
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Avanade | 260 | 41 |
-| 🥈 #2 | Microsoft | 183 | 95 |
+| 🥇 #1 | Avanade | 265 | 42 |
+| 🥈 #2 | Microsoft | 188 | 96 |
 | 🥉 #3 | GitHub | 80 | 29 |
 | #4 | Xebia | 75 | 7 |
 | #5 | Tata Consultancy Services | 50 | 28 |
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United States | 3958 | 2811 |
-| 🥈 #2 | Brazil | 2012 | 1522 |
-| 🥉 #3 | Canada | 718 | 549 |
-| #4 | Mexico | 558 | 445 |
-| #5 | Peru | 485 | 413 |
+| 🥇 #1 | United States | 3948 | 2810 |
+| 🥈 #2 | Brazil | 2023 | 1525 |
+| 🥉 #3 | Canada | 722 | 550 |
+| #4 | Mexico | 557 | 446 |
+| #5 | Peru | 481 | 410 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,837
-- **Total Badges Earned**: 9,021
+- **Total Certified Users**: 6,847
+- **Total Badges Earned**: 9,050
 - **Average Badges per User**: 1.32
 - **Highest Badge Count**: 19
 
