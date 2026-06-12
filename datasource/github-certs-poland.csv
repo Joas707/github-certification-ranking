@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Maciej,,Śmigielski,6,/users/maciej-smigielski/badges
-Patrycja,,Kozak,8,/users/patrycja-kozak.2a2cf477/badges
+Patrycja,,Kozak,9,/users/patrycja-kozak.2a2cf477/badges
 Aleksander,,Fidelus,7,/users/aleksander-fidelus/badges
 Konrad,,Dunikowski,13,/users/konrad-dunikowski/badges
 Marcin,,Gapiński,9,/users/marcin-gapinski.10424558/badges
@@ -106,7 +106,7 @@ Adrian,Piotr,Dacka,1,/users/adrian-dacka/badges
 Adrian,,Nieć,1,/users/adrian-niec/badges
 damian,,dziedzic,1,/users/damian-dziedzic.8705ad1f/badges
 Ernest,,Roszak,1,/users/ernest-roszak/badges
-Volodymyr,,Shkrupskyi,1,/users/volodymyr-shkrupskyi/badges
+Volodymyr,,Shkrupskyi,2,/users/volodymyr-shkrupskyi/badges
 Robert,,Leszczynski,1,/users/robert-leszczynski/badges
 Lukasz,,Regulski,1,/users/lukasz-regulski.1a7759fd/badges
 Stanisław,,Nieradko,1,/users/stanislaw-nieradko/badges
@@ -123,7 +123,7 @@ Adrian,,Goral,1,/users/adrian-goral/badges
 Michał,,Smyk,2,/users/michal-smyk/badges
 Michał,,Sermak,4,/users/michal-sermak.e8f758b1/badges
 Dominik,,Mich,1,/users/dominik-mich/badges
-Pawel,,Stuczynski,3,/users/pawel-stuczynski/badges
+Pawel,,Stuczynski,4,/users/pawel-stuczynski/badges
 Artur,,Morys - Magiera,1,/users/artur-morys-magiera/badges
 Jakub,,Rożnowski,1,/users/jakub-roznowski/badges
 Kacper,,Łęcki,1,/users/kacper-lecki/badges
@@ -207,7 +207,7 @@ Andrzej,,Pióro,1,/users/andrzej-pioro/badges
 Konrad,,Kułaga,1,/users/konrad-kulaga/badges
 Łukasz,,Pawlęga,1,/users/lukasz-pawlega/badges
 Anshul,,Bansal,1,/users/anshul.bansal/badges
-Wojciech,,Piotrowiak,0,/users/wojciech-piotrowiak/badges
+Wojciech,,Piotrowiak,3,/users/wojciech-piotrowiak/badges
 Illia,,Bieliaiev,1,/users/illia-bieliaiev.10d745e3/badges
 Damian,,Fajfer,1,/users/fajfer/badges
 Sebastian,,Majchrzak,2,/users/sebastian-majchrzak/badges
@@ -249,7 +249,7 @@ Adam,,Łuczak,2,/users/adam-luczak/badges
 Rafał,,Kościej,1,/users/rafal-kosciej/badges
 Marek,,Konieczny,3,/users/marek-konieczny.5ef2d826/badges
 Karol,,Bak,1,/users/karol-bak/badges
-Michal,,Zagraba,3,/users/michal-zagraba.ef569e00/badges
+Michal,,Zagraba,0,/users/michal-zagraba.ef569e00/badges
 Radosław,,Kabulski,1,/users/radoslaw-kabulski/badges
 Jakub,,Jezierski,1,/users/jakub-jezierski.670d87ae/badges
 NURUDEEN,,KAMILU,1,/users/nurudeen-kamilu/badges
