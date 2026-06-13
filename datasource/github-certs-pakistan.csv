@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Ahsan Jamshed,,Qureshi,1,/users/ahsan-jamshed-qureshi.b3dcbff6/badges
-Junaid,,Shahzad,0,/users/junaid-shahzad.5ae9c626/badges
+Junaid,,Shahzad,1,/users/junaid-shahzad.5ae9c626/badges
 Abdul Hadi,,Asad,1,/users/abdul-hadi-asad/badges
 Tahir,,Mahmood,1,/users/tahir-mahmood.41a4044d/badges
 Abdul,,Qadeer,1,/users/abdul-qadeer.81e4ec8a/badges
@@ -14,7 +14,7 @@ Waseem,,Akram,1,/users/wasii/badges
 Hafiz Syed Ashir,,Hassan,1,/users/hafiz-syed-ashir-hassan/badges
 Sheikh Maaz,,Akbar,1,/users/sheikh-maaz-akbar/badges
 Ibrar,Ahmed,Pervaiz,1,/users/ibrar-ahmed.d3d1f182/badges
-Khizer,,Malik,1,/users/khizer-malik/badges
+Khizer,,Malik,0,/users/khizer-malik/badges
 Abdul,,Ahad,1,/users/abdul-ahad.a41af0ed/badges
 Talha,Ahmed,Hamedi,1,/users/hameditalha/badges
 Daud,,Suleman,1,/users/daud-suleman.9926007b/badges
@@ -33,7 +33,7 @@ farhat,,abbas,1,/users/farhat-abbas.c4781b54/badges
 Muhammad,,Usman,1,/users/usman2789/badges
 Ahtasham,,Ilyas,1,/users/ahtasham-ilyas/badges
 Suhaib,,Tariq,2,/users/muhammad-suhaib.e3ec2c82/badges
-Shaheer,,Ahmad,0,/users/shaheerahmad/badges
+Shaheer,,Ahmad,1,/users/shaheerahmad/badges
 Usman,,Khan,1,/users/usman-khan.ec8b4cb6/badges
 Emad,,Adnan,1,/users/emad-adnan/badges
 Muhammad,,Umer,1,/users/muhammad-umer.68748f16/badges
@@ -142,7 +142,7 @@ Bhawesh,,Kumar,1,/users/bhawesh-kumar.c9b56235/badges
 Muhammad,,Abdullah,1,/users/muhammad-abdullah.3b327f40/badges
 Tariq,,Ghouri,1,/users/tariq-ghouri/badges
 Ali,,Raza,1,/users/ali-raza.259baa3a/badges
-Abdul,,Khaliq,2,/users/realabdulkhaliq/badges
+Abdul,,Khaliq,0,/users/realabdulkhaliq/badges
 ABDUL KHALIQ,,DADABHOY,1,/users/abdul-khaliq-dadabhoy/badges
 Awais,,Saleem,1,/users/awais-saleem.6c086db0/badges
 Rashid,,Hussain,2,/users/rashid-wassan/badges

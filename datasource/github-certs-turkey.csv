@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Askin,,Kilic,6,/users/askin-kilic/badges
-Metin,Sertac,Bayır,7,/users/metin-sertac-bayir/badges
+Metin,Sertac,Bayır,1,/users/metin-sertac-bayir/badges
 Emir,,Hardal,3,/users/fizikcimuhendis/badges
 Emre Ozan,,Memis,10,/users/emre-ozan-memis/badges
 Hakkı,,Sağdıç,1,/users/hakki-sagdic/badges
@@ -24,7 +24,7 @@ MUSTAFA,,AKALIN,1,/users/mustafa-akalin.d376095f/badges
 Efe,Umut,Aslan,1,/users/efe-umut-aslan/badges
 Muhammed Rıza,,Kaynak,1,/users/muhammed-riza-kaynak/badges
 Mehmet,,Can Gülseroğlu,1,/users/mehmet-can-gulseroglu/badges
-Ivan,,FEDIAEV,1,/users/ivan-fediaev.3f2a842c/badges
+Ivan,,FEDIAEV,0,/users/ivan-fediaev.3f2a842c/badges
 Mete,,Fırtına,1,/users/mete-firtina/badges
 Tuğcan,,Topaloğlu,1,/users/tugcan-topaloglu/badges
 Ömer,,Büyükçelik,1,/users/omer-buyukcelik/badges
@@ -41,7 +41,7 @@ Mehmet Salih,,Yavuz,1,/users/mehmet-salih-yavuz.71b1bce8/badges
 Talip,,Durmuş,1,/users/talip-durmus/badges
 MOSAB ABOIDREES ALTRAIFI,,YOUSIF,1,/users/mosab-aboidrees-altraifi-yousif/badges
 Dmitry,,Kolotsey,3,/users/dmitry-kolotsey/badges
-Fatih,,Soylemez,1,/users/fatih-soylemez.44ea10ba/badges
+Fatih,,Soylemez,0,/users/fatih-soylemez.44ea10ba/badges
 Aylin,,Öztürk,1,/users/aylin-ozturk.4e3a45e6/badges
 Ömer Faruk,Faruk,Akyazan,1,/users/faruk-akyazan/badges
 malik,,ayhan,1,/users/malik-ayhan/badges
