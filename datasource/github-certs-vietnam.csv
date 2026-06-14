@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-HIEP,THANH,NGUYEN,1,/users/hiep-thanh-nguyen/badges
+HIEP,THANH,NGUYEN,0,/users/hiep-thanh-nguyen/badges
 Son,,Dang,2,/users/son-dang.tb/badges
 Giau,,Le,2,/users/giau-le/badges
 Linh,,Bui,1,/users/linbhui/badges
@@ -12,19 +12,19 @@ Minh Hiếu,,Trần,1,/users/minh-hi-u-tr-n.6c8085f4/badges
 Nam,Pham Hoai,Vo,1,/users/nam-vo.1d365883/badges
 D Duy Anh,,Hoang,1,/users/dduyanhhoang/badges
 Nguyen,,Do,1,/users/nguyen-do.98cd55c1/badges
-Nguyen,,Viet Thai,1,/users/nguyen-viet-thai/badges
-Minh-An,,Dao,1,/users/minh-an-dao/badges
+Nguyen,,Viet Thai,0,/users/nguyen-viet-thai/badges
+Minh-An,,Dao,0,/users/minh-an-dao/badges
 Nguyễn,,Trung Nghĩa,1,/users/nguyentrungnghia/badges
 Minh,,Nguyễn Vũ Quang,1,/users/quangminhnv/badges
 Sad,,Nguyễn,1,/users/sad-nguy-n/badges
 Duc Anh,,Luu,1,/users/anh-luu-duc/badges
 Kong,,Hung,1,/users/kong-hung/badges
-Phat,,Huynh,1,/users/phat-huynh.de3d72ed/badges
+Phat,,Huynh,0,/users/phat-huynh.de3d72ed/badges
 Derek,NGOC TAN,DUONG,1,/users/derek-duong-ngoc-tan/badges
-Linh,,Dang,1,/users/linh-dang.264a103c/badges
+Linh,,Dang,0,/users/linh-dang.264a103c/badges
 Bao,Nguyen,Phan,1,/users/pnbao/badges
 Sơn,,Trần Quang,1,/users/s-n-tr-n-quang/badges
-Le,Thanh,Phuc,1,/users/le-thanh-phuc/badges
+Le,Thanh,Phuc,0,/users/le-thanh-phuc/badges
 Khoa,,Ton That Anh,0,/users/khoa-ton-that-anh/badges
 THANH TIẾN,,PHAN,1,/users/thanh-ti-n-phan/badges
 Đoàn,Vĩnh,Phú,1,/users/doanvinhphu/badges
@@ -35,7 +35,7 @@ Tung,,Le,1,/users/tung-le.0d8a5ab0/badges
 Phuc Khang,,Nguyen,0,/users/npkhang/badges
 Huy,,Nguyen,3,/users/nguyen-vo-bao-huy/badges
 bắc,,hồ,1,/users/b-c-h/badges
-Tung,,Tran,0,/users/tung-tran.e5b220b5/badges
+Tung,,Tran,1,/users/tung-tran.e5b220b5/badges
 An,Nguyen Truong,Pham,1,/users/anpham/badges
 Manh,,Nguyen,1,/users/manh-nguyen.669601e9/badges
 Tuấn,,Trần Văn,1,/users/tu-n-tr-n-van.351844c2/badges
