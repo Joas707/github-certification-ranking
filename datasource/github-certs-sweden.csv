@@ -1,4 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Heidi,,Housten,3,/users/heidi-housten/badges
 Erik,,Hjalmarsson,5,/users/erik-hjalmarsson/badges
 Magnus,,Timner,11,/users/magnus-timner.ddd6329c/badges
 Tobias,,Persson,4,/users/tobias-persson.f7d26f37/badges
@@ -6,7 +7,6 @@ Eric,,Söderqvist,4,/users/eric-soderqvist/badges
 Mathias,,Olausson,3,/users/mathias-olausson/badges
 Ellen,,Egeld,5,/users/ellen-egeld.0508fffc/badges
 Susanna,,Persson,5,/users/susanna-persson/badges
-Heidi,,Housten,2,/users/heidi-housten/badges
 Emil,,Sjölander,5,/users/emil-sjolander/badges
 Erik,,Olsson,2,/users/erik-olsson.18a2c39e/badges
 Jakob,,Johansson,7,/users/jakob-johansson.9602948e/badges
