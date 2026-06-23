@@ -1,7 +1,7 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Oskar,Malte,Arden,3,/users/oskar-dorfler/badges
 Stefan,,Schmid,0,/users/sschmid/badges
-Pascal,,Stalder,1,/users/pascal-stalder/badges
+Pascal,,Stalder,0,/users/pascal-stalder/badges
 Antoine,,Combremont,2,/users/antoine-combremont/badges
 Zahhar,,Kirillov,1,/users/zahhar/badges
 Alberto,,Hernandez,4,/users/alberto-hernandez.506ad9c8/badges
@@ -11,7 +11,7 @@ Michele,,Blum,1,/users/micheleblum/badges
 Andres,,Duebi,1,/users/andres-duebi/badges
 Charlize,,Vogelsinger,1,/users/xyzcha/badges
 Silvana,,Cabellos,1,/users/silvana-cabellos.fc665e7e/badges
-Sanjay,,Singh,1,/users/san360/badges
+Sanjay,,Singh,0,/users/san360/badges
 Niccolò,,Quattropani,1,/users/niccolo-quattropani/badges
 David,,Schmid,1,/users/david-schmid.b2083e96/badges
 Lucas,,Martins,1,/users/lucas-martins.c9341fc0/badges
@@ -30,9 +30,9 @@ Oleksii,,Shcherbak,1,/users/oleksii-shcherbak/badges
 Adrian,,Neacau,1,/users/adrian-neacau/badges
 Philippe,,Bürgisser,1,/users/philippe-burgisser.0ad83487/badges
 Darren,,Glasper,1,/users/darren-glasper/badges
-Aymen,,Furter,2,/users/aymen-furter/badges
+Aymen,,Furter,0,/users/aymen-furter/badges
 Sven,,Lüders,1,/users/sven-lueders/badges
-Michael,,Montana,1,/users/michael-montana/badges
+Michael,,Montana,0,/users/michael-montana/badges
 Zi,,Ye,1,/users/zi-ye.a3e42646/badges
 Marcel Alexandre,,Fenerich,1,/users/marcel-alexandre-fenerich.e6fe2a74/badges
 Marc,,Rufer,2,/users/marc-rufer/badges
@@ -40,7 +40,7 @@ Ana,,Pedra,1,/users/ana-pedra/badges
 Benjamin,,O'Sullivan,4,/users/benjamin-o-sullivan/badges
 Matteo,,Zamori,1,/users/matteo-zamori/badges
 Aaron,,Ritter,2,/users/aaron-ritter.49a316a2/badges
-André,,Aebersold,1,/users/andre-aebersold/badges
+André,,Aebersold,0,/users/andre-aebersold/badges
 Daniel,,Rüegsegger,1,/users/daniel-ruegsegger/badges
 Philipp,,Rüegsegger,1,/users/philipp-ruegsegger/badges
 Tobias,,Kluge,1,/users/tobias-kluge.3876fd15/badges
