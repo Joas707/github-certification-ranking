@@ -1,13 +1,13 @@
 # � TOP 10 GitHub Certifications - Asia
 
-> Last updated: June 23, 2026 at 03:32 UTC
+> Last updated: June 24, 2026 at 03:33 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
 | 🥇 #1 | [Akshay Algeri](https://www.credly.com/users/akshay-algeri/badges) | 19 | Canarys Automations Limited | India |
-| 🥈 #2 | [Shankaragoud Biradar](https://www.credly.com/users/shankaragoud-biradar.23a05304/badges)<br>[Vinay C](https://www.credly.com/users/vinay-c.f7b7d8ef/badges) | 18 | Canarys Automations Limited<br>Canarys Automations Limited | India<br>India |
+| 🥈 #2 | [Shankaragoud Biradar](https://www.credly.com/users/shankaragoud-biradar.23a05304/badges) | 18 | Canarys Automations Limited | India |
 | 🥉 #3 | [Naveen Kunder](https://www.credly.com/users/naveenkunder/badges)<br>[Niranjana K](https://www.credly.com/users/niranjana-koni/badges)<br>[Sandeep Doddamani](https://www.credly.com/users/sandeep-doddamani/badges) | 17 | Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited | India<br>India<br>India |
 | #4 | [Kuldeep Saini](https://www.credly.com/users/kuldeep-saini.9be84ec9/badges)<br>[Nuthi Prathyusha](https://www.credly.com/users/nuthi-prathyusha/badges)<br>[Raghavendra Shirashyad](https://www.credly.com/users/raghavendra-shirashyad/badges) | 16 | Xebia<br>Canarys Automations Limited<br>Canarys Automations Limited | India<br>India<br>India |
 | #5 | [Adithya MS](https://www.credly.com/users/adithya-ms.f90708a6/badges)<br>[Mihir Kulkarni](https://www.credly.com/users/mihir-kulkarni.00d25bea/badges)<br>[Narasimha Kudva](https://www.credly.com/users/narasimha-kudva.d13f4b52/badges)<br>[Praveen Huliyappanavar](https://www.credly.com/users/praveen-huliyappanavar/badges)<br>[Rajesh C N](https://www.credly.com/users/rajesh-c-n/badges) | 15 | Canarys Automations Limited<br>XPT Software<br>Xebia<br>Canarys Automations Limited<br>Xebia | India<br>India<br>India<br>India<br>India |
@@ -23,9 +23,9 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Canarys Automations Limited | 414 | 33 |
+| 🥇 #1 | Canarys Automations Limited | 398 | 33 |
 | 🥈 #2 | Tata Consultancy Services | 178 | 106 |
-| 🥉 #3 | Accenture | 118 | 107 |
+| 🥉 #3 | Accenture | 116 | 106 |
 | #4 | Xebia | 73 | 6 |
 | #5 | EY | 67 | 61 |
 
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | India | 12167 | 10000 |
-| 🥈 #2 | Japan | 533 | 382 |
-| 🥉 #3 | Sri Lanka | 291 | 279 |
-| #4 | Singapore | 290 | 248 |
-| #5 | China | 234 | 222 |
+| 🥇 #1 | India | 12151 | 10000 |
+| 🥈 #2 | Japan | 530 | 381 |
+| 🥉 #3 | Sri Lanka<br>Singapore | 299 | 283<br>251 |
+| #4 | China | 233 | 221 |
+| #5 | Philippines | 199 | 179 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,150
-- **Total Badges Earned**: 14,718
+- **Total Certified Users**: 12,162
+- **Total Badges Earned**: 14,724
 - **Average Badges per User**: 1.21
 - **Highest Badge Count**: 19
 
