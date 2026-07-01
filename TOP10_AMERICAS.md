@@ -1,13 +1,13 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: June 30, 2026 at 03:35 UTC
+> Last updated: July 01, 2026 at 03:44 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 19 | Xebia | United States |
-| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges)<br>[Felipe Augusto](https://www.credly.com/users/felipementel/badges)<br>[Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 18 | Avanade<br>Avanade<br>Avanade<br>Avanade | Brazil<br>Brazil<br>Brazil<br>Brazil |
+| 🥇 #1 | [Barnes Chism](https://www.credly.com/users/barnes-chism/badges)<br>[Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 19 | Xebia<br>Avanade | United States<br>Brazil |
+| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges)<br>[Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 18 | Avanade<br>Avanade<br>Avanade | Brazil<br>Brazil<br>Brazil |
 | 🥉 #3 | [Evan Allen](https://www.credly.com/users/evan_allen/badges)<br>[Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges)<br>[Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 16 | Xebia<br>Avanade<br>Avanade | United States<br>Brazil<br>Brazil |
 | #4 | [Kaan Turgut](https://www.credly.com/users/hkaanturgut/badges)<br>[rich schwarz](https://www.credly.com/users/rich-schwarz/badges) | 15 | Lenovo<br>Xebia | Canada<br>United States |
 | #5 | [Andre Nunes](https://www.credly.com/users/andre-nunes.0d03ef9b/badges)<br>[Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges)<br>[Jânio Santos](https://www.credly.com/users/janio-santos-silva/badges)<br>[Leonardo Vizagre](https://www.credly.com/users/leonardo.vizagre/badges) | 14 | Avanade<br>Avanade<br>NTT DATA<br>Avanade | Brazil<br>Brazil<br>Brazil<br>Brazil |
@@ -23,8 +23,8 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Avanade | 280 | 42 |
-| 🥈 #2 | Microsoft | 188 | 96 |
+| 🥇 #1 | Avanade | 281 | 42 |
+| 🥈 #2 | Microsoft | 185 | 95 |
 | 🥉 #3 | GitHub | 82 | 29 |
 | #4 | Xebia | 75 | 7 |
 | #5 | Tata Consultancy Services | 50 | 28 |
@@ -35,18 +35,18 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United States | 3969 | 2817 |
-| 🥈 #2 | Brazil | 2041 | 1525 |
-| 🥉 #3 | Canada | 732 | 552 |
-| #4 | Mexico | 562 | 447 |
-| #5 | Peru | 497 | 416 |
+| 🥇 #1 | United States | 3983 | 2819 |
+| 🥈 #2 | Brazil | 2042 | 1525 |
+| 🥉 #3 | Canada | 726 | 550 |
+| #4 | Mexico | 555 | 445 |
+| #5 | Peru | 491 | 414 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,865
-- **Total Badges Earned**: 9,127
+- **Total Certified Users**: 6,856
+- **Total Badges Earned**: 9,108
 - **Average Badges per User**: 1.33
 - **Highest Badge Count**: 19
 
