@@ -2,9 +2,9 @@ first_name,middle_name,last_name,badge_count,profile_url
 Antonio,,Pérez Nicolás,1,/users/antonio-perez-nicolas/badges
 Martin,,Mihalik,1,/users/martin-mihalik/badges
 Martin,,Šenkýř,1,/users/martin-senkyr/badges
-Luky,,Zeleňák,1,/users/luky-zelenak/badges
+Luky,,Zeleňák,0,/users/luky-zelenak/badges
 Alex,,Šani,1,/users/alex-sani/badges
-Kristián,,Feješ,1,/users/kristian-fejes/badges
+Kristián,,Feješ,0,/users/kristian-fejes/badges
 Matej,,Karabinos,1,/users/matej-karabinos.f6fdab5f/badges
 Michal,,Mikusik,1,/users/michal-mikusik/badges
 Kristian,,Matasovsky,1,/users/kristian-matasovsky.348007aa/badges
@@ -30,5 +30,5 @@ Tomáš,,Baláž,1,/users/tomas-balaz.90b5f77a/badges
 Mário,,Uhrík,1,/users/mario-uhrik/badges
 Adam,,Felner,1,/users/adam-felner.64560856/badges
 Miroslav,,Adamy,1,/users/miroslav-adamy/badges
-Miroslav,,Merreider,1,/users/miroslav-merreider/badges
+Miroslav,,Merreider,0,/users/miroslav-merreider/badges
 Julius,,Skrisa,1,/users/julius-skrisa/badges
