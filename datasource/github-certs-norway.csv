@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Mohammadali,,Safaie,0,/users/mohammadali-safaie.08f5f82e/badges
-Kim Hieu,,Dang,0,/users/kim-hieu-dang/badges
+Mohammadali,,Safaie,6,/users/mohammadali-safaie.08f5f82e/badges
+Kim Hieu,,Dang,6,/users/kim-hieu-dang/badges
 Amit,,Sharma,1,/users/amit-sharma.c8c40fe6/badges
 Miriam,,Alvad,3,/users/miriam-alvad.cf6370f0/badges
 Daniel,,Russell Feather,1,/users/daniel-russell-feather/badges
@@ -29,13 +29,13 @@ Storm,,Villenfeldt Viken,1,/users/storm-villenfeldt-viken/badges
 Erlend,,Bygdås,3,/users/erlend-bygdas/badges
 Snorre,,Ledal,1,/users/snorre-ledal/badges
 Ronny,,Lønning,1,/users/ronny-lonning/badges
-Vegard,,Eikenes,0,/users/vegard-eikenes/badges
+Vegard,,Eikenes,3,/users/vegard-eikenes/badges
 Håvard,,Løkensgard,3,/users/havard-lokensgard/badges
 Erik Storås,,Sommer,3,/users/erik-storas-sommer/badges
 Thomas Iversen,,Ramm,1,/users/thomas-iversen-ramm/badges
 André,,Finstad,1,/users/andre-finstad/badges
 Julian,,Taaje,1,/users/julian-taaje/badges
-Ellert,,Hardarson,0,/users/ehardarson/badges
+Ellert,,Hardarson,2,/users/ehardarson/badges
 Robin,,Rognerud,1,/users/robin-rognerud.6f500fe4/badges
 Hans Kristian,,Hoel,2,/users/hans-kristian-hoel/badges
 Lucas,,Gether-Ronning,1,/users/lucas-gether-ronning/badges
@@ -58,7 +58,7 @@ Bezar,,Ghazi Hassan,1,/users/bezar-ghazi/badges
 Tommy,Duc,Luu,3,/users/tommy-duc-luu/badges
 Herman Sigstad,,Moen,1,/users/herman-sigstad-moen/badges
 Nikolai,,Kleppe,1,/users/nikolai-kleppe/badges
-Pranav,,Bhart,0,/users/pranav-bhart/badges
+Pranav,,Bhart,4,/users/pranav-bhart/badges
 Annika,,Luu,1,/users/annika-luu/badges
 Andreas,,Ahlgren,1,/users/andreas-ahlgren/badges
 Ask Rud,,Persson,1,/users/ask-rud-persson/badges
@@ -67,16 +67,16 @@ Rickard Hole,,Falck,1,/users/rickard-hole-falck.9c6a3194/badges
 Nicklas,,Dahl,1,/users/nicklas-dahl/badges
 Amar,,Licina,1,/users/amar-licina.350df9a7/badges
 Goran,,Radanovic,5,/users/goran-radanovic.21ae618f/badges
-Joakim,,Hval,0,/users/joakim-hval/badges
+Joakim,,Hval,2,/users/joakim-hval/badges
 Meron,,Ghebreselassie,1,/users/meron-ghebreselassie/badges
 Odd Harald,,Auglend,1,/users/odd-harald-auglend/badges
 Stig-Andre,,Holm,1,/users/stig-andre-holm/badges
-Vetle,,Kise,0,/users/vetle-kise/badges
+Vetle,,Kise,2,/users/vetle-kise/badges
 Jørund,,Holm Tangen,1,/users/jorund-holm-tangen/badges
 Giselle,,Linares,1,/users/giselle-linares/badges
 Arvinn,,Løkkebakken,1,/users/arvinn-lokkebakken/badges
 Marine,,Ramsdal,1,/users/marine-ramsdal/badges
-Ragnar Norbye,,Wien,0,/users/ragnar-norbye-wien/badges
+Ragnar Norbye,,Wien,2,/users/ragnar-norbye-wien/badges
 Matija,,Popovic,2,/users/matija-popovic.f9f5e621/badges
 Simon,,Opheim,1,/users/simon-opheim.f62d6577/badges
 Marthe,,Brevig,1,/users/marthe-brevig/badges
@@ -95,7 +95,7 @@ Meraj,,Mostamand Kashi,2,/users/meraj-mostamand-kashi/badges
 Kyrre Straume,,Haugland,1,/users/kyrre-straume-haugland/badges
 Jakob,,Tiller,1,/users/jakob-tiller/badges
 Marius,,Tjore,1,/users/marius-tjore/badges
-Thomas,,Tran,0,/users/thomas-tran.b76691c3/badges
+Thomas,,Tran,2,/users/thomas-tran.b76691c3/badges
 Lars Marius,,Ulsnes,1,/users/lars-marius-ulsnes/badges
 Song,,Luu,1,/users/song-luu.5f7ee028/badges
 kjartan,,madsen,2,/users/kjartan-madsen/badges
@@ -153,7 +153,7 @@ Håvard,,Årdal,1,/users/havard-ardal/badges
 Kapil,,Sharma,1,/users/kapil-sharma.d4c62ad9/badges
 Ali,,Aljumaili,1,/users/ali-aljumaili.e4524d0b/badges
 Joakim,Daniel,Andersson,1,/users/joakim-andersson.d6d7a224/badges
-Charles,,Derber,0,/users/charles-derber/badges
+Charles,,Derber,4,/users/charles-derber/badges
 Ali Asim,,Kazmi,1,/users/aliasimkazmi/badges
 Oskar,Fjørtoft,Marthinussen,1,/users/oskar-marthinussen/badges
 Ersan,,Sinani,1,/users/ersan-sinani/badges
@@ -164,7 +164,7 @@ TOR EIRIK,,ARNES,1,/users/tor-eirik-arnes/badges
 Martin,,Bergo,1,/users/martin-bergo/badges
 Tore Egil,,Sæterdal,2,/users/tore-egil-saeterdal/badges
 Simen,,Haga,1,/users/simen-haga/badges
-Atle,,Wiig-Fisketjøn,0,/users/atlewf/badges
+Atle,,Wiig-Fisketjøn,3,/users/atlewf/badges
 Mats,,Estensen,2,/users/matsest/badges
 Faisal,,Basra,1,/users/faisal.basra/badges
 Bastiaan,,Wassenaar,1,/users/baswas/badges
@@ -178,7 +178,7 @@ Trong Duc,,Truong,1,/users/trong-duc-truong/badges
 Walid,,Jurmy,1,/users/jurmy/badges
 Eskil,,Larsen,1,/users/eskil-larsen/badges
 Roy,,Veshovda,1,/users/roy-veshovda/badges
-Pål,,Sletsjøe,0,/users/pal-sletsjoe/badges
+Pål,,Sletsjøe,2,/users/pal-sletsjoe/badges
 Michael-Angelo,,Karpowicz,1,/users/michael-angelo-karpowicz/badges
 Magnus,,Grendar,1,/users/magnus-grendar/badges
 Tor Ivar,,Asbølmo,1,/users/tor-ivar-asbolmo/badges
