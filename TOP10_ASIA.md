@@ -1,6 +1,6 @@
 # � TOP 10 GitHub Certifications - Asia
 
-> Last updated: July 08, 2026 at 02:37 UTC
+> Last updated: July 09, 2026 at 02:55 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
@@ -15,7 +15,7 @@
 | #7 | [Akshay Hosur](https://www.credly.com/users/akshay-hosur/badges)<br>[Arpit Jere](https://www.credly.com/users/arpit-jere/badges)<br>[Praveen K Rugi](https://www.credly.com/users/praveen-rugi.9753a90e/badges) | 13 | Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited | India<br>India<br>India |
 | #8 | [Arindam Das](https://www.credly.com/users/arindam-das.b63d3f5f/badges)<br>[Balaji Sriramdas](https://www.credly.com/users/balaji-sriramdas/badges)<br>[Konkala Rajasekhar Reddy](https://www.credly.com/users/rajasekhar-reddy-konkala/badges)<br>[Priya Solanki](https://www.credly.com/users/priya-solanki.8042de6e/badges) | 12 | Xebia<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited | India<br>India<br>India<br>India |
 | #9 | [Akshay Kumar](https://www.credly.com/users/akshay-kumar.26f4470d/badges)<br>[Deepa Toravi](https://www.credly.com/users/deepa-toravi/badges)<br>[Dheeraj Kumar Sah](https://www.credly.com/users/dheeraj-sah.db746fda/badges)<br>[Emre Ozan Memis](https://www.credly.com/users/emre-ozan-memis/badges)<br>[Hoysala Garudanagiri](https://www.credly.com/users/hoysala-garudanagiri/badges)<br>[Saran Dhandapani Brindha](https://www.credly.com/users/saran-dhandapani-brindha/badges)<br>[Shaik Abedeen Asra](https://www.credly.com/users/abededeen-asra/badges)<br>[Thulsi Ram Vijaya Kumar](https://www.credly.com/users/thulsiramvijayakumar/badges) | 11 | Canarys Automations Limited<br><br>Canarys Automations Limited<br><br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Wipro Limited | India<br>India<br>India<br>Turkey<br>India<br>India<br>India<br>India |
-| #10 | [Bhavyashree SS](https://www.credly.com/users/bhavyashree-ss/badges)<br>[Karthick Manikandan](https://www.credly.com/users/karthick-manikandan.ac216814/badges)<br>[Meghana Prasad](https://www.credly.com/users/meghana-prasad.ccba07e8/badges)<br>[Nagaraj Bhairaji](https://www.credly.com/users/nagaraj-bhairaji/badges)<br>[Veerababu Mallavarapu](https://www.credly.com/users/veerababu-mallavarapu/badges)<br>[Vineet Kumar](https://www.credly.com/users/vineet-kumar.df01a9b4/badges) | 10 | Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br> | India<br>India<br>India<br>India<br>India<br>India |
+| #10 | [Karthick Manikandan](https://www.credly.com/users/karthick-manikandan.ac216814/badges)<br>[Meghana Prasad](https://www.credly.com/users/meghana-prasad.ccba07e8/badges)<br>[Nagaraj Bhairaji](https://www.credly.com/users/nagaraj-bhairaji/badges)<br>[Veerababu Mallavarapu](https://www.credly.com/users/veerababu-mallavarapu/badges)<br>[Vineet Kumar](https://www.credly.com/users/vineet-kumar.df01a9b4/badges) | 10 | Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br>Canarys Automations Limited<br> | India<br>India<br>India<br>India<br>India |
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Canarys Automations Limited | 416 | 33 |
+| 🥇 #1 | Canarys Automations Limited | 404 | 32 |
 | 🥈 #2 | Tata Consultancy Services | 178 | 106 |
 | 🥉 #3 | Accenture | 120 | 108 |
 | #4 | Xebia | 79 | 6 |
@@ -35,8 +35,8 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | India | 12180 | 9999 |
-| 🥈 #2 | Japan | 533 | 382 |
+| 🥇 #1 | India | 12177 | 9999 |
+| 🥈 #2 | Japan | 535 | 383 |
 | 🥉 #3 | Sri Lanka | 299 | 283 |
 | #4 | Singapore | 298 | 251 |
 | #5 | China | 234 | 222 |
@@ -45,8 +45,8 @@
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 12,182
-- **Total Badges Earned**: 14,783
+- **Total Certified Users**: 12,176
+- **Total Badges Earned**: 14,778
 - **Average Badges per User**: 1.21
 - **Highest Badge Count**: 19
 
