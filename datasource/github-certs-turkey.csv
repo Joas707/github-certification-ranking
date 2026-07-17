@@ -1,4 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Emrah,,Ozdemir,3,/users/ozdemiremrah/badges
 Emre Ozan,,Memis,11,/users/emre-ozan-memis/badges
 Askin,,Kilic,6,/users/askin-kilic/badges
 Metin,Sertac,Bayır,7,/users/metin-sertac-bayir/badges
@@ -11,7 +12,7 @@ Selen,,Demir,1,/users/selen-demir/badges
 Dalım,,Çepiç,1,/users/dalim-cepic/badges
 Ali,,Yilmaz,1,/users/ali-yilmaz.8d1d5aa8/badges
 bardia,,ramez,1,/users/bardia-ramez/badges
-Mohammad Soroush,,Masoum Beiki,0,/users/mohammad-soroush-masoum-beiki/badges
+Mohammad Soroush,,Masoum Beiki,1,/users/mohammad-soroush-masoum-beiki/badges
 Özel,,Tam,1,/users/ozel-tam/badges
 Halil İbrahim,,Kutmur,1,/users/halil-ibrahim-kutmur/badges
 Musa,,Bostanci,1,/users/musa-bostanci/badges
@@ -37,7 +38,7 @@ Hüsam,,Yıldırım,1,/users/husam-yildirim/badges
 Oğuzhan,,Güral,3,/users/oguzhan-gural/badges
 MUSTAFA,,SARI,1,/users/mustafa-sari.37a0be7a/badges
 Yiğit,,Güvenç,1,/users/yigit-guvenc/badges
-Mehmet Salih,,Yavuz,0,/users/mehmet-salih-yavuz.71b1bce8/badges
+Mehmet Salih,,Yavuz,1,/users/mehmet-salih-yavuz.71b1bce8/badges
 Talip,,Durmuş,1,/users/talip-durmus/badges
 MOSAB ABOIDREES ALTRAIFI,,YOUSIF,1,/users/mosab-aboidrees-altraifi-yousif/badges
 Dmitry,,Kolotsey,3,/users/dmitry-kolotsey/badges
@@ -53,7 +54,6 @@ mogahid,,gaffar,2,/users/mogahid-gaffar/badges
 Eyyüp,,TAZECAN,1,/users/eyyup-tazecan/badges
 Guray,,Cetin,1,/users/guray-cetin/badges
 Abdullah,,Celik,1,/users/abdullahcelik/badges
-Emrah,,Ozdemir,1,/users/ozdemiremrah/badges
 Tolunay,,Dündar,1,/users/tolunaydundar/badges
 Fırat,,OLÇUM,1,/users/firatolcum/badges
 Mehmet Burak,,CETIN,1,/users/mehmet-burak-cetin/badges

@@ -1,5 +1,5 @@
 first_name,middle_name,last_name,badge_count,profile_url
-Igor,,Lakhtenkov,0,/users/igor-lakhtenkov.81d2dd0a/badges
+Igor,,Lakhtenkov,3,/users/igor-lakhtenkov.81d2dd0a/badges
 Marko,,Sawall,1,/users/marko-sawall/badges
 Daniel,Richard,Snell,11,/users/daniel-snell.f7bc4ec8/badges
 Harald,,Binkle,5,/users/harald-binkle/badges
@@ -60,6 +60,7 @@ Dr. Matthias,,Liebeck,1,/users/matthias-liebeck/badges
 Niklas,,Düsenborg,1,/users/niklas-dusenborg/badges
 Matthias,,Lennips,1,/users/matthias-lennips/badges
 Simon,,Keßler,1,/users/simon-kessler.4331d5e5/badges
+Jacobo,,Azmani,1,/users/jacobo-azmani/badges
 Simon,,Pham,1,/users/simon-pham.11010294/badges
 Oliver,,Pürner,1,/users/oliver-purner/badges
 Marcus,,Fenner,2,/users/mfen/badges
@@ -158,7 +159,7 @@ Zohaib,,Hassan,1,/users/zohaib-hassan.f13845b2/badges
 Tobias,,Klingenberg,1,/users/tobias-klingenberg/badges
 Marvin,,Kohlmann,1,/users/marvin-kohlmann.ddaa1b90/badges
 Maximilian,,Schnieder,1,/users/maximilian-schnieder/badges
-Yuriy,,Varshavskyy,0,/users/yuriy-varshavskyy/badges
+Yuriy,,Varshavskyy,4,/users/yuriy-varshavskyy/badges
 Zhinoo,,Zobairi,1,/users/zhinoo-zobairi/badges
 Maik,,Mursall,2,/users/maik-mursall/badges
 Razvan,,Tataru,1,/users/razvan-tataru.3565dc2a/badges
