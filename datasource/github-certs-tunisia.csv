@@ -1,9 +1,9 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Aziz,,Amari,1,/users/aziz-amari.ca1ebf50/badges
 Chemam,Mohamed,Bechir,1,/users/chemam-bechir/badges
-Karim,,Razgallah,0,/users/karim-razgallah/badges
+Karim,,Razgallah,1,/users/karim-razgallah/badges
 Melki,,Mohamed Aziz,1,/users/melki-mohamed-aziz/badges
-amine,,hamdi,0,/users/amine-hamdi.f96b5e3a/badges
+amine,,hamdi,1,/users/amine-hamdi.f96b5e3a/badges
 randa,,maghraoui,1,/users/randa-maghraoui/badges
 Ammar,,Mohamed Amine,1,/users/ammar-mohamed-amine/badges
 Firas,,Boudhraa,1,/users/firas-boudhraa/badges
@@ -46,7 +46,7 @@ M'hiri,,Arij,1,/users/m-hiri-arij/badges
 sofien,,meftahi,1,/users/sofien-meftahi.89021a1a/badges
 Mohamed Ali,,Lafi,1,/users/mohamed-ali-lafi.bffb4dbf/badges
 Nour,,Ben aissa,1,/users/nour-ben-aissa/badges
-Jaafar,,Harabi,1,/users/jaafar_harabi/badges
+Jaafar,,Harabi,0,/users/jaafar_harabi/badges
 yasmine,,chebbi,1,/users/yasmine-chebbi.64abfbb7/badges
 Kais,,Bouafif,1,/users/kais-bouafif.923b6f03/badges
 Iheb,,MANSOURI,1,/users/iheb-mansouri/badges
