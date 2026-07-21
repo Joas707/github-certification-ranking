@@ -1,13 +1,13 @@
 # 🗽 TOP 10 GitHub Certifications - Americas
 
-> Last updated: July 20, 2026 at 02:53 UTC
+> Last updated: July 21, 2026 at 02:35 UTC
 
 ## 🏆 Top 10 GitHub Certifications Leaders
 
 | Rank | Name | Badges | Company | Country |
 |------|------|--------|---------|---------|
-| 🥇 #1 | [Felipe Augusto](https://www.credly.com/users/felipementel/badges) | 20 | Avanade | Brazil |
-| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Barnes Chism](https://www.credly.com/users/barnes-chism/badges)<br>[Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 19 | Avanade<br>Xebia<br>Avanade | Brazil<br>United States<br>Brazil |
+| 🥇 #1 | [Renan Evangelista Pereira](https://www.credly.com/users/renan-evangelista-pereira/badges) | 20 | Avanade | Brazil |
+| 🥈 #2 | [Andre Dias](https://www.credly.com/users/andredias/badges)<br>[Barnes Chism](https://www.credly.com/users/barnes-chism/badges) | 19 | Avanade<br>Xebia | Brazil<br>United States |
 | 🥉 #3 | [David Daniels](https://www.credly.com/users/daviddaniels/badges)<br>[Diego Giglioli](https://www.credly.com/users/diego-giglioli.bb64eaa5/badges) | 18 | <br>Avanade | United States<br>Brazil |
 | #4 | [Evan Allen](https://www.credly.com/users/evan_allen/badges)<br>[Joao Pedro Alexandre Vieira](https://www.credly.com/users/joao-pedro-alexandre-vieira/badges)<br>[Kaan Turgut](https://www.credly.com/users/hkaanturgut/badges)<br>[Matheus Barros](https://www.credly.com/users/matheus-barros.1892a132/badges) | 17 | Xebia<br>Avanade<br>Lenovo<br>Avanade | United States<br>Brazil<br>Canada<br>Brazil |
 | #5 | [Clayton Rodrigues Souza](https://www.credly.com/users/clayton-souza/badges) | 16 | Avanade | Brazil |
@@ -23,8 +23,8 @@
 
 | Rank | Company | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | Avanade | 294 | 41 |
-| 🥈 #2 | Microsoft | 183 | 95 |
+| 🥇 #1 | Avanade | 279 | 41 |
+| 🥈 #2 | Microsoft | 188 | 96 |
 | 🥉 #3 | GitHub | 83 | 29 |
 | #4 | Xebia | 76 | 7 |
 | #5 | Tata Consultancy Services | 50 | 28 |
@@ -35,19 +35,19 @@
 
 | Rank | Country | Total Badges | Certified Users |
 |------|---------|--------------|-----------------|
-| 🥇 #1 | United States | 3998 | 2821 |
-| 🥈 #2 | Brazil | 2070 | 1524 |
+| 🥇 #1 | United States | 3962 | 2816 |
+| 🥈 #2 | Brazil | 2057 | 1524 |
 | 🥉 #3 | Canada | 735 | 552 |
-| #4 | Mexico | 562 | 447 |
-| #5 | Peru | 492 | 414 |
+| #4 | Mexico | 552 | 445 |
+| #5 | Peru | 478 | 411 |
 
 ---
 
 ## 📊 Statistics
 
-- **Total Certified Users**: 6,867
-- **Total Badges Earned**: 9,185
-- **Average Badges per User**: 1.34
+- **Total Certified Users**: 6,844
+- **Total Badges Earned**: 9,086
+- **Average Badges per User**: 1.33
 - **Highest Badge Count**: 20
 
 ---
