@@ -1,6 +1,6 @@
 first_name,middle_name,last_name,badge_count,profile_url
 Hieu,,Nguyen,1,/users/hieu-nguyen.116aa54b/badges
-HIEP,THANH,NGUYEN,0,/users/hiep-thanh-nguyen/badges
+HIEP,THANH,NGUYEN,1,/users/hiep-thanh-nguyen/badges
 Son,,Dang,2,/users/son-dang.tb/badges
 Giau,,Le,2,/users/giau-le/badges
 Linh,,Bui,1,/users/linbhui/badges
@@ -40,7 +40,7 @@ Tung,,Tran,1,/users/tung-tran.e5b220b5/badges
 An,Nguyen Truong,Pham,1,/users/anpham/badges
 Manh,,Nguyen,1,/users/manh-nguyen.669601e9/badges
 Tuấn,,Trần Văn,1,/users/tu-n-tr-n-van.351844c2/badges
-Minh,,Nguyen,0,/users/minh-nguyen.6555e288/badges
+Minh,,Nguyen,1,/users/minh-nguyen.6555e288/badges
 Duc Hung,,Luu,1,/users/duc-hung-luu.00576bf2/badges
-Tam,,Ninh,0,/users/tam-ninh/badges
-Tan,,Ly,0,/users/tan-ly/badges
+Tam,,Ninh,3,/users/tam-ninh/badges
+Tan,,Ly,1,/users/tan-ly/badges

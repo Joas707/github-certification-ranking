@@ -1,8 +1,9 @@
 first_name,middle_name,last_name,badge_count,profile_url
+Suhas,,Patil,3,/users/suhas-patil.73d23ddf/badges
 Jessica,,Chavez Ruiz,3,/users/jessica-chavez-ruiz.1bf5de96/badges
 Eric,,Söderqvist,5,/users/eric-soderqvist/badges
 Heidi,,Housten,3,/users/heidi-housten/badges
-Erik,,Hjalmarsson,5,/users/erik-hjalmarsson/badges
+Erik,,Hjalmarsson,0,/users/erik-hjalmarsson/badges
 Magnus,,Timner,11,/users/magnus-timner.ddd6329c/badges
 Tobias,,Persson,4,/users/tobias-persson.f7d26f37/badges
 Mathias,,Olausson,3,/users/mathias-olausson/badges
@@ -31,7 +32,6 @@ Muhammad,,Alshakarti,1,/users/muhammad-alshakarti.efad4db5/badges
 Nirmala,,Periyasamy,1,/users/nirmala-periyasamy/badges
 Kalle,,Lilja,2,/users/kalle-lilja/badges
 Mikael,,Andersson,1,/users/mikael-andersson.6ec8df0e/badges
-Suhas,,Patil,2,/users/suhas-patil.73d23ddf/badges
 Jamie,,Blomerus,1,/users/jamie-blomerus/badges
 Anton Elia August,,Lövgren,1,/users/anton-elia-august-lovgren/badges
 Magdalena,,Glinkowska,1,/users/magdalena-glinkowska/badges
@@ -67,7 +67,7 @@ Panteleimon,,Santorinios,1,/users/panteleimon-santorinios/badges
 Stefan,,Petrovic,3,/users/stefan-petrovic.6ac93836/badges
 Andrey,,Markelov,1,/users/andrey-markelov.8212a7bf/badges
 Carl Johan,,Adolfsson,2,/users/carl-johan-adolfsson/badges
-Digvijay,,Chauhan,5,/users/digvijay-chauhan/badges
+Digvijay,,Chauhan,0,/users/digvijay-chauhan/badges
 Anas,,Mofleh,2,/users/anas-mofleh/badges
 Stefan,,Petrovic,2,/users/stefan-petrovic.0e0ca725/badges
 Andreas,,Kahlroth,3,/users/andreas-kahlroth/badges
